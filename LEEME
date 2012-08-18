@@ -1,0 +1,4 @@
+Compilar:
+
+pdflatex novela.tex
+pdflatex novela.tex
