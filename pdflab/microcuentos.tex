@@ -10,28 +10,39 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
+\usepackage[titles]{tocloft}
+
+
 \newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
 
 \title{Microcuentos 1}
 \author{Juanjo Conti}
 \date{}
 
-\hyphenation{per-te-ne-cien-tes}
-\hyphenation{ín-di-ce}
-\hyphenation{co-ra-zón}
-\hyphenation{via-je-ro}
-\hyphenation{vi-kin-go}
-\hyphenation{a-tra-ve-só}
-\hyphenation{dio-ses}
-\hyphenation{fe-rry}
-\hyphenation{ca-mi-nan-do}
-\hyphenation{e-le-va-do}
-\hyphenation{ba-ta-lla}
-\hyphenation{ber-me-llón}
-\hyphenation{bo-te-llas}
-\hyphenation{pro-ta-go-nis-ta}
-\hyphenation{ar-chi-pié-la-go}
-\hyphenation{li-bre-rí-a}
+\hyphenation{co-me-mos}
+\hyphenation{co-lo-ra-dos}
 
 \begin{document}
 
@@ -61,11 +72,17 @@ La primera vez que nos tocamos fue hace más de quinientos años en una playa en
 \addcontentsline{toc}{chapter}{El hombre que soñó con su gato}
 
 Un hombre terminó de cenar, lavó los platos y sacó su gato al patio, para luego irse a dormir.
+
 Mientras dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
 Mientras soñaba que dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
 Mientras soñaba que soñaba que dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
 Mientras soñaba que soñaba que soñaba que dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
 La secuencia se repitió 100 veces durante la noche.
+
 Cuando se despertó a la mañana siguiente, casi se desmaya cuando vio lo que había en la cocina.
 
 \chapter*{Se despertó}
@@ -77,6 +94,12 @@ Se despertó en el medio de la noche abrazado a su esposa. Se puso las pantuflas
 \addcontentsline{toc}{chapter}{Fantasmas}
 
 Unos niños fantasmas me señalaron y gritaron "¡un fantasma!".
+
+\chapter*{La invención}
+\addcontentsline{toc}{chapter}{La invención}
+
+
+Tenemos el agrado de presentar esta invención la cual permite, ante un atentado o tragedia a gran escala, viajar en el tiempo para impedirla. Lamentablemente, desde su creación, no tuvimos ocasión de utilizarla.
 
 \part*{Calle}
 \addcontentsline{toc}{part}{Calle}
@@ -113,7 +136,20 @@ Una cola de casi una cuadra ante el semáforo. Se acerca un pibe y me limpia el 
 El gigante luminoso se pone verde, avanzamos despacio, casi a los empujones. No hay lugar. Cuando estoy a punto de cruzar se vuelve a poner en rojo.
 
 El limpiavidrios vuelve a aparecer escondido atrás de una sonrisa de sin dientes y esta vez lo deja limpio.
-
 Me vuelve a cobrar.
+
+\chapter*{El motor}
+\addcontentsline{toc}{chapter}{El motor}
+
+Una noche de verano, en un tugurio guadalupano, David le da un larguísimo beso a una jarra de fernet para luego decir: "definitivamente el baile existe sólo gracias a la mujer, si fuera por el hombre, ni la palabra baile existiría".
+
+Lo miré un rato, tratando de levantar la apuesta de filosofía barata. Golpee una pata de la mesa con los zapatos de goma y completé: "no existirían ni las palabras".
+
+\chapter*{Cocción de un huevo}
+\addcontentsline{toc}{chapter}{Cocción de un huevo}
+
+Escapé una noche bajo el manto sepulcral que forman las nubes antes de que una tormenta se desate. Descalzo, corrí kilómetros hasta que llegué a una casa de campo. A unos metros, pude encontrar un gallinero. Abrí la puerta y me metí. Las gallinas gritaron, pero nadie las escuchó. Pude hacerme con un puñado de huevos colorados que aún no habían sido recogidos. Me senté detrás del gallinero apoyando la espalda contra una pared vieja y sucia, llena de telas de arañas. Tenía los pies cortados y ardidos. Escarbé en el bolsillo en busca del encendedor; al fin de cuentas, ya no tenía cigarrillos. Tomé un huevo por la parte superior, con las llemas de los dedos de mi mano izquierda y con la mano derecha accioné el mecanismo que generó el fuego. Lo sostuve así varios minutos, hasta que se puso negro y el calor cortante me alcanzó. Lo solté para volver a sostenerlo del otro lado. Uno se acostumbra al dolor que produce el calor, si se de a poco. Para cuando me pareció que el huevo estaba cocido, tenía todos los dedos llenos de ampollas y casi no podía sostenerlo. Tuve que romperlo con un pié y comermelo solo usando la boca, como los animales.
+
+El siguiente huevo me lo comí crudo.
 
 \end{document}
