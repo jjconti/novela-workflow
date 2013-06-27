@@ -1,0 +1,207 @@
+\documentclass[11pt,twoside,openright,a6paper]{book}
+
+\usepackage[a6paper]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+
+
+\title{Leer bajo receta}
+\author{Juanjo Conti}
+\date{}
+
+\hyphenation{per-te-ne-cien-tes}
+\hyphenation{ín-di-ce}
+\hyphenation{co-ra-zón}
+\hyphenation{via-je-ro}
+\hyphenation{vi-kin-go}
+\hyphenation{a-tra-ve-só}
+\hyphenation{dio-ses}
+\hyphenation{fe-rry}
+\hyphenation{ca-mi-nan-do}
+\hyphenation{e-le-va-do}
+\hyphenation{ba-ta-lla}
+\hyphenation{ber-me-llón}
+\hyphenation{bo-te-llas}
+\hyphenation{pro-ta-go-nis-ta}
+\hyphenation{ar-chi-pié-la-go}
+\hyphenation{li-bre-rí-a}
+\hyphenation{em-pe-za-ba}
+\hyphenation{a-cos-tar-me}
+
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica. 2013.\\
+La tapa de este libro es material reciclado.
+
+\vspace{0.5cm}
+
+\noindent
+\emph{Leer bajo receta} lleva la licencia 
+Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Unported License.
+Esto significa que podés compartir esta obra y crear obras derivadas de la misma
+mencionando al autor, pero no ha\-cer un uso comercial.
+
+\vfill
+
+\noindent
+Más información sobre este libro:\\
+http://www.juanjoconti.com.ar/cuentos4\\
+
+\noindent
+Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{Leer bajo receta}\\
+está dedicado a Mary y Pitu,\\
+que formaron familia este año,\\
+y me consiguieron el material\\
+para las tapas recicladas\\
+de la primer edición.}
+\end{flushright}
+
+\cleardoublepage
+
+\renewcommand*\contentsname{Índice}
+
+\tableofcontents
+
+\chapter*{Prólogo}
+%\addcontentsline{toc}{chapter}{Prólogo}
+
+Siguiendo la línea de \emph{Leer con moderación}, este librito reúne cuentos cortos, la mayoría muy cortos, envueltos en una tapa reciclada que le da nombre al conjunto.
+
+\emph{Vidas} es el más viejo, lo empecé a escribir una noche en el departamento de Guadalupe cuando ya no vivía ahí y quedó abandonado hasta hace poco.
+
+\emph{La caja} es el mas extenso y es el resultado de un ejercicio realizado el año pasado en el taller literario \emph{El brillo de la palabra}. Para el cuento, elegí como escenario mi viaje a Suecia del año 2010 y es casi una historia verídica.
+
+El resto son microcuentos escritos en los últimos meses. \emph{Ciudades} está inspirado en una charla entre Claudia Piñeiro y el arquitecto Navarro. Principalmente en palabras del segundo.
+
+\chapter*{Banco}
+\addcontentsline{toc}{chapter}{Banco}
+
+Estimado cliente, hoy a las once horas realizaremos un simulacro de robo.
+
+Releí el cartel y luego miré mi reloj. Cinco para las once. No lo tenía planeado pero decidí aprovechar la ocasión. Saqué el arma y disparé al techo. Todo el mundo al suelo, esto es un asalto.
+
+\chapter*{Libros marcados}
+\addcontentsline{toc}{chapter}{Libros marcados}
+
+La casa de la señora estaba llena de libros de su difunto marido con marcas de las tazas que les apoyaba encima. Para ella la literatura era menos importante que los muebles.
+
+\chapter*{Vidas}
+\addcontentsline{toc}{chapter}{Vidas}
+
+En la cima de un cerro, Jacinto toca el bombo y canta una canción de lamento. La madera contra el cuero repiquetea y el canto es casi un quejido, un suplicio, cuyo eco rebota en la quebrada. Jacinto, casi en trance, toca y canta una canción sin saber que él mismo la compuso cien años atrás, cuando tenía otro nombre y otro cuerpo. Pero lo realmente asombroso es que el cuero de cerdo con el que está hecho el bombo que Jacinto toca fue su piel, en otra vida, en otro tiempo.
+
+\chapter*{25}
+\addcontentsline{toc}{chapter}{25}
+
+Después de una larga noche de trabajo el viejo volvió a su casa, miró bajo el arbolito y no encontró ningún regalo. Arrastrando las pesadas botas negras caminó hasta el sillón y se dejó caer. Se sacó el gorro rojo y lo dejó sobre la mesita ratona. El pompón blanco colgaba.
+
+\chapter*{La caja}
+\addcontentsline{toc}{chapter}{La caja}
+
+La historia transcurrió en Suecia, en la ciudad de Gotemburgo. Era domingo y agujas de agua caían infinitas sobre la metrópolis. Empezaba a descubrir que la lluvia era una constante en aquella ciudad.
+
+Estaba encerrado en lo que por esos días me servía de morada, un caserón de madera pintada de un color entre gris y celeste ubicado en un barrio impronunciable sobre una calle de similar dicción. Yo hojeaba a desgano una edición completa y ampliada de La guía del autoestopista galáctico que había conseguido por unas pocas coronas en una librería de libros usados en el centro. Sí, en Suecia también hay librerías de libros usados. ¿Quién lo diría?
+
+El sistema de transporte público en esa ciudad es genial.  A diez metros de la puerta de calle me tomé un bus al centro. Con el mismo boleto, en el centro, me tomé un tranvía hasta el puerto. Y en el puerto, todavía sin volver a pagar, me tomé un ferry que recorría las islas del archipiélago.
+
+Me bajé en la última de las islas. Algunas personas bajaban sus bicicletas. Caminé por un sendero que se internaba en un bosque en el corazón del islote. La calzada estaba cada vez más desdibujada y los árboles a sus costados insistentemente frondosos. Las sombras entraban en la luz y, en cierto momento, me encontré con una oscuridad total. Apreté con las manos las tiras de mi mochila para darme seguridad y seguí caminando. No podía sacarme la sensación de que alguien me observaba. De repente, el camino se abrió en un claro de luz. Cuando estuve a campo abierto, no supe muy bien dónde me encontraba, no veía el puerto y unas nubes de plomo se apoderaban del cielo.
+
+Un lugareño apareció detrás mío en el mismo sendero. Me dijo unas palabras en sueco y, ante mi perplejidad, intentó en inglés. El hombre vivía en la isla desde hacía 40 años aunque, una vez a la semana, iba a trabajar a la ciudad. Consultor de algún tipo, creo recordar que le entendí. Me invitó a tomar café en su cabaña. Miré las nubes en el cielo, se dibujaban amenazantes. Miré la hora en mi reloj; el último ferry de regreso pasaba en dos horas. Cierto mantra de la niñez que versaba sobre desconocidos atravesó el tiempo como una flecha y me resonó en los oídos. Me encogí de hombros y acepté la invitación.
+
+La cabaña estaba hecha de troncos de pino y, aunque acogedora a la vista, dudaba qué tan efectiva sería para resistir a los crudos inviernos que azotaban a esa zona, tan cercana al círculo polar.
+
+George, que así era como se llamaba el hombre, encendió la hornalla de una cocina con un fósforo y lo sopló con pesadez antes de tirarlo a la basura. Unos minutos más tarde estaba tomando el mejor café que tomé en mi vida. Llevábamos charlando varios minutos sobre el acontecimiento del mes preferido de todos los habitantes de aquel país, la boda real, cuando a mi interlocutor, a quién se lo notaba contentísimo de poder practicar su inglés, se le ocurrió mostrarme algo. Lo entendí más por el dedo índice que levantó a la vez que abría exageradamente la boca que por sus esfuerzos en la lengua de Shakespeare. Menos de una centena de segundos más tarde, estaba de vuelta con una cajita metálica.
+
+Depositó el artilugio frente a mí, sobre la mesita ratona que nos acompañaba. George me miraba divertido. Pude observar distintos glifos que la atravesaban. Los reconocí como pertenecientes al alfabeto rúnico, sin poder descifrar una sola palabra.“¿Qué es?”, pregunté.
+
+El hombre se puso de pie y recitó una poesía en el idioma de sus antepasados. Le pedí que me la traduzca y, haciendo un gran esfuerzo, me contó una historia sobre dioses y vikingos, objetos mágicos y barcos que volaban, una doncella y una competencia por su amor.
+
+Loki, me contó, el más astuto de los dioses, había puesto sus ojos sobre una muchacha que estaba a punto de casarse con uno de los más bravos vikingos de cierto poblado. La deidad se le aparecía tomando distintas formas y le hacía maravillosos regalos a fin de caerle en gracia. Cuando su prometido se enteró de esto, entró en cólera y exigió la presencia de Loki, el dios de las travesuras. Éste se presentó ante él y le ofreció una forma de dirimir quién se quedaría con el corazón de la señorita; una carrera en barco hasta cierta isla: el primero en alcanzar la costa sería el vencedor. El vikingo aceptó sin vacilar y al día siguiente se llevó a cabo la competencia.
+
+Loki, que también era conocido como el viajero del cielo, se presentó con un barco que en lugar de navegar por el mar, surcaba el aire. La disputa dio comienzo tras el sonido de un gran cuerno soplado por la propia muchacha. El vikingo empezó a remar con todas sus fuerzas, transpirando y jadeando, mientras que Loki iba muy tranquilo en su embarcación mágica, esperándolo cada vez que le sacaba un buen trecho para poder propinarle una burlona carcajada. La pugna estaba por llegar al final y se veía que el vikingo no podría llegar antes que Loki. Fue entonces que tomó su hacha, se cortó una mano y, con todas las fuerzas que le quedaban, la arrojó hasta la orilla.
+
+Loki, que nunca acepta una derrota, enfurecido, mató a la doncella y puso la mano en un cofre de metal. Se lo entregó al vikingo y lo condenó a vivir por siempre.
+
+Miré mi reloj. El último ferry salía en cinco minutos. Me incorporé abruptamente. George me acompañó a la puerta y le extendí la mano para saludarlo y agradecerle la historia. Recién en ese momento lo noté. El frío de esa prótesis ortopédica me heló la sangre.
+
+\chapter*{Ciudades}
+\addcontentsline{toc}{chapter}{Ciudades}
+
+La ciudad es un organismo vivo, formado por células. Crece. Algunas células mueren. Son las casas, edificios e iglesias que van mutando, adaptándose. Si la función para la que un edificio fue construído deja de existir, se reinventa hasta que más no puede y ahí explota, dando lugar a una nueva célula, o dos.
+
+El damero de la ciudad, traído por los conquistadores, antes usado por los romanos, antes ideado por los griegos, forma una cuadrícula imperfecta que se transforma día a día y en el mismo terreno, la misma celda, la misma célula, donde había una ermita, hoy hay una sinagoga y mañana habrá una iglesia.
+
+Son los palimpsestos de las ciudades los que hoy estudiamos. Historias escritas en piedra sobre piedra. Historias escritas sobre otras historias.
+
+
+\chapter*{Barba}
+\addcontentsline{toc}{chapter}{Barba}
+
+El 19 de diciembre de 1994, antes de acostarme, me miré en el espejo del baño. En el reflejo, un hombre con una barba frondosa, arbórea, selvática, me miraba. Los pelos se extendían en infinitas ramificaciones oscuras que me cubrían todo el rostro, dejando, apenas, ver los ojos. Ojos pardos y barba negra con algún destello rojizo. Me lavé los dientes y me acosté.
+
+Cuando me desperté al otro día y fui al baño a lavarme la cara, un rostro rasurado, lustroso, brillante, me encandilaba desde el reflejo. Ya no había ni barba negra, ni destello rojizo. Sin embargo, el recuerdo del día anterior, con el rostro lobuno, estaba muy vivo en mi memoria. ¿Lo habría soñado? ¿Me habría despertado sonámbulo a rasurarme? Si hubiese sido al revés, podría concluir que estuve dormido varios meses, pero no fue así. ¿O sí? Estas y otras cosas me pregunté esa mañana. Recuerdo bien la fecha porque ese día cumplí 10 años.
+
+\chapter*{Se despertó}
+\addcontentsline{toc}{chapter}{Se despertó}
+
+Se despertó en el medio de la noche abrazado a su esposa. Se puso las pantuflas y caminó hasta el baño. Cuando regresó, se vio durmiendo abrazado a su esposa. Por no despertarse, se fue a dormir al sofá.
+
+%new page
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+
+%\chapter*{Fantasmas}
+%\addcontentsline{toc}{chapter}{Fantasmas}
+
+%Unos niños fantasmas me señalaron y gritaron "¡un fantasma!".
+
+\end{document}
