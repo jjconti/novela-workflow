@@ -1,0 +1,112 @@
+\documentclass[12pt,twoside,openright,a5paper]{book}
+
+\usepackage[a6paper]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 1pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 1pt}% original: 40pt
+
+
+\title{Los captores del Tiempo}
+\author{Juanjo Conti}
+\date{}
+
+\hyphenation{per-te-ne-cien-tes}
+\hyphenation{ín-di-ce}
+\hyphenation{co-ra-zón}
+\hyphenation{via-je-ro}
+\hyphenation{vi-kin-go}
+\hyphenation{a-tra-ve-só}
+\hyphenation{dio-ses}
+\hyphenation{fe-rry}
+\hyphenation{ca-mi-nan-do}
+\hyphenation{e-le-va-do}
+\hyphenation{ba-ta-lla}
+\hyphenation{ber-me-llón}
+\hyphenation{bo-te-llas}
+\hyphenation{pro-ta-go-nis-ta}
+\hyphenation{ar-chi-pié-la-go}
+\hyphenation{li-bre-rí-a}
+\hyphenation{des-co-no-ci-dos}
+\hyphenation{car-cel}
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica. 2013.\\
+La tapa de este libro es material reciclado.
+
+\vspace{0.5cm}
+
+\noindent
+\emph{Los captores del Tiempo} lleva la licencia 
+Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Unported License.
+Esto significa que podés compartir esta obra y crear obras derivadas de la misma
+mencionando al autor, pero no ha\-cer un uso comercial.
+
+\vfill
+
+%\noindent
+%Más información sobre este libro:\\
+%http://www.juanjoconti.com.ar/cuentos3\\
+
+\noindent
+Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{Los captores del tiempo}\\
+está dedicado a mis papás,\\
+Raúl y Susana,\\
+que me enseñaron a leer.
+}
+\end{flushright}
+
+\cleardoublepage
+
+\renewcommand*\contentsname{Índice}
+
+\tableofcontents
+
+\input{losCaptoresDelTiempo_novela.tex}
+
+\end{document}
