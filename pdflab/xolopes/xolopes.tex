@@ -1,0 +1,459 @@
+\documentclass[11pt,twoside,openright,a6paper]{book}
+
+\usepackage[a6paper]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+
+
+\title{Xolopes}
+\author{Juanjo Conti}
+\date{}
+
+\hyphenation{per-te-ne-cien-tes}
+\hyphenation{ín-di-ce}
+\hyphenation{co-ra-zón}
+\hyphenation{via-je-ro}
+\hyphenation{vi-kin-go}
+\hyphenation{a-tra-ve-só}
+\hyphenation{dio-ses}
+\hyphenation{fe-rry}
+\hyphenation{ca-mi-nan-do}
+\hyphenation{e-le-va-do}
+\hyphenation{ba-ta-lla}
+\hyphenation{ber-me-llón}
+\hyphenation{bo-te-llas}
+\hyphenation{pro-ta-go-nis-ta}
+\hyphenation{ar-chi-pié-la-go}
+\hyphenation{li-bre-rí-a}
+\hyphenation{em-pe-za-ba}
+\hyphenation{a-cos-tar-me}
+\hyphenation{re-co-rrer}
+\hyphenation{ma-yas}
+\hyphenation{re-po-llo}
+\hyphenation{per-dien-do}
+\hyphenation{me-tros}
+\hyphenation{di-si-mu-lar}
+
+
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica. 2013.\\
+La tapa de este libro es material reciclado.
+
+\vspace{0.5cm}
+
+\noindent
+\emph{Xolopes} lleva la licencia 
+Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Unported License.
+Esto significa que podés compartir esta obra y crear obras derivadas de la misma
+mencionando al autor, pero no ha\-cer un uso comercial.
+
+\vfill
+
+\noindent
+Más información sobre este libro:\\
+http://www.juanjoconti.com.ar/xolopes\\
+
+\noindent
+Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{Xolopes}\\
+está dedicado a ...
+}
+\end{flushright}
+
+\cleardoublepage
+
+
+\vspace{1.5cm}
+Conté una ficción en lugar de la realidad para proteger a las personas.
+
+
+\vspace{1.5cm}
+Algunos un día antes no saben a dónde van a viajar. Entran a un sitio en Internet, elijen la mejor oferta, manejan hasta el aeropuerto y buen viaje. Otros, más previsores, nos pasamos tres meses mirando mapas y tenemos el viaje pagado hace cinco.
+
+
+\vspace{1.5cm}
+SFE
+
+ROS
+
+EZE
+
+MEX
+
+CUN
+
+PLA
+
+
+\vspace{1.5cm}
+¿Hostel o All inclusive? Hay ocasiones en las que los términos medios parecen no existir. O frío o caliente, a los tibios los escupiré de mi boca, me citaba a Jesús un amigo Testigo de Jehová cada vez que me ponía duditativo entre ir o no a jugar a la pelota.
+
+Pero sí, me voy a un All inclusive. Y me consuelo solo, así ya tengo resuelto el tema de la comida, una cosa menos en la que pensar.
+
+
+\vspace{1.5cm}
+Auto, bondi o transporte, de una forma u otra, todos llegamos al aeropuerto. Una vez ahí, a armarse de paciencia. Esperar que el vuelo aparezca en las pantallas, que no esté retrasado, ir al mostrador, despachar las valijas, ¿no me habré excedido en el peso? 16 kg, me sobró lugar. Luego a esperar nuevamente, preembarque, embarque y ahora sí. Estoy sentado dentro del avión. Una mole de miles de toneladas de acero alrededor mío. Yo sentado en un reducto ínfimo, incómodo. Miro para los costados y los demás parecen estar en otro mundo. Algunos juegan con sus teléfonos, otros miran la pantalla o leen una revista. ¿Cómo pueden estar tan tranquilos? ¿No se dan cuenta de que en menos de un minuto el capitán va a encender los motores o ya los tiene encendidos pero los va a utilizar y vamos a pasar todos de estar en la seguridad de tierra firma a estar en la nebulosa, en un limbo? Ahí pasó una azafata y me pidió que me ajuste el cinturón y ponga derecho mi asiento. Me empiezan a transpirar las manos. El avión se ubica en la punta de la pista de despegue. Empieza a carretear. No puedo evitar sentirme en el lomo de un pterodáctilo que corre por las pista. Aguanto la respiración. Repaso las oraciones de un rosario como si quisiera ametrallar al pelado de adelante con mis palabras. El corazón me late. Y ahora, de un momento para otro, dejo de sentir el rugoso asfalto bajo las ruedas del avión que ya se han despegado y lentamente, imagino, vuelven a formar parte de la mole de acero. Suena una campanita y se apaga el cartel luminoso que indicaban que nadie se podía levantar. Hemos pasado los 10000 metros de altura, anuncia el capitán.
+
+
+\vspace{1.5cm}
+Where are you from, girls?
+
+Argentina.
+
+Where is that, somewhere in Mexico?
+
+
+\vspace{1.5cm}
+Vas caminando por un bosque oscuro, sentís una presencia a tu espalda y en lugar de darte vuelta empezás a correr y a correr. Te tropezás, caés, te levantás y seguís corriendo. La presencia atrás se hace cada vez más presente. Adelante ves un precipicio, no tenes tiempo siquiera para pensarlo, seguís corriendo hasta que saltás. Mientras caés te despertás. Estás en el asiento del avión. Otra vez te dormiste y otra vez te despertaste. Miras el relor, es la tercera vez en la última hora. Notás movimiento unas filas más adelante, un hombre grande y rubio se mueve  como si lo estuvieran electrocutando. Las personas de los asientos contigues le levantan asustadas. Más movimiento. Una azafata te pasa por al lado corriendo. Escuchás al capitán preguntar si hay un médico a bordo. El viejito sentado dos lugares más allá se levanta. Ahora el hombre rubio está tirado en el piso del avión, alguien le practica técnicas de reanimación. Ahora ves como arrastran al hombre rubio hasta detrás de unas cortinas.
+
+
+\vspace{1.5cm}
+Lo lindo de tomar excursiones es que te sale más caro que si vas por tu cuenta, te buscan a las 7 am pero hasta las 10 no dejan la ciudad (hay que buscar al resto de los excursionistas) y una vez en el destino no tenés tiempo de recorrer tranquilo porque el guía te va ametrallando datos que no vas a recordar a la salida del lugar. No.
+
+
+\vspace{1.5cm}
+De Wikipedia, la enciclopedia libre: \emph{Chichén Itzá (maya: (Chichén) Boca del pozo; de los (Itzá) brujos de agua) es uno de los principales sitios arqueológicos de la península de Yucatán, en México, ubicado en el municipio de Tinum, en el estado de Yucatán.}
+
+
+\vspace{1.5cm}
+Volvés a escuchar la voz del capital. Les habla su capitán, hay una persona descompuesta y no estamos pudiendo ayudarla por lo que vamos a lanzar el combustible al mar y aterrizar en Recife. Sentís la fuerza del avión regresando. Media hora después aterrizan. Más movimiento. No pasan cinco minutos cuando volvés a oír al capital. Les habla su capitán, lamentablemente tengo que informarles que el pasajero murió.
+
+
+\vspace{1.5cm}
+Pasó una hora y el clima en el avión es tenso. Te preguntás qué mierda estará pasando cuando volvés a escuchar la voz del capitán. Les habla su capitán, tengo que informarles que se ha encontrado cocaína en las pertenencias del pasajero y la policía local no nos permite continuar el viaje hasta realizar los peritajes necesarios en el avión. Ves a un padre con su bebé en brazos a las puteadas. Lo mandan a primera clase, igual que hicieron con los que estaban en la misma fila que el hombre rubio. Suben oficiales de policía al avión, sacan fotos al asiento del pasajero muerto, toman muestras y por último se llevan la funda del asiento. Pasan dos horas más y el capitán anuncia que aún no han conseguido combustible para reponer el volcado en el océano. Es probable que tengan que dejar el avión, pasar la noche en un hotel y continuar al día siguiente. Un brasileño se ríe. Es que, te cuenta, Brasil le exige visa a los norteamericanos igual que Estados Unidos le exige visa a los brasileños. Los van a hacer renegar un buen rato, te dice.
+
+
+\vspace{1.5cm}
+Les habla su capitán, les informo que hemos podido reabastecernos del combustible necesario para continuar el viaje, en cuarenta minutos iniciaremos el despegue. Ya pasaron seis horas desde el aterrizaje y es de noche. La mayoría de los pasajeros están dormidos y vos, desvanecido, te dormís cuando el avión está despegando.
+
+
+\vspace{1.5cm}
+El Folha de Brasil informa. Africano muere durante vuelo con 104 cápsulas de cocaína en el estómago.  El sudafricano Louis Hendrik Smith, de 34 años murió esta tarde durante un vuelo entre Argentina y México, supuestamente por sobredosis de cocaína.
+Según la Policía Federal, Smith había ingerido 1,7 kg de droga, divididos en 104 cápsulas. Una de ellas, con cerca de 16 g de sustancia, se rompió en el estómago del pasajero.
+
+Luego de un aterrizaje de emergencia, el pasajero fue atendido por dos médicos pero estos no pudieron hacer nada porque ya estaba muerto.
+
+Las autoridades policiales retiraron el equipaje del pasajero del avión y liberaron a los restantes 308 pasajeros y 17 tripulantes para que continúen su viaje a las 12 de la noche.
+Según la superintendencia de la Policía Federal, todo indicaría que la víctima compró e ingirió la droga en Argentina.
+
+
+\vspace{1.5cm}
+La zona arqueológica de Chichén Itzá fue inscrita en la lista del Patrimonio de la Humanidad por la Unesco en 1988. El 7 de julio de 2007, fue reconocida como una de las Las nuevas siete maravillas del mundo moderno, por una iniciativa privada sin el apoyo de la Unesco, pero con el reconocimiento de millones de votantes alrededor del mundo.
+
+
+\vspace{1.5cm}
+One dollar. Vengo caminando desprevenido y ataca un vendedor.
+
+No hay plata. Lo corto en seco y sigo caminando.
+
+¿Argentino? Mitad de precio. Algo para la suegra. Un recuerdito. Me grita para que lo escuche.
+
+No se lo merece. Me doy vuelta y contesto.
+
+El tipo sonríe mostrando los dientes que le faltan y remata. También tenemos cuchillos.
+
+
+\vspace{1.5cm}
+En el último grupo que traje había un hombre que me mostraba contento unas monedas que le habían dado de cambio en uno de los puestos de artesanías. Dolares maya, le dijeron. 1 dolar americano, 1 dolar maya. Eran Quetzales, la moneda de Guatemala. Tengan cuidado.
+
+
+\vspace{1.5cm}
+Chica, elija el que le gusta, el chico paga.
+
+
+\vspace{1.5cm}
+Esto es obsidiana. Piedra volcánica. Los mayas la obtenían a través del comercio con otros pueblos. Tiene propiedades energéticas. Toquenla, toquenla. Vean como se vuelve dorada al sol. Yo tengo una de estas en mi casa dentro de un recipiente con agua para que atrape las energías negativas. En luna llena tienen que cambiar el agua.
+
+Los reyes la usaban como ornamenta por su belleza y los guerreros como punta de flecha por su dureza. Hoy es usada en los centros de belleza para hacer masajes y se hacen cuchillas de obsidiana para usar en cirugías de ojo o corazón porque su filo es mucho más delgado que el de los escalpelos de acero. Los cortes hechos con las cuchillas de obsidiana son más finos y causan menos daño al tejido permitiendo que el cuerpo sane antes. ¿Cuantas van a llevar? 50 dólares las grandes, 10 dólares las más chicas.
+
+
+\vspace{1.5cm}
+¿Cuál le gusta? Buen precio. Más barato de este lado. ¿Habla español? Le hago un descuento si habla español. ¿España?
+
+No.
+
+¿Portugal?
+
+No.
+
+¡Argentina! Amigos de Francisco.
+
+
+\vspace{1.5cm}
+Una mañana vimos un chancho corriendo por la playa, paralelo a la línea del mar. Bueno, paralelo y línea son formas de decirle a las curvas en movimiento que va describiendo el agua sobre la arena. Es un movimiento oscilatorio, senoidal casi te podría decir. Es que soy profe de matemáticas y siempre estoy buscando nuevos ejemplos para los chicos. Bueno, te decía que una mañana vimos un chancho pasar corriendo. Y atrás, no me lo vas a creer, blandiendo la hoja metálica de su cuchilla, el cocinero del hotel.
+
+
+\vspace{1.5cm}
+¿A qué hora hay gente en la recepción?
+
+Se fueron a las 20 pero a las 22 empieza otro turno.
+
+
+\vspace{1.5cm}
+En la playa. En la playa no hay Doctor Mora, escribano Peretti o ingenieron Smith. Ese gordito que ves corriendo en patas hasta llegar al agua y se tira de pansa pudo haber estado la semana pasada haciendo una operación a corazón abierto en el Cullen. El flaco huesudo que se pone protector solar factor 40 en todo el cuerpo, con un sombrero pescador, caminando en puntitas de pie para no quemarse con la arena pudo haber cerrado un negocio millonario entre dos empresa. Ese que salta y remata pero deja la pelota contra la red en el volley playero puede ser un empleado de Microsoft en sus vacaciones. O no.
+
+Alguien en una reposera, en lugar de mirar la playa, sostiene ante sus ojos un libro rojo con una bicicleta en las tapa. Lee la columna Cuando calienta el sol del libro El equilibrio de Pedro Mairal.
+
+
+\vspace{1.5cm}
+Esta noche las constillitas de cerdo están menos grasosas que ayer. Pasame otra.
+
+
+\vspace{1.5cm}
+23:30 hs. Hola, ¿recepción? Hablo de la habitación 42. Te quería preguntar si tendrias una frazada extra para mandarme. Ah... acabás de entregar las últimas dos... bueno, tendría que haber llamado más temprano. Gracias.
+
+
+\vspace{1.5cm}
+La primera vez que escuche el nombre Playa del Carmen me imaginé a un montón de viejas gordas con malla enteriza tiradas en la arena. Con ese nombre no pude hacer otra cosa que pensar en mi tía. Carmen.
+
+
+\vspace{1.5cm}
+Cancún. Can-Cun, dos palabras maya. El guía nos hablaba despacio como si no habláramos todos español. Can es nido y cun serpiente. Cancún, nido de serpientes. No lo repitan en sus países. No suena bien para el turismo.
+
+
+\vspace{1.5cm}
+Las comunidades Maya que pueden ver al costado de los ruta aún conservan muchas de sus costumbres. Por ejemplo, duermen en hamacas en lugar de en camas. Esto es porque son más frescas y por los bichos. Usan la hamaca para todo, para dormir, descansar, reproducirse... Es la famosa hamaca de San Andrés, donde se acuestan dos y amanecen tres.
+
+
+\vspace{1.5cm}
+En la biblioteca junto a la piscina hay unos doscientos libros.
+Una señora repasa los títulos moviendo los labios, impronunciables.
+
+Yo tampoco encontré ninguno en español.
+
+Es que esos libros son regalos de huéspedes para los otros huéspedes, interviene el muchacho que cambia las toallas, y como buenos latinos ninguno regala nada.
+
+Vuelva a buscar mañana señora, que voy a dejar uno mío.
+
+Se refiere a uno escrito por él, aclara mi esposa y me sonrojo.
+
+Lo va a distinguir fácil, porque es finito.
+
+¿Y qué escribís?, se interesa el marido de la señora.
+
+Cuentos.
+
+Ah... hay que tener imaginación para eso.
+
+No tanta, me la paso recogiendo voces de otros.
+
+
+\vspace{1.5cm}
+Todas las mañanas a las 9:15 hs los miembros del equipo de animación del hotel se aparecen por el comedor donde se está sirviendo el desayuno, toman un plato, lo cargan de fruta y se sientan a desayunar con algunos de los huéspedes. Charlan amigablemente en español, inglés, alemán o francés.
+
+Una señora que come sola y con quien no se ha sentado nadie en toda la semana resopla y se le escucha decir, despechada, les pagan para eso.
+
+
+\vspace{1.5cm}
+Hola, para reservar está noche en uno de los restaurantes temáticos. El Hacienda, ese es el de carne argentina, ¿no?
+
+
+\vspace{1.5cm}
+Paseando con su camiseta de la selección Argentina de fútbol se jacta de gran regateador por haber pagado dos dólares por un imán que le ofrecían a cinco y pagó sesenta por un estuche impermeable para la cámara de fotos que se lleno de agua del mar Caribe en la primer inmersión.
+
+
+\vspace{1.5cm}
+Hansel y Gretel. 300 kg entre los dos. Socios vitalicios del bar de la piscina. Cómo ballenas encalladas, destinadas a morir en la orilla, nunca cruzaron los metros de arena que los separaban del mar. Es que estamos de vacaciones, dijo ella.
+
+
+\vspace{1.5cm}
+Mónica, sentada en la arena, escribió unos versos: Tengo el sol de Cozumel en mi espalda. / Tengo el mar Caribe en mis oídos. / El agua turquesa que me baña. / Los granos de arena que no son míos.
+
+
+\vspace{1.5cm}
+Los cortes de carne vacuna que se pueden encontrar en una carnicería argentina y que un argentino usaría para preparar un asado son, aunque no se limitan a, costilla, marucha, falda, matambre. Cuando nos sentamos a comer en el comedor llamado Hacienda nos ofrecieron T-Bone y Rib Eye Steak. Me quedé mirando.
+
+Es que son cortes americanos para barbacoa, nos dijo el amable mozo.
+
+La guarnición por excelencia es la ensalada de lechuga y tomate. Por supuesto, otras ensaladas son también muy bien recibidas, zanahoria y huevo duro, tomate y huevo duro, repollo, achicoria. En el plato que me sirvieron había una papa de dudosa cocción, un cuarto de choclo y una cebolla frita.
+
+Después de media hora esquivando la brecha cultural me fui al buffet y me comí media pizza.
+
+
+\vspace{1.5cm}
+Cozumel. Rent a car.
+
+¿Cuál es el más barato?
+
+Este, el Chevy rojo. ¿Les gusta? ¿Tiene carnet de conducir y tarjeta de crédito? Muy bien, cuando regresan de dar la vuelta a la isla le llenan el tanque de gasolina.
+
+
+\vspace{1.5cm}
+Ahí hay una estación de servicio, frena.
+
+¿Cuanto le echamos?
+
+Llenalo, pero no tanto, es para devolverlo.
+
+...
+
+Che, van 200 pesos ya, córtalo porque me dijeron que iba a gastar 100 en dar la vuelta a la isla. Lo enciendo a ver si ya marca lleno. Todavía no, no puede ser...
+
+
+\vspace{1.5cm}
+¿Qué es ese charco abajo del auto?
+
+Le falla la bomba señor.
+
+¿Del agua?
+
+No, la bomba, la bomba, está mal su máquina, está perdiendo gasolina.
+
+
+\vspace{1.5cm}
+Sáquelo de aquí.
+
+Y... ¿es seguro encenderlo?
+
+Pues no, pero no puede dejarlo aquí perdiendo. Lléveselo, lléveselo.
+
+
+\vspace{1.5cm}
+De Wikipedia, la enciclopedia libre: \emph{La ciudad recibía en la antigüedad el nombre maya de Zamá (que significa en maya amanecer) y el actual, Tulum (que significa en maya muralla), que parece haber sido utilizado para referirse a la ciudad cuando ya se encontraba en ruinas.}
+
+
+\vspace{1.5cm}
+Taxi.
+
+¿Cuánto sale de acá a Tulum?
+
+La cartilla dice 505 pesos, pero yo los llevo por 450. 
+
+Precio para Xolopes, acotó el taxista por lo bajo.
+
+¿Qué te dijo? No se, 450 pesos, un regalo. Vamos, vamos.
+
+
+\vspace{1.5cm}
+¿Hay muchos accidentes?
+
+Solo cuando llueve. Está carretera fue reparada, pero la que viene no. Es de concreto hidráulico. Patina. Está es de asfalto. Cuando se moja es como gramilla.
+
+
+\vspace{1.5cm}
+A la vuelta llueve. Bienvenido a la pista de patinaje.
+
+
+\vspace{1.5cm}
+Otro día en la playa con el cuaderno, después de flotar por horas en el agua, Mónica escribe: Floto / boca arriba en las aguas / profundas. / O floto / boca abajo / en el cielo celeste.
+
+
+\vspace{1.5cm}
+Soy México reza el cartel del parque más visitado y el actor que posa, vestido como maya, dando un caderazo en medio de un tradicional juego es pelota, es guatemalteco.
+
+
+\vspace{1.5cm}
+Carretera 307. Carretera principal. El cinturón de seguridad salva vidas, úselo. Snorkel 500  m. Retorno 1 km. Carril izquierdo solo para rebasar. Maneje con precaución, su familia lo espera. Compre lotes en Tulum, desde 500 metros cuadrados.
+
+
+\vspace{1.5cm}
+Ninguna cámara va a capturar lo que ves con los ojos, así que dejá de sacar fotos y ponete a mirar.
+
+
+\vspace{1.5cm}
+¿De donde sos?
+
+Israel.
+
+¿Y qué estás escribiendo?
+
+Con una pronunciación que no podía disimular su origen nos contestó. Anoto mis pensamientos. Es mucho mejor que las fotos. Necesito recordar lo que siendo en este momento porque es todo muy lindo.
+
+
+\vspace{1.5cm}
+Podemos acortar camino por acá. Lo que no está prohibido está permitido.
+
+
+\vspace{1.5cm}
+Vamos a descansar un rato porque todavía tenemos que caminar del dicho al hecho.
+
+
+\vspace{1.5cm}
+El mirador.
+
+Don Cafeto.
+
+Playa de los pescadores.
+
+Playa paraíso.
+
+Basta, no camino más.
+
+
+\vspace{1.5cm}
+Pansa arriba tirado en la arena de Playa Paraíso esperaba que mi esposa se vista en uno de los baños. Diez años de casados y para festejar me la traje a la bruja al Caribe. Dejamos a los chicos con una tía y emprendimos el viaje. En eso estaba pensando cuando se me acercan dos señoritas vestidas con túnicas negras y las cartas tapadas. Musulmanas o algo así y con señas me piden que les saque una foto con su teléfono. Perdido me quedé mirando en la pantalla la sopa de letras en glifos árabes. Cuando levante la cabeza di un salto para atrás. En el lugar donde estaban las mujeres de Alá ahora había tremendo par de mujeres en bikini frotándose en contra de una palmera. Ahí entendí el verdadero sentido de la frase: liberación a través del Corán. Cuando mi mujer salió del baño las turcas me tiraban besitos en agradecimiento. No me volvió a hablar hasta que pisamos suelo argentino. No voy más a México.
+
+
+\vspace{1.5cm}
+Y entonces ves pasar una parejita cargando sus bolsos y caés en la inevitable, fatídica, insoslayable, infernal realidad de que vos también en uno, dos, a lo sumo siete días, vos también te vas a tener que ir. Y volver el lunes a prepárale informes a Fernández.
+
+
+\vspace{1.5cm}
+Y pensar que hay gente que llega y nosotros nos vamos. Si pudiera. Si pudiera vencer la timidez y acercarme a hablarles. Decirles que apaguen el celular, que dejen de leer las noticias. Política. Economía. Que se desconecten de todo eso que los está contaminando y que por una semana o dos, lo que les dure la estadía, solo se dediquen a descansar, a compartir con su familia y a disfrutar de sus vacaciones, cómo yo no hice. Maldito localizador satelital que me manda reportes y estadísticas de la oficina cada media hora. 
+
+Entonces me decidió y voy. Voy a hablarles. Me explayo, gesticulo, grito. Ellos me miran. Vuelvo fracasado, son alemanes y no me entienden ni jota.
+
+
+\vspace{1.5cm}
+Ahí está el transfer. Disculpe, ¿donde pega menos el aire?
+
+Atrás. ¿Se enfermó?
+
+No, soy asmática. Si puede ponerlo no muy fuerte, le agradezco.
+
+Cebollina. Es como la cebolla blanca pero en miniatura. Aquí se usan las hojas picaditas como complemento de una comida típica, el mondongo. Mi hijita tenía ese demonio y una comadre la ayudó. Bueno, tiene que agarrar dos cebollinas, la parte que está debajo de la tierra, picarla, hacer un té y tomarlo frío. Mi hija tenía asma, ahora tiene trece años y no volvió a tener problemas. Pruébelo, se va a acordar de mí.
+
+
+\vspace{1.5cm}
+Conté la realidad en lugar de una ficción para proteger a los personajes.
+
+
+
+\end{document}
