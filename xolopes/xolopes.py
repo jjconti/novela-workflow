@@ -3,7 +3,10 @@ import os
 def getAsTexContent(fileName):
     fileContent = open(fileName + '.txt', 'r').read()
     return '''
-\\vspace{1.5cm}
+\\vspace{0.5cm}
+\\hrulefill\\hspace{0.2cm} \\decofourleft\\decofourright \\hspace{0.2cm} \\hrulefill
+\\vspace{0.5cm}
+
 ##CONTENT##
 '''.replace('##CONTENT##', fileContent)
 
