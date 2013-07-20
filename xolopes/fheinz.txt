@@ -1,3 +1,14 @@
+\hyphenation{ca-ri-be}
+\hyphenation{su-pues-to}
+\hyphenation{si-llón}
+\hyphenation{se-ñas}
+\hyphenation{in-su-pe-ra-ble}
+\hyphenation{li-mi-tó}
+\hyphenation{a-gra-da-ble}
+\hyphenation{la-ti-no-a-me-ri-ca-no}
+\hyphenation{quie-nes}
+\hyphenation{mar-tín}
+\hyphenation{co-la-te-ra-les}
 Hace unos años leí esta historia en un post en el blog de Fede Heiz,
 ¿lo tenés? el de barba y pelo largo. Bueno, te decía que me acordé de
 esta historia, te la paso porque te puede server para la novela:

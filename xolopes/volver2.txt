@@ -1,4 +1,6 @@
-\hyphenation{ti-mi-dez} Y pensar que hay gente que llega y nosotros
+\hyphenation{ti-mi-dez}
+\hyphenation{a-pa-guen}
+Y pensar que hay gente que llega y nosotros
 nos vamos. Si pudiera. Si pudiera vencer la timidez y acercarme
 a hablarles. Decirles que apaguen el celular, que dejen de leer las
 noticias. Política. Economía. Que se desconecten de todo eso que los está
