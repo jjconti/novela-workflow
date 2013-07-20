@@ -1,5 +1,5 @@
-En el almuerzo, el tema del hombre que apareció muerto en la playa ya
-era vox populi y se habían elaborado al menos diez hipótesis diferentes
+En el almuerzo, el tema del hombre que apareció muerto en la playa ya era
+\emph{vox populi} y se habían elaborado al menos diez hipótesis diferentes
 acerca de lo que le había pasado: robo y muerte con arma blaca, borracho
 dormido comida de animales salvajes, atropellado y abandonado, asesinado
 en otro lugar y dejado ahí para despistar a la polocía, y algunas otras
