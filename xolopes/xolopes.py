@@ -1,6 +1,9 @@
 import os
 
 def getAsTexContent(fileName):
+    if fileName.startswith('#'):
+        return ''
+    fileName = fileName.strip('?')
     fileContent = open(fileName + '.txt', 'r').read()
     return '''
 \\vspace{0.5cm}
