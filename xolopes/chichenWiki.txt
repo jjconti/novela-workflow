@@ -1,4 +1,4 @@
-De Wikipedia, la enciclopedia libre: \emph{Chichén Itzá (maya: (Chichén)
+Leído en Wikipedia: \emph{Chichén Itzá (maya: (Chichén)
 Boca del pozo; de los (Itzá) brujos de agua) es uno de los principales
 sitios arqueológicos de la península de Yucatán, en México, ubicado en
 el municipio de Tinum, en el estado de Yucatán.}

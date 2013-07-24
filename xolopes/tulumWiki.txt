@@ -1,4 +1,4 @@
-De Wikipedia, la enciclopedia libre: \emph{La ciudad recibía en la
+Leído en Wikipedia: \emph{La ciudad recibía en la
 antigüedad el nombre maya de Zamá (que significa en maya amanecer) y
 el actual, Tulum (que significa en maya muralla), que parece haber sido
 utilizado para referirse a la ciudad cuando ya se encontraba en ruinas.}
