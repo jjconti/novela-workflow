@@ -1,11 +1,1 @@
-SFE
-
-ROS
-
-EZE
-
-MEX
-
-CUN
-
-PLA
+SFE - ROS - EZE - MEX - CUN - PLA
