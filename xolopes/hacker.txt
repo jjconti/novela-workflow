@@ -1,0 +1,22 @@
+InfoMex. Noticias de Internet. Todos los que vamos de vacaciones a hoteles
+cinco estrellas hemos utilizado las tarjetas magnéticas que permiten
+abrir y cerrar las puertas de los cuartos y les hemos confiado nuestra
+intimidad. Después de leer el artículo que salió en la revista Forbes,
+la paranoia y desconfianza se apoderará de más de un lector viajero. En
+el artículo se cuenta la historia de un hacker que puede abrir la puerta
+de cada una de las habitaciones de la mayoría de los hoteles en minutos
+y con un equipo que no cuesta más de 50 dólares.
+
+Según el experto en seguridad informática Cody Brocious, si el sistema
+de puertas del hotel está conectado a la red eléctrica, él puede abrir
+cualquier puerta usando un dispositivo basado en una mini computadora llamada
+Arduino. El aparato que construyó es capáz de abrir cinco millones de
+habitaciones en todo el mundo.
+
+El aparato funciona como si fuera una de las tarjetas que el hotel entrega
+y abre todas las puertas que utilicen ese tipo de cerradura. Consigue su
+objetivo porque el código necesario para abrir una puerta se encuentra
+tanto en la tarjeta de los huéspedes como en la cerradura. El invento de
+Brocious lee la memoria de la cerradura y luego un programa es capaz de
+abrirla. El hacker tiene 24 años y ha presentado su descubrimiento en la
+conferencia Blackhat.
