@@ -5,3 +5,10 @@ Cozumel. Rent a car.
 Este, el Chevy rojo. ¿Les gusta? ¿Tiene carnet de conducir y tarjeta de
 crédito? Muy bien, cuando regresan de dar la vuelta a la isla le llenan
 el tanque de gasolina.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.9\textwidth]{fotos/2013/auto}
+  \caption{Chevy rojo en Cozumel}
+  \label{Chevy rojo en Cozumel}
+\end{figure}

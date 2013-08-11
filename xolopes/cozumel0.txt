@@ -1,0 +1,9 @@
+Nos despertamso el domingo y llovía. Caminamos hata la avenida central
+con la idea de tomarnos el ferry a la isla y nos dijeron que como estaba
+el clima no nos convenía. Al otro día había sol.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.9\textwidth]{fotos/2012/ferry}
+  \caption{Ferry} \label{Ferry}
+\end{figure}

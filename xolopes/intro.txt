@@ -11,3 +11,10 @@ robé. Me metí en la piel de todas estas personas y, como un psicópata
 que usa el pellejo de su víctima como tapado, me paseé con un atuendo
 que era su atuendo, con una mirada que era su mirada, diciendo palabras
 que eran sus palabras.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.9\textwidth]{fotos/2013/iguana}
+  \caption{Iguana}
+  \label{Iguana}
+\end{figure}

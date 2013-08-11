@@ -1,4 +1,12 @@
-\hyphenation{gor-di-to} En la playa no hay Doctor Mora, escribano Peretti
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.9\textwidth]{fotos/2012/playaDelCarmen}
+  \caption{Playa del Carmen}
+  \label{Playa del Carmen}
+\end{figure}
+
+\hyphenation{gor-di-to}
+En la playa no hay Doctor Mora, escribano Peretti
 o ingeniero Zimmerman. Ese gordito que ves corriendo en patas hasta llegar
 al agua y se tira de panza pudo haber estado la semana pasada haciendo una
 operación a corazón abierto en el Hospital Cullen. El flaco huesudo que se

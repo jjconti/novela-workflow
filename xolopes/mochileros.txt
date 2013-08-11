@@ -1,3 +1,10 @@
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.9\textwidth]{fotos/2013/mochila}
+  \caption{Mochilas}
+  \label{Mochilas}
+\end{figure}
+
 \hyphenation{in-sig-ni-fi-can-te}
 \hyphenation{re-cep-cio-nis-tas}
 \hyphenation{be-ach}
