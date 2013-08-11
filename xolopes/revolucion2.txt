@@ -1,0 +1,22 @@
+\hyphenation{pro-pues-to}
+\hyphenation{eu-ro-pe-os}
+\hyphenation{tu-ris-tas}
+\hyphenation{pro-pues-tas}
+Bitácora de la revolución. Día 2. El comandante a cargo de las fuerzas de
+la cocina a propuesto la siguiente estrategia (que si bien no es integral,
+porque no resuelve el problema de la jornada laboral, apunta a solucionar
+el problema del sueldo): sustraer día a día, cuales hormigas amazónicas,
+raciones de comida para armar platos que luego venderemos a los turistas
+cuando estén en sus excursiones fuera del hotel. La almirante Rosita
+(la recamarera del módulo 9) señaló que los turistas norteamericanos
+y europeos son muy reacions a comprar comida en la calle. La estrategia
+podría funcionar con los turistas sudamericanos, en especial bolivianos
+y peruanos, pero:
+
+\begin{enumerate}
+\item Son pocos en compración con los gringos.
+\item Queremos dolares o euros, no bolivianos o soles.
+\end{enumerate}
+
+Sin embargo, la junta máxima decidió no descartar la idea y dejarla en
+suspenso. A verificar por una comición si no surgen nuevas propuestas.
