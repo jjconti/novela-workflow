@@ -1,0 +1,9 @@
+La ciudad de Villadolid, por ejemplo, 
+fue construída con piedas robadas a monumentos Maya.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.9\textwidth]{fotos/2012/villadolid}
+  \caption{Villadolid}
+  \label{Villadolid}
+\end{figure}
