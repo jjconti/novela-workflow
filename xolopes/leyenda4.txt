@@ -1,3 +1,8 @@
+\hyphenation{so-li-ci-ta-ran}
+\hyphenation{pue-blos}
+\hyphenation{des-pués}
+\hyphenation{so-li-ci-ta-ran}
+\hyphenation{des-pués}
 {\em Un día la gente dejó de ver a Xtabay y las habladurías dijeron
 que había ido a otros pueblos a ofrecer su amor a los hombres que lo
 solicitaran. Sus vecinos no tardaron en darse cuenta de que un dulce aroma
