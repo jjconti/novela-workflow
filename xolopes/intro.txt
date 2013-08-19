@@ -1,4 +1,5 @@
 \hyphenation{pres-tar}
+\hyphenation{ge-o-gra-fí-a}
 ¿Qué vas a encontrar en este libro? Este libro recoge un puñado
 de historias que tienen, en su mayoría, lugar en la península de
 Yucatán. Más precisamente en la fracción de esa geografía dedicada a

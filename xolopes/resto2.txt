@@ -1,4 +1,6 @@
 \hyphenation{aun-que}
+\hyphenation{ma-tam-bre}
+\hyphenation{co-me-dor}
 Los cortes de carne vacuna que se pueden encontrar en una carnicería
 argentina y que un argentino usaría para preparar un asado son, aunque
 no se limitan a, costilla, marucha, falda, matambre. Cuando nos sentamos

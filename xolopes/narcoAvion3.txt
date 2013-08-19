@@ -1,5 +1,6 @@
 \hyphenation{bra-si-le-ño}
 \hyphenation{e-xi-ge}
+\hyphenation{via-je}
 Pasó una hora y el clima en el avión es tenso. Te preguntás qué mierda
 estará pasando cuando volvés a escuchar la voz del capitán. Les habla
 su capitán, tengo que informarles que se ha encontrado cocaína en las

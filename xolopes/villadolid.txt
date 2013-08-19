@@ -1,5 +1,6 @@
+\hyphenation{ma-ya}
 La ciudad de Villadolid, por ejemplo, 
-fue construída con piedas robadas a monumentos Maya.
+fue construída con piedas robadas a monumentos maya.
 
 \begin{figure}[H]
   \centering

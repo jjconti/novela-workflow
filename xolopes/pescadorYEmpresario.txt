@@ -3,6 +3,7 @@
 \hyphenation{jue-go}
 \hyphenation{o-ri-lla}
 \hyphenation{res-pon-dió}
+\hyphenation{de-di-ca-ba}
 Esta historia la leí una vez en un libro, una vez me la contaron y dos
 veces la viví. Cambian las nacionalidades y las profesiones, pero la idea
 es la misma. Cierto es que cuando la viví por segunda vez, sonreí tanto

@@ -1,5 +1,6 @@
 \hyphenation{des-cu-bran}
 \hyphenation{trans-pi-ra-das}
+\hyphenation{por-que}
 Maia.
 
 ¿Sí?

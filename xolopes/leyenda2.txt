@@ -1,3 +1,7 @@
+\hyphenation{a-pa-re-ció}
+\hyphenation{di-fe-ren-tes}
+\hyphenation{a-ban-do-na-do}
+\hyphenation{hi-pó-te-sis}
 En el almuerzo, el tema del hombre que apareció muerto en la playa ya era
 \emph{vox populi} y se habían elaborado al menos diez hipótesis diferentes
 acerca de lo que le había pasado: robo y muerte con arma blaca, borracho

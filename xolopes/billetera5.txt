@@ -1,4 +1,5 @@
 \hyphenation{us-te-des}
+\hyphenation{no-so-tros}
 \---What happened with Mr. Louis H. Smith?
 
 \---¿He...? ¿Dónde estoy? ¿Quiénes son ustedes?
