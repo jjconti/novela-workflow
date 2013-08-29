@@ -1,3 +1,11 @@
-Mónica, sentada en la arena, escribió unos versos: Tengo el sol de Cozumel
-en mi espalda. / Tengo el mar Caribe en mis oídos. / El agua turquesa que
-me baña. / Los granos de arena que no son míos.
+Mónica, sentada en la arena, escribió unos versos: 
+
+\vspace{0.5cm}
+
+Tengo el sol de Cozumel en mi espalda.
+
+Tengo el mar Caribe en mis oídos.
+
+El agua turquesa que me baña.
+
+Los granos de arena que no son míos.
