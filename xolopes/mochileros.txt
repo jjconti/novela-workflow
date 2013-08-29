@@ -1,3 +1,5 @@
+\hyphenation{mo-chi-le-ros}
+\hyphenation{pri-mer}
 \begin{figure}[H]
   \centering
     \includegraphics[width=0.9\textwidth]{fotos/2013/mochila}
