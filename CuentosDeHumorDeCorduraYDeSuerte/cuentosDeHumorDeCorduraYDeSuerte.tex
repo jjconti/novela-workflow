@@ -1,0 +1,189 @@
+\documentclass[11pt,twoside,openright,a6paper]{book}
+
+\usepackage[a6paper]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+
+
+\title{Leer con moderación}
+\author{Juanjo Conti}
+\date{}
+
+\hyphenation{per-te-ne-cien-tes}
+\hyphenation{ín-di-ce}
+\hyphenation{co-ra-zón}
+\hyphenation{via-je-ro}
+\hyphenation{vi-kin-go}
+\hyphenation{a-tra-ve-só}
+\hyphenation{dio-ses}
+\hyphenation{fe-rry}
+\hyphenation{ca-mi-nan-do}
+\hyphenation{e-le-va-do}
+\hyphenation{ba-ta-lla}
+\hyphenation{ber-me-llón}
+\hyphenation{bo-te-llas}
+\hyphenation{pro-ta-go-nis-ta}
+\hyphenation{ar-chi-pié-la-go}
+\hyphenation{li-bre-rí-a}
+
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica. 2012.\\
+La tapa de este libro es material reciclado.
+
+\vspace{0.5cm}
+
+\noindent
+\emph{Leer con moderación} lleva la licencia 
+Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Unported License.
+Esto significa que podés compartir esta obra y crear obras derivadas de la misma
+mencionando al autor, pero no ha\-cer un uso comercial.
+
+\vfill
+
+\noindent
+Más información sobre este libro:\\
+http://www.juanjoconti.com.ar/cuentos3\\
+
+\noindent
+Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{Leer con moderación}\\
+está dedicado a mi abuela Nieve,\\
+que antes se llamaba Nieves,\\
+pero se cambió el nombre\\
+porque es una sola.}
+\end{flushright}
+
+\cleardoublepage
+
+\renewcommand*\contentsname{Índice}
+
+\tableofcontents
+
+\chapter*{Prólogo}
+\addcontentsline{toc}{chapter}{Prólogo}
+
+Este libro es una excusa. Los primeros dos cuentos fueron rescatados de una vieja notebook por mi amigo Adrián.
+Los siguientes dos cuentos los escribí para el taller \emph{El brillo de la pala\-bra}, encuentro semanal del que participé los últimos
+meses de este año en Guadalupe. Los últimos dos cuentos fueron escritos en los tiempos del taller, pero no fueron escritos \emph{para} el taller.
+
+Este libro es una excusa para practicar editar un libro. Una excusa para mostrar algo de lo que escribí este año. Una excusa para dar por cerra\-dos al menos un puñado de cuentos y seguir adelante.
+
+\chapter*{Los eternos}
+\addcontentsline{toc}{chapter}{Los eternos}
+
+La primera vez que nos tocamos fue hace más de quinientos años en una playa en San Salvador, aunque ella llamaba al lugar \emph{Guanahaní}. Se ocultó detrás de unas rocas sobre la arena cuando vio que una multitud de seres extraños salíamos del agua gritando y empujándonos. Los temores del viaje, las enfermedades, el hambre y el recuerdo de los que habíamos dejado en el mar fueron un catalizador que entró en acción cuando uno de nosotros gritó «Tierra».
+
+\chapter*{¿Qué comemos hoy?}
+\addcontentsline{toc}{chapter}{¿Qué comemos hoy?}
+
+---Papá, ¿qué comemos hoy?
+
+La voz de su hija le llegó desde lejos mientras abría los ojos al despertar ese mediodía. Como tratando de entender dónde estaba, movió la cabeza para un lado y para el otro. Cuando se levantó, pateó unas botellas vacías de la noche anterior. Sí, había vuelto a emborracharse. Había jurado no volver a hacerlo, pero era la única forma que tenía de olvidar, al menos por un rato, el infierno en el que vivía. La casa destruida, los hijos sin madre, su inmensa soledad, el trabajo que nunca iba a conseguir. Respiró profundo y se puso de pie. Y cuando inhaló se percató de su presencia. Maldito perro y maldito sea su rancio olor. Ese olor que inundaba toda la casa. Y encima el perro se pone a aullar. Y ese ruido lo molesta, casi tanto como lo molesta el olor. Necesitaba explotar, de alguna forma. Va a intentar que las esquirlas sean pequeñas.
+Y entonces su hija volvió a preguntar:
+
+---Papá, ¿qué comemos hoy?
+
+Maldición. Se volvió nuevamente al perro, que desde un rincón lo miraba con ojos tristes, ahora callado, como si en ese instante hubiese entendido que su destino estaba sellado.
+
+---Hoy comemos carne, nena. Hoy come\-mos carne.
+
+
+\chapter*{La convención}
+\addcontentsline{toc}{chapter}{La convención}
+
+El 22 de agosto de 2012 se llevó a cabo en la ciudad de Santa Fe una reunión muy particular. Esta tuvo lugar en el salón de convenciones del hotel Los Silos, ubicado en el puerto de la ciudad, junto al casino.
+
+Si se lo miraba desde lo pisos superiores, el lugar era un campo de frutillas. Las caperuzas cubriendo las cabezas de todas las invitadas casi no dejaba ver el gris del mármol que pisaban.
+
+Había caperucitas de alma y caperucitas de profesión. Había caperucitas quinceañeras y caperucitas que ya eran abuelas.
+Estaba, por ejemplo, la reconocida actriz Lucía Vertucci, protagonista del éxito Caperucita y el motochorro. E incluso estaba Caperucita Rosa, cuyo nombre de bautismo era Carlos.
+
+En total eran más de doscientos personificaciones del legendario personaje de rizos dorados y sonrisa inocente.
+
+El objetivo de la convención era dividirse las rutas para ir a visitar a las correspondientes abuelitas, ya que en una ciudad tan chica, muchas se encontraban cuando tenían que perderse y eso no era ninguna gracia en los cuentos. No sabían quien era el organizador de semejante reunión, pero todas coincidían en que era una estupenda idea.
+
+Cuando el maestro de ceremonia se disponía a hablar, la música bajó, las luces se atenuaron y todos hicieron silencio. El orador se aclaró la garganta tosiendo y su tos retumbó en toda la sala. Se acomodó las gafas sobre las puntiagudas orejas y tomó entre sus manos cuatro o cinco hojas de papel. No había empezado la primer oración de su discurso cuando caperucita, una, notó que las puertas se habían cerrado y que de la espalda del maestro de ceremonia asomaba una horrible, enorme y peluda cola de lobo.
+
+\chapter*{Bermellón}
+\addcontentsline{toc}{chapter}{Bermellón}
+
+Entorné los ojos para enfocar y entender lo que estaba viendo. Dos puntos luminosos, uno arriba del otro. Luego el campo de visión se amplió y aparecieron unos números en el panorama. El reloj digital indicaba las dos y diez. Al costado, sobre la misma repisa, mis herramientas. Pinceles, lápices y la cuchilla con la que saco punta a esos lápices. Me desvestí de las sábanas usando las piernas y con un movimiento que a mi edad podría calificarse de ágil, dos segundos después, tenía los pies enfundados en las pantuflas de paño. Arrastré las suelas de goma por el atelier, tomé un pincel con la mano derecha y continué donde había dejado al caer rendido ante el ataque sorpresivo del sueño.
+
+Mientras trabajo no puedo dejar de pensar en María. Ella duerme en la habitación, silenciosa. El camastro en el taller me permite trabajar durante la noche, tomando pequeñas siestas de media hora sin molestar a mi esposa. Cuando los primeros rayos de luz entran por la ventana, dejo todo y voy a dormir a su lado. Cuando me despierto al mediodía, ella ya está terminando alguna clase. Almorzamos juntos y vuelvo a trabajar.
+
+Estoy convirtiendo una de las paredes del taller en un nuevo mural. Me gustan los murales. Huelen a inmensidad, a sin frontera. Para completar un mural uno tiene que dedicarle semanas, en oposición a un cuadro chico, tal vez una naturaleza muerta, que se puede completar en a lo sumo dos días. Gracias a esta cantidad de tiempo requerida por la obra es que se logra desarrollar una onda sensación de pertenencia. En ambos sentidos. En el más clásico, la obra te pertenece, puesto que la creaste. Pero en uno más metafísico, es la obra la que te empieza a poseer. Te pide más, dicta su desarrollo, expande sus límites.
+
+El mural en el que estoy trabajando ahora se llama Revuelta o tal vez termine llamándose distinto. Muchas personas se han juntado en una plaza a manifestarse. Llevan carteles y pancartas. Insignias y lemas. Rostros y banderas. Yo mismo me veo en la revuelta. Soy uno más y a la vez soy todos. Pinto horas enteras sin descansar. El olor a pintura fresca me llena y me vacía. Inflo mis pulmones y soy irrigado. A mi alrededor, el taller. Trapos sucios, latas, botellas. Olor a aguarrás y resinas. Pinceles y paños. Luces y sombras. Colores y engaños. La fuerza creadora me eleva. Y para materializar la metáfora me subo a un andamio y pinto la parte superior del mural. Puntas de lanzas que rasguñan el cielo. Gritos y plegarias que ascienden. Y ahí, desde arriba, escucho al gato de la vecina en la ventana. Maulla y araña el vidrio como queriendo entrar. No, ahora no puedo. No molestes, estoy trabajando. Pinto, delineo, coloreo. Ropa sucia, pinturas y otras obras. Todo, escenario de la actual concreción. El gato sigue maullando y me interrumpe. No ahora, no. No te puedo dar de comer. Sigo pintando. Amarillos, bermellón. Negros, grises y marrones. Hay fuego. Multitudes. El pueblo grita, se exalta, canta. Y yo soy su voz. Tengo que pintar para que puedan gritar, exaltarse, cantar. Si no pinto no existen. El gato sigue molestando, ahora con más insistencia. Mezclo lo que queda de naranja con bermellón sobre la tapa de una lata. Cargo el pincel y sigo. No puedo detenerme. Ahora son estallidos. Columnas de fuego y humo circundan la escena. La parte derecha del mural explota en una batalla campal entre el orden y los que se manifiestan. Yo soy su arsenal, el que le carga las armas, el que fabrica sus balas. Sin mí no tienen con qué disparar y la batalla está perdida. Siguen los estallidos y las explosiones. Amarillo, naranja, bermellón. Sigo pintando. Y el gato de la vecina golpea el cristal con sus uñas. Y aprieto el pomo de bermellón y ya no queda. Lo exprimo, lo estrujo, lo estrangulo. No salen más que las últimas gotas. Pero el mural no está terminado. Me pide más, me interpela, me exige. El pueblo me grita, me necesita. Están perdiendo la batalla. El fuego también me reclama. Y el gato vuelve a maullar. Y por primera vez lo miro. Lo miro a los ojos. Desde el andamio. Dos, tres metros elevado sobre el atelier. María duerme. Estiro el brazo y muevo el barral que abre la ventana. Y el gato entra. Corre. Entra corriendo y se para junto al platito que le hace a veces de comedor. Me bajo fatigado. Malhumorado. Quería seguir pintando, no ser interrumpido. El gato me mira, confiando que como siempre voy a abrir la bolsa de alimento balanceado. Sirvo una porción en el platito y lo dejo comer un rato. La cuchilla está al alcance de la mano y con un movimiento que a mi edad podría calificarse de ágil, dos segundos después, le separo la cabeza del cuerpo. Dejo la cabeza comiendo del platito y me llevo el resto arrastrado por la cola, chorreando gotas bermellón.
+
+\chapter*{El hombre que soñó con su gato}
+\addcontentsline{toc}{chapter}{El hombre que soñó con su gato}
+
+Un hombre terminó de cenar, lavó los platos y sacó su gato al patio, para luego irse a dormir.
+
+Mientras dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
+Mientras soñaba que dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
+Mientras soñaba que soñaba que dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
+Mientras soñaba que soñaba que soñaba que dormía, soñó que su gato lloraba en su puerta, se levantó y lo dejó entrar, para luego volver a dormir.
+
+La secuencia se repitió cien veces durante la noche.
+
+Cuando se despertó a la mañana siguiente, casi se desmaya cuando vio lo que había en la cocina.
+
+\chapter*{Cocción de un huevo}
+\addcontentsline{toc}{chapter}{Cocción de un huevo}
+
+Escapé una noche bajo el manto sepulcral que forman las nubes antes de que una tormenta se desate. Descalzo, corrí kilómetros hasta que llegué a una casa de campo. A unos metros, pude encontrar un gallinero. Abrí la puerta y me metí. Las gallinas gritaron, pero nadie las escuchó. Pude hacerme con un puñado de huevos colo\-rados que aún no habían sido recogidos. Me senté detrás del gallinero apoyando la espalda contra una pared vieja y sucia, llena de telas de ara\-ñas. Tenía los pies cortados y ardidos. Escarbé en el bolsillo en busca del encendedor; al fin de cuentas, ya no tenía cigarrillos. Tomé un huevo por la parte superior, con las yemas de los dedos de mi mano izquierda y con la mano derecha accioné el mecanismo que generó el fuego. Lo sostuve así varios minutos, hasta que se puso negro y el calor cortante me alcanzó. Lo solté para volver a sostenerlo del otro lado. Uno se acostumbra al dolor que produce el calor, si se da de a poco. Para cuando me pareció que el huevo estaba cocido, tenía todos los dedos llenos de ampollas y casi no podía sostenerlo. Tuve que romperlo con un pié y comérmelo sólo usando la boca, como los animales.
+
+El siguiente huevo me lo comí crudo.
+
+\end{document}
