@@ -1,6 +1,6 @@
 \hyphenation{mi-nu-tos}
 \hyphenation{la-bo-ra-les}
-Bitácora de la revolución. Día 1. Hoy, durante la hora libre, que en
+Bitácora de la \st{revolución} rebelión. Día 1. Hoy, durante la hora libre, que en
 realidad son 46 minutos, nos hemos reunidos con los compañeros alineados
 a la causa con el objetivo de trazar líneas de acción orientadas a poner
 en marcha un plan que nos permita obtener las mejoras laborales que venimos

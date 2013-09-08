@@ -3,7 +3,7 @@
 \hyphenation{tu-ris-tas}
 \hyphenation{pro-pues-tas}
 \hyphenation{ve-ri-fi-car}
-Bitácora de la revolución. Día 2. El comandante a cargo de las fuerzas de
+Bitácora de la \st{revolución} rebelión. Día 2. El comandante a cargo de las fuerzas de
 la cocina a propuesto la siguiente estrategia (que si bien no es integral,
 porque no resuelve el problema de la jornada laboral, apunta a solucionar
 el problema del sueldo): sustraer día a día, cuales hormigas amazónicas,
