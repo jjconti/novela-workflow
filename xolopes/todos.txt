@@ -21,7 +21,7 @@ color están los que llegaron al aropuerto en auto, colectivo o transporte,
 el del muerto en el avión, el que se queja de las excursiones pero sin
 embargo vieno de vacaciones aca en lugar de recorrer américa latina como
 mochilero. Al flaco de los machunones le pintaron una carita roja en el
-yeso. Happy face, me contestó el miembro del equipo de animación cuando
+yeso. \emph{Happy face}, me contestó el miembro del equipo de animación cuando
 le pregunté que me iba a dibujar. Es para hacer la competencia final,
 tendremos cinchadas, carrera de harina y competencia de baile.
 
@@ -42,12 +42,12 @@ un departamento y nunca asa, hoy también tiene puesta la camiseta de
 la selección argentina, la usó todos los días, no quisiera tener que
 olerla. En su grupo también está el sobrino de Carmen, la señora que
 desayunaba sola, Hansel y Gretel, el tipo que leía Cicatrices, Mónica que no
-larga su cuadernito, el intelerante a la lactosa que siempre hacía problema
+larga su cuadernito, el intolerante a la lactosa que siempre hacía problema
 en el comedor, el CEO de esa multinacional, el empleado razo de aquella otra,
 el del incidente con las turcas (no veo a su mujer) y el que casi se ahoga.
 
 La primer consigna es hacer una coreografía con un canto de guerra. Me da
-tanta vergueza que me meto en el agua y observo agachado. La happy face pasó
+tanta vergueza que me meto en el agua y observo agachado. La \emph{happy face} pasó
 de ser un manchón a un recuerdo pero nadie me dice nada cuando vuelvo para
 la carrera de harina. Hacemos dos filas sentados en la arena y miembros del
 equipo de animación le ponen un muñado de harina al primero en las manos,
@@ -56,8 +56,9 @@ al final, donde se va acumulando una pila de harina. Gana el equipo que
 más cantidad logre juntar. El juego se descontrola y todos hacen trampa,
 todos terminamos llenos de harina y se declara un empate técnico. Todos
 al agua mis amiguitos grita el del aquaeróbic y todos hacemos caso y todos
-volvemos convertidos en engrupo.
+volvemos convertidos en engrudo.
 
+Nos recibe la vos aflautada del animador.
 Ahora si amiguitos, la competencia final. Las cinchadas o tira y afloje. No
 se si lo saben, pero este fue un deporte olímpico entro 1900 y 1920. Vamos a
 utilizar esta soga de 10 cm de diámetro y ambos equipos van a tener que tirar
