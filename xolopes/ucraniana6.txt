@@ -1,9 +1,3 @@
 ¿Lo viste al flaco ese? Un solo machucón. Para mi que se cayó de la
 pirámide de Cobá.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/coba}
-  \caption{Pirámide de Cobá}
-  \label{Pirámide de Cobá}
-\end{figure}

@@ -9,9 +9,3 @@ que la superficie se va gastando y quedan expuestos. Son de agua salada
 y fría, están todos conectados y llegan al mar. No, deben ser de agua
 dulce. Bajé con el bikini puesto pero no pude mojarme más que el dedo gordo.
 
-
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/cenote}
-  \caption{Cenote} \label{Cenote}
-\end{figure}

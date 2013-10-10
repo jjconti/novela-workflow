@@ -8,10 +8,3 @@ Israel.
 Con una pronunciación que no podía disimular su origen nos contestó. Anoto
 mis pensamientos. Es mucho mejor que sacar fotos. Necesito recordar lo que
 siento en este momento porque es todo muy lindo.
-
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/tulum}
-  \caption{Tulúm}
-  \label{Tulúm}
-\end{figure}

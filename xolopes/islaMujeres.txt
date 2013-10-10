@@ -6,13 +6,6 @@ en hostels, otro plan. Los reconocimos como argentinos por el Dermaglos,
 el del envase verde. Arriba del ferry alquilaban los carritos así que nos
 pusimos de acuerdo y alquilamos uno entre los cuatro.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/islaMujeres}
-  \caption{Isla Muejeres} \label{Isla Mujeres}
-\end{figure}
-
-
 Nuestra idea era hacer snorkel. Preguntamos cuando llegamos y nos
 dijeron de varios lugares. En algunos tenías que pagar entrada, en otros
 no. Estacionamos el carrito del golf en una playa en la que no te cobraban

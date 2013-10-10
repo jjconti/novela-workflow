@@ -5,7 +5,10 @@ def getAsTexContent(fileName):
         return ''
     fileName = fileName.strip('?')
     fileContent = open(fileName + '.txt', 'r').read()
-    return '''
+    if fileName.startswith('foto_'):
+        return fileContent
+    else:
+        return '''
 \\vspace{0.5cm}
 \\hrulefill\\hspace{0.2cm} \\decofourleft\\decofourright \\hspace{0.2cm} \\hrulefill
 \\vspace{0.5cm}

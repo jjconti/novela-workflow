@@ -3,9 +3,3 @@ abundancia, todo el día, todos los días. Yo me consolaba solo diciéndome
 que así ya tenía resuelto el tema de la comida. Soy celíaco, intolerante
 a la lactosa, astemio y tengo colon irritable.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/hotel}
-  \caption{Playa de un hotel}
-  \label{Playa de un hotel}
-\end{figure}

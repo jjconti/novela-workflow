@@ -6,10 +6,3 @@ una iniciativa privada sin el apoyo de la Unesco, pero con el reconocimiento
 de millones de votantes alrededor del mundo.
 
 Desde ese día no permiten más subirla.
-
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/chichen}
-  \caption{Templo de Kukulkán (Chichenitza)}
-  \label{Templo de Kukulkán (Chichenitza)}
-\end{figure}

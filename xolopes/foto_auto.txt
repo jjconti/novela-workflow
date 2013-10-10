@@ -1,0 +1,1 @@
+\includepdf{fotos/pdfs/auto.pdf}
