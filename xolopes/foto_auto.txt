@@ -1,1 +1,1 @@
-\includepdf{fotos/pdfs/auto.pdf}
+\afterpage{\includepdf{fotos/pdfs/auto.pdf}}

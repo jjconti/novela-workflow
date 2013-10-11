@@ -1,1 +1,1 @@
-\includepdf{fotos/pdfs/playaDelCarmen.pdf}
+\afterpage{\includepdf{fotos/pdfs/playaDelCarmen.pdf}}
