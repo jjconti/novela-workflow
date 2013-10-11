@@ -24,6 +24,9 @@
 
 \usepackage{soulutf8} % para tachar palabras: \textst{tachame}
 
+\usepackage{pdfpages}
+\usepackage{afterpage}
+
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 
 % change the space before the titles
@@ -80,7 +83,7 @@
 \thispagestyle{empty}
 \noindent
 Edición automágica. 2013.\\
-La tapa de este libro es material reciclado.
+%La tapa de este libro es material reciclado.
 
 \vspace{0.5cm}
 
@@ -117,6 +120,10 @@ Amo, por eso escribo.
 }
 
 \end{flushright}
+
+% Evitar viudas y huérfanas
+\widowpenalty=10000
+\clubpenalty=10000
 
 \cleardoublepage
 
@@ -159,14 +166,16 @@ PLA
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-Escuché dos amigas discutir: ¿Y si vamos a un hostel? Estás loco, me
-dijo mi amiga, si vamos a Cancún, vamos a un All Inclusive.
+Escuché dos amigas discutir: ¿Y si vamos a un hostel? Estás loca, le
+dijo una a la otra, si vamos a Cancún, vamos a un All Inclusive.
 
-Hay ocasiones en las que los términos medios parecen no existir. O frío
-o caliente, a los tibios los escupiré de mi boca, me citaba a Jesús un
+Hay ocasiones en las que los términos medios parecen no existir.
+Me acordé de un pasaje de mi infancia.
+O frío o caliente, a los tibios los escupiré de mi boca, me citaba a Jesús un
 amigo testigo de Jehová cada vez que me ponía duditativo entre ir o no
 a jugar a la pelota.
 
+\afterpage{\includepdf{fotos/pdfs/avion.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -216,17 +225,12 @@ Where is that, somewhere in Mexico?
 \vspace{0.5cm}
 
 Al final fuimos a un All inclusive. Una pulcerita, comida y bebida gratis, en
-abundancia, todo el día, todos los días. Yo me consolaba solo diciéndome
+abundancia, todo el día, todos los días. Yo me consolaba sólo diciéndome
 que así ya tenía resuelto el tema de la comida. Soy celíaco, intolerante
 a la lactosa, astemio y tengo colon irritable.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/hotel}
-  \caption{Playa de un hotel}
-  \label{Playa de un hotel}
-\end{figure}
 
+\afterpage{\includepdf{fotos/pdfs/hotel.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -360,15 +364,6 @@ un buen rato, te dice.
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-\hyphenation{mo-chi-le-ros}
-\hyphenation{pri-mer}
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/mochila}
-  \caption{Mochilas}
-  \label{Mochilas}
-\end{figure}
-
 \hyphenation{in-sig-ni-fi-can-te}
 \hyphenation{re-cep-cio-nis-tas}
 \hyphenation{be-ach}
@@ -399,6 +394,7 @@ vendedores, recepcionistas...
 ¿Yo? No, yo estoy parando en el Ocean Beach Caribean Resort. No, nunca
 salí con la mochila, lo que te estoy contando lo vi en un documental.
 
+\afterpage{\includepdf{fotos/pdfs/mochila.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -514,13 +510,7 @@ de millones de votantes alrededor del mundo.
 
 Desde ese día no permiten más subirla.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/chichen}
-  \caption{Templo de Kukulkán (Chichenitza)}
-  \label{Templo de Kukulkán (Chichenitza)}
-\end{figure}
-
+\afterpage{\includepdf{fotos/pdfs/chichen.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -672,13 +662,8 @@ comisiones e impuestos.
 ¿Lo viste al flaco ese? Un solo machucón. Para mi que se cayó de la
 pirámide de Cobá.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/coba}
-  \caption{Pirámide de Cobá}
-  \label{Pirámide de Cobá}
-\end{figure}
 
+\afterpage{\includepdf{fotos/pdfs/coba.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -807,17 +792,11 @@ estoy buscando nuevos ejemplos para los chicos. Bueno, te decía que una
 mañana vimos un chancho pasar corriendo. Y atrás, no me lo vas a creer,
 blandiendo la hoja metálica de su cuchilla, el cocinero del hotel.
 
+\afterpage{\includepdf{fotos/pdfs/playaDelCarmen.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
-
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/playaDelCarmen}
-  \caption{Playa del Carmen}
-  \label{Playa del Carmen}
-\end{figure}
 
 \hyphenation{gor-di-to}
 En la playa no hay Doctor Mora, escribano Peretti
@@ -992,6 +971,7 @@ desechaban. Vendía las joyas y finas túnicas que sus enamorados le regalaban
 para poder ayudar a quién la necesitaba. Utz-Colel, por su parte, bajo su
 apariencia dulce y cándida, era fría, orgullosa y de corazón duro.}
 
+\afterpage{\includepdf{fotos/pdfs/islaMujeres.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -1004,13 +984,6 @@ de luna de miel. Ellos venían viajando desde DF, en colectivo, parando
 en hostels, otro plan. Los reconocimos como argentinos por el Dermaglos,
 el del envase verde. Arriba del ferry alquilaban los carritos así que nos
 pusimos de acuerdo y alquilamos uno entre los cuatro.
-
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/islaMujeres}
-  \caption{Isla Muejeres} \label{Isla Mujeres}
-\end{figure}
-
 
 Nuestra idea era hacer snorkel. Preguntamos cuando llegamos y nos
 dijeron de varios lugares. En algunos tenías que pagar entrada, en otros
@@ -1059,11 +1032,6 @@ Nos despertamos el domingo y llovía. Caminamos hasta la avenida central
 con la idea de tomarnos el ferry a la isla y nos dijeron que como estaba
 el clima no nos convenía. Al otro día había sol.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/ferry}
-  \caption{Ferry} \label{Ferry}
-\end{figure}
 
 
 \vspace{0.5cm}
@@ -1217,13 +1185,7 @@ Este, el Chevy rojo. ¿Les gusta? ¿Tiene carnet de conducir y tarjeta de
 crédito? Muy bien, cuando regresan de dar la vuelta a la isla le llenan
 el tanque de gasolina.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/auto}
-  \caption{Chevy rojo en Cozumel}
-  \label{Chevy rojo en Cozumel}
-\end{figure}
-
+\afterpage{\includepdf{fotos/pdfs/auto.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -1751,13 +1713,7 @@ Con una pronunciación que no podía disimular su origen nos contestó. Anoto
 mis pensamientos. Es mucho mejor que sacar fotos. Necesito recordar lo que
 siento en este momento porque es todo muy lindo.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/tulum}
-  \caption{Tulúm}
-  \label{Tulúm}
-\end{figure}
-
+\afterpage{\includepdf{fotos/pdfs/tulum.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -1803,7 +1759,7 @@ Dos mozos, si esos mismos dos mozos, charlan en su hora libre, si la de
 
 ¿No vas a la reunión?
 
-No, dejame. Ya me tiene podrido el viejo Gaspar. Está re loco.
+No, dejame. Ya me tiene hasta la madre el viejo Gaspar. Está re loco.
 
 
 \vspace{0.5cm}
@@ -1814,13 +1770,8 @@ No, dejame. Ya me tiene podrido el viejo Gaspar. Está re loco.
 La ciudad de Villadolid, por ejemplo, 
 fue construída con piedas robadas a monumentos maya.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/villadolid}
-  \caption{Villadolid}
-  \label{Villadolid}
-\end{figure}
 
+\afterpage{\includepdf{fotos/pdfs/villadolid.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -1893,15 +1844,16 @@ Lorenzo de los negros.
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-\hyphenation{pa-ra-í-so} \hyphenation{le-van-té} Panza arriba tirado en
-la arena de Playa Paraíso esperaba que mi esposa se vista en uno de los
-baños. Diez años de casados y para festejar me la traje a la bruja al
-Caribe. Dejamos a los chicos con una tía y emprendimos el viaje. En eso
-estaba pensando cuando se me acercan dos señoritas vestidas con túnicas
-negras y las caras tapadas. Musulmanas o algo así, y con señas me piden
-que les saque una foto con su teléfono. Perdido me quedé mirando en
-la pantalla la sopa de letras en caracteres árabes. Cuando levanté la
-cabeza di un salto para atrás. En el lugar donde estaban las mujeres de
+\hyphenation{pa-ra-í-so}
+\hyphenation{le-van-té}
+Panza arriba tirado en la arena de Playa Paraíso esperaba que mi esposa se
+vista en uno de los baños. Diez años de casados y para festejar me la traje
+a la bruja al Caribe. Dejamos a los chicos con una tía y emprendimos el
+viaje. En eso estaba pensando cuando se me acercan dos señoritas vestidas
+con túnicas negras y las caras tapadas. Musulmanas o algo así, y con
+señas me piden que les saque una foto con su teléfono. Perdido me quedé
+mirando en la pantalla la sopa de letras en caracteres árabes. Cuando levanté
+la cabeza di un salto para atrás. En el lugar donde estaban las mujeres de
 Alá ahora había tremendo par de señoritas en bikini frotándose contra
 una palmera. Ahí entendí el verdadero sentido de la frase: liberación a
 través del Corán. Cuando mi mujer salió del baño las turcas me tiraban
@@ -1944,12 +1896,7 @@ y fría, están todos conectados y llegan al mar. No, deben ser de agua
 dulce. Bajé con el bikini puesto pero no pude mojarme más que el dedo gordo.
 
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2012/cenote}
-  \caption{Cenote} \label{Cenote}
-\end{figure}
-
+\afterpage{\includepdf{fotos/pdfs/cenote.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -2185,11 +2132,7 @@ Transportación de contenedores por aire, mar o tierra. Servicio a domicilio.
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-Bitácora de la rebelión. Día 20. Nos llegó un comunicado desde un
-hotel en Cozumel. Se nos informa de una estrategia que podría dar buenos
-resultados aunque su esperanza es a largo plazo. No la escribo en esta bitácora por miedo a que
-mi cuaderno sea interceptado por el enemigo. Pero sí dejo asentado que
-pensamos ponerla en práctica.
+Bitácora de la rebelión. Día 20. Hablar con el escritor.
 
 
 \vspace{0.5cm}
@@ -2244,6 +2187,33 @@ Conté la realidad en lugar de una ficción para proteger a los personajes.
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
+La charla con Gaspar duró más de tres horas. Me contó sobre su familia,
+una esposa, dos hijos, una hija, cuatro nietos. Sobre su juventud como
+pescador, me contó de un norteamericano que se propuso hacerlo millonario
+y después de enredsarse en negocios con él terminó con menos que antes.
+
+Yo le conté sobre mi vida en Argentina, el trabajo sofocante para pagar el
+alquiler de un monoambiente, los intentos fallidos por publicar una novela
+sobre seres del espacio exterior, la chica con la que me quería casar.
+
+Me enseñó a tomar tequila y a elegirlo. Me dió una fórmula para los
+tacos al pastor mucho, muchísimo, más sencilla que la que pedí un día
+en la calle, anoté y perdí.
+
+Me contó anécdotas de otros viajeros. La mejor fue la de un muerto en el
+avión. No se la creí.
+
+Me contó sobre su bitácora de la revolución, o rebelión, como unos
+listillos le habían hecho renombrar. Les dió el gusto.
+
+Por último hizo su pedido.
+
+\afterpage{\includepdf{fotos/pdfs/iguana.pdf}}
+
+\vspace{0.5cm}
+\hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
+\vspace{0.5cm}
+
 \hyphenation{pres-tar}
 \hyphenation{ge-o-gra-fí-a}
 ¿Qué vas a encontrar en este libro? Este libro recoge un puñado
@@ -2259,12 +2229,19 @@ que usa el pellejo de su víctima como tapado, me paseé con un atuendo
 que era su atuendo, con una mirada que era su mirada, diciendo palabras
 que eran sus palabras.
 
-\begin{figure}[H]
-  \centering
-    \includegraphics[width=0.9\textwidth]{fotos/2013/iguana}
-  \caption{Iguana}
-  \label{Iguana}
-\end{figure}
+
+
+\vspace{0.5cm}
+\hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
+\vspace{0.5cm}
+
+\---¿Y qué te pidió?
+
+\---¿Quién?
+
+\---¿Qué te pidió Gaspar? ¿Que escribas una novela denunciando la situación de los empleados de los hoteles de lujo?
+
+\---¿Qué? ¡No!, ¿quién la compraría? Me pidió que lo ayude a robar la caja fuerte del hotel.
 
 
 \vspace{0.5cm}
@@ -2274,5 +2251,8 @@ que eran sus palabras.
 Timados, engañados, seducidos, robados, golpeados, arruinados, burlados, xolopes.
 
 
+
+\vspace{0.5cm}
+\hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 
 \end{document}
