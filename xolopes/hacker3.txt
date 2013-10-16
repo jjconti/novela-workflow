@@ -9,14 +9,14 @@ y con un equipo que no cuesta más de 50 dólares.
 
 Según el experto en seguridad informática Cody Brocious, si el sistema
 de puertas del hotel está conectado a la red eléctrica, él puede abrir
-cualquier puerta usando un dispositivo basado en una mini computadora llamada
-Arduino. El aparato que construyó es capaz de abrir cinco millones de
+cualquier puerta usando un dispositivo basado en una mini computadora. 
+El aparato que construyó es capaz de abrir cinco millones de
 habitaciones en todo el mundo.
 
-El aparato funciona como si fuera una de las tarjetas que el hotel entrega
+Funciona como si fuera una de las tarjetas que el hotel entrega
 y abre todas las puertas que utilicen ese tipo de cerradura. Consigue su
 objetivo porque el código necesario para abrir una puerta se encuentra
 tanto en la tarjeta de los huéspedes como en la cerradura. El invento de
 Brocious lee la memoria de la cerradura y luego un programa es capaz de
 abrirla. El hacker tiene 24 años y ha presentado su descubrimiento en la
-conferencia Blackhat.
+conferencia Black Hat.
