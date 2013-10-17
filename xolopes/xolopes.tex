@@ -29,23 +29,6 @@
 
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 
-% change the space before the titles
-\makeatletter
-\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
-\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
-\makeatother
-
-% change the space after the titles
-\renewcommand{\DOTI}[1]{%
-    \raggedright
-    \CTV\FmTi{#1}\par\nobreak
-    \vskip 10pt}% original: 40pt
-\renewcommand{\DOTIS}[1]{%
-    \raggedright
-    \CTV\FmTi{#1}\par\nobreak
-    \vskip 10pt}% original: 40pt
-
-
 \title{Xolopes}
 \author{Juanjo Conti}
 \date{}
@@ -61,17 +44,6 @@
 \hyphenation{me-tros}
 \hyphenation{di-si-mu-lar}
 
-\addto\captionsspanish{
-  \renewcommand{\figurename}{Foto}
-}
-
-% For no paragraph break:
-%\widowpenalties 1 10000
-%\raggedbottom
-
-% check hyphenation
-%\usepackage[mark]{lua-check-hyphen}
-
 \begin{document}
 
 \pagestyle{plain}
@@ -83,7 +55,6 @@
 \thispagestyle{empty}
 \noindent
 Edición automágica. 2013.\\
-%La tapa de este libro es material reciclado.
 
 \vspace{0.5cm}
 
@@ -107,11 +78,6 @@ http://www.juanjoconti.com.ar/libros
 
 \noindent
 \begin{flushright}
-%\emph{
-%\emph{Xolopes} está dedicado \\a mi papá y a mi mamá\\
-%que me enseñaron \\a leer y a amar.\\
-%Amo, por eso escribo.
-%}
 \emph{
 \emph{Xolopes} \\está \\dedicado \\a \\mi \\papá \\y \\a \\mi \\mamá\\
 que \\me \\enseñaron \\a \\leer \\y \\a \\amar.\\
@@ -176,7 +142,6 @@ amigo testigo de Jehová cada vez que me ponía duditativo entre ir o no
 a jugar a la pelota.
 
 \afterpage{\includepdf{fotos/pdfs/avion.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -190,22 +155,22 @@ aparezca en las pantallas, que no esté retrasado, ir al mostrador,
 despachar las valijas, ¿no me habré excedido en el peso? 16 kg, me sobró
 lugar. Luego a esperar nuevamente, preembarque, embarque y ahora sí. Estoy
 sentado dentro del avión. Una mole de miles de toneladas de acero alrededor
-mío. Yo sentado en un reducto ínfimo, incómodo. Miro para los costados y
+mío. Ubicado en un reducto ínfimo, incómodo. Miro para los costados y
 los demás parecen estar en otro mundo. Algunos juegan con sus teléfonos,
 otros miran la pantalla o leen una revista. ¿Cómo pueden estar tan
 tranquilos? ¿No se dan cuenta de que en menos de un minuto el capitán va
-a encender los motores o ya los tiene encendidos pero los va a utilizar y
+a encender los motores, o ya los tiene encendidos pero los va a utilizar, y
 vamos a pasar todos de estar en la seguridad de tierra firme a estar en la
 nebulosa, en un limbo? Ahí pasó una azafata y me pidió que me ajuste el
 cinturón y ponga derecho mi asiento. Me empiezan a transpirar las manos. El
 avión se ubica en la punta de la pista de despegue. Empieza a carretear. No
-puedo evitar sentirme en el lomo de un pterodáctilo que corre por las
+puedo evitar sentirme en el lomo de un pterodáctilo que corre por la
 pista. Aguanto la respiración. Repaso las oraciones de un rosario como si
 quisiera ametrallar al pelado de adelante con mis palabras. El corazón me
 late. Y ahora, de un momento para otro, dejo de sentir el rugoso asfalto
 bajo las ruedas del avión que ya se han despegado y lentamente, imagino,
 vuelven a formar parte de la mole de acero. Suena una campanita y se apaga
-el cartel luminoso que indicaban que nadie se podía levantar. Hemos pasado
+el cartel luminoso que indicaban que nadie podía levantarse. Hemos pasado
 los 10000 metros de altura, anuncia el capitán.
 
 
@@ -217,7 +182,7 @@ Where are you from, girls?
 
 Argentina.
 
-Where is that, somewhere in Mexico?
+Where is that? Somewhere in Mexico?
 
 
 \vspace{0.5cm}
@@ -225,13 +190,12 @@ Where is that, somewhere in Mexico?
 \vspace{0.5cm}
 
 Al final fuimos a un All inclusive. Una pulcerita, comida y bebida gratis, en
-abundancia, todo el día, todos los días. Yo me consolaba sólo diciéndome
+abundancia, todo el día, todos los días. Yo me consolaba solo diciéndome
 que así ya tenía resuelto el tema de la comida. Soy celíaco, intolerante
 a la lactosa, astemio y tengo colon irritable.
 
 
 \afterpage{\includepdf{fotos/pdfs/hotel.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -240,16 +204,16 @@ Vas caminando por un bosque oscuro, sentís una presencia a tu espalda
 y en lugar de darte vuelta empezás a correr y a correr. Te tropezás,
 caés, te levantás y seguís corriendo. La presencia, atrás, está cada vez
 más cerca. Adelante ves un precipicio, no tenés tiempo siquiera
-para pensarlo, seguís corriendo hasta que saltás. Mientras caés te
+para pensarlo, seguís corriendo hasta que saltás. Mientras vas cayendo te
 despertás. Estás en el asiento del avión. Otra vez te dormiste y otra vez
-te despertaste. Miras el reloj, es la tercera vez en la última hora. Notás
+te despertaste. Mirás el reloj, es la tercera vez en la última hora. Notás
 movimiento unas filas más adelante, un hombre grande y rubio se mueve  como
 si lo estuvieran electrocutando. Las personas de los asientos contiguos
-le levantan asustadas. Más movimiento. Una azafata te pasa por al lado
+se levantan asustadas. Más movimiento. Una azafata te pasa por al lado
 corriendo. Escuchás al capitán preguntar si hay un médico a bordo. El
 viejito sentado dos lugares más allá se levanta. Ahora el hombre rubio
 está tirado en el piso del avión, alguien le practica técnicas de
-reanimación. Ahora ves como arrastran al hombre rubio hasta detrás de
+reanimación. Ves como arrastran al hombre rubio hasta detrás de
 unas cortinas.
 
 
@@ -259,7 +223,7 @@ unas cortinas.
 
 Lo lindo de tomar excursiones es que te sale más caro que si vas por tu
 cuenta, te buscan a las 7 am pero hasta las 10 no dejan la ciudad (hay que
-buscar al resto de los excursionistas) y una vez en el destino no tenés
+buscar al resto de los excursionistas) y, una vez en el destino, no tenés
 tiempo de recorrer tranquilo porque el guía te va ametrallando datos que
 no vas a recordar a la salida del lugar. No.
 
@@ -277,7 +241,7 @@ en México, ubicado en el municipio de Tinum, en el estado de Yucatán.}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-Ayer de pasada escuché a dos mozos hablar sobre el agujero de la cerradura de
+Ayer, de pasada, escuché a dos mozos hablar sobre el agujero de la cerradura de
 una de las habitaciones. No alcancé a escuchar exactamente a qué habitación
 se referían, pero decodifique un «setecientos cuarenta y...» y vi que uno
 de los dos hacía gestos obscenos mientras el otro se reía a carcajadas. Sin
@@ -308,7 +272,7 @@ embargo, en la Constitución Política de México, Artículo 123, sección
 VI, se encuentra el sustento legal para los salarios mínimos generales. Es
 principalmente  la Ley Federal del Trabajo la que contiene la regulación
 de los salarios mínimos. Los artículos 90 a 97 de dicha ley contienen
-las caracterísiticas principales de los salarios mínimos.
+las caracterísiticas principales.
 
 El salario mínimo en México es de 60.66 pesos diarios, lo que equivale
 a 4.4 dólares y resulta insuficiente para cubrir las necesidades de una
@@ -326,7 +290,7 @@ mínimo ha perdido un 80\% de su poder adquisitivo desde 1882.
 
 \hyphenation{pa-si-llo}
 Una vez en el bloque siete, subí las escaleras hasta el piso cuatro y,
-mirando el amplio pasillo, me puse a pensar cuál de las puertas sería el
+mirando el amplio pasillo, me puse a pensar cuál de los picaportes sería el
 custodio del entretenimiento de los mozos. Sin nada que me de una señal,
 empecé a apoyar mi oreja en cada una de las puertas.
 
@@ -351,7 +315,7 @@ viaje hasta realizar los peritajes necesarios en el avión. Ves a un padre
 con su bebé en brazos a las puteadas. Lo mandan a primera clase, igual que
 hicieron con los que estaban en la misma fila que el hombre rubio. Suben
 oficiales de policía al avión, sacan fotos al asiento del pasajero muerto,
-toman muestras y por último se llevan la funda del asiento. Pasan dos
+toman muestras y, por último, se llevan la funda del asiento. Pasan dos
 horas más y el capitán anuncia que aún no han conseguido combustible para
 reponer el volcado en el océano. Es probable que tengan que dejar el avión,
 pasar la noche en un hotel y continuar al día siguiente. Un brasileño se
@@ -386,7 +350,7 @@ ahorrado para el viaje, vuelven a su lugar de origen, trabajan por un
 tiempo determinado y vuelven a salir a la aventura. El segundo grupo está
 formado por personas que alguna vez fueron ahorristas pero se cansaron
 de tener que interrumpir constantemente el viaje de la vida por algo tan
-insignificante como es el dinero. Es por eso que en un punto del camino
+insignificante como el dinero. Es por eso que en un punto del camino
 deciden no regresar y encuentran formas alternativas de vivir, bajan sus
 expectativas de confort y sus travesías duran años. Los hay malabaristas,
 vendedores, recepcionistas...
@@ -395,7 +359,6 @@ vendedores, recepcionistas...
 salí con la mochila, lo que te estoy contando lo vi en un documental.
 
 \afterpage{\includepdf{fotos/pdfs/mochila.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -411,11 +374,11 @@ se ha negado sistemáticamente a concedernos. A saber:
 
 \begin{enumerate}
 \item Reducción de la jornada laboral de 14 a 9 horas con una hora de descanzo.
-\item Aumento de sueldo mínimo de 1300 a 5000 pesos.
+\item Aumento de salario mínimo de 1300 a 5000 pesos.
 \end{enumerate}
 
 Como la negativa ya fue afirmada y reafirmada, hemos decidido recuperar
-estos derechos a la fuerza. Aunque a la fuerza tal vez no sea la expresión
+estos derechos a la fuerza. Aunque «a la fuerza» tal vez no sea la expresión
 correcta. Utilizaremos más bien el ingenio. Nos vamos a valer de los turistas
 para lograr nuestro objetivo.
 
@@ -440,7 +403,7 @@ cataratas de agua emanaban por todos los elementos de grifería.
 \vspace{0.5cm}
 
 Les habla su capitán, les informo que hemos podido reabastecernos
-del combustible necesario para continuar el viaje, en cuarenta minutos
+del combustible necesario para continuar el viaje. En cuarenta minutos
 iniciaremos el despegue. Ya pasaron seis horas desde el aterrizaje y es
 de noche. La mayoría de los pasajeros están dormidos y vos, desvanecido,
 te dormís cuando el avión está despegando.
@@ -451,21 +414,21 @@ te dormís cuando el avión está despegando.
 \vspace{0.5cm}
 
 \hyphenation{chan-gas} \hyphenation{des-en-ros-can-do} Acostumbrado a
-arreglármelas y a hacer changas, me arremangué para revisarle la cañería a
+arreglar las cosas en casa, me arremangué para revisarle la cañería a
 la señorita. Por favor absténganse de malos pensamientos que esta no es ese
 tipo de historias. Estuve escarbando, destrabando, soplando, desenroscando,
 girando, palpando, doblando, estirando, sacudiendo, estrujando y reensamblando
 alrededor de media hora hasta que en una de las secciones de la cañería
 encontré, atascado, cien kilos de papel higiénico y descartables de aseo
-personal varios condensados en una pelota de diez centímetros de diámetro.
+personal varios condensados en una pelota de cinco centímetros de diámetro.
 
 Como un héroe que rescata una mascota, se la mostré a la ucraniana (ya la
 había bautizado así en mis pensamientos) y me hizo cara de asco. Tiré
-la pelota en el cesto de la basura y procedía a lavarme las manos, los
+la pelota en el cesto de la basura y procedí a lavarme las manos, los
 antebrazos, los codos, los brazos y hasta la nuca, era una limpieza sin fin.
 Una vez presto y rechinando de limpio, volví mi atención a la señorita. El
-agua ya no brotaba a borbotones y su pesadilla cloacal parecía llegar a su
-fin. Me tomó de las manos y vi en sus ojos el deseo de agradecerme. Casi
+agua ya no brotaba a borbotones y su pesadilla cloacal parecía terminar.
+Me tomó de las manos y vi en sus ojos el deseo de agradecerme. Casi
 lágrimas le provocaba la emoción y la impotencia de no poder hablarme en
 mi idioma natal. Miró con el rabillo del ojo la cama matrimonial y a mi
 se me aceleró el corazón. En ese momento escuché la llave, el picaporte
@@ -481,7 +444,7 @@ y la puerta.
 \hyphenation{fe-de-ral}
 El Folha de Brasil informa. Africano muere
 durante vuelo con 104 cápsulas de cocaína en el estómago.  El sudafricano
-Louis Hendrik Smith, de 34 años murió esta tarde durante un vuelo entre
+Louis Hendrik Smith, de 34 años, murió esta tarde durante un vuelo entre
 Argentina y México, se presume por sobredosis de cocaína. Fuentes de
 la Policía Federal informan que Smith había ingerido 1,7 kg de droga,
 divididos en 104 cápsulas. Una de ellas, con cerca de 16 g de sustancia,
@@ -504,14 +467,13 @@ Argentina.
 \hyphenation{hu-ma-ni-dad}
 La zona arqueológica de Chichén Itzá fue inscrita en la lista del
 Patrimonio de la Humanidad por la Unesco en 1988. El 7 de julio de 2007, fue
-reconocida como una de las Las nuevas siete maravillas del mundo moderno, por
+reconocida como una de las nuevas siete maravillas del mundo moderno, por
 una iniciativa privada sin el apoyo de la Unesco, pero con el reconocimiento
 de millones de votantes alrededor del mundo.
 
 Desde ese día no permiten más subirla.
 
 \afterpage{\includepdf{fotos/pdfs/chichen.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -539,7 +501,7 @@ los mozos espiando por la cerradura, muertos de risa.
 Algo que no te conté, del tipo del avión, es que cuando me subí estaba
 sentado en mi asiento, el 32B. Se confundió, el suyo era el 23B. Cuando
 me desperté con todo el movimiento no me di cuenta, pero antes de bajarme
-la vi, abajo del 23B estaba su billetera. Me di cuenta por las fotos en
+la vi, abajo del 32B estaba su billetera. Me di cuenta por las fotos en
 las credenciales. Ya estabamos en México, ¿qué iba a hacer? ¿llevarla
 a la policía? ¿la policía de México se la iba a llevar a la policía
 de Brasil? ¿a la de Sudáfrica? Mucha logística y yo estaba arrancando
@@ -597,8 +559,8 @@ Tanto despliegue de masculinidad, por supuesto, no podía pasar desapercibido,
 que al fin y al cabo las mujeres tampoco son de palo, y menos por esas
 latitudes en las que el sol y la naturaleza mantienen la sangre siempre
 efervescente. Había estado escasos minutos sobre el sillón cuando escuchó
-una voz melódica que le preguntaba “would you mind spreading some sun
-lotion on my back?” Martín no hablaba una palabra de inglés, lo que no
+una voz melódica que le preguntaba «would you mind spreading some sun
+lotion on my back?» Martín no hablaba una palabra de inglés, lo que no
 le impidió comprender la pregunta, porque pocas cosas hay más cercanas a
 un lenguaje universal que la imagen de una morena pechugona, apenas cubierta
 por una minúscula tanga, extendiendo un frasco de bronceador con la mano
@@ -664,7 +626,6 @@ pirámide de Cobá.
 
 
 \afterpage{\includepdf{fotos/pdfs/coba.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -716,7 +677,7 @@ pasamos: chica, elija el que le gusta, el chico paga.
 \vspace{0.5cm}
 
 \hyphenation{di-rec-ción}
-En la billetera del sudafricano, al que le explotaron las cápsulas
+En la billetera del sudafricano, al que le explotó la cápsula
 de cocaína adentro, encontré 400 dolares, identificaciones y una
 tarjeta. La tarjeta era blanca y en letras de molde negras tenía tatuada
 una dirección. Del otro lado tenía el dibujo de ángel con las alas
@@ -733,8 +694,8 @@ estoy imaginando policiales.
 
 \hyphenation{co-ra-zón}
 Esto es obsidiana. Piedra volcánica. Los mayas la obtenían a través
-del comercio con otros pueblos. Tiene propiedades energéticas. Toquenla,
-toquenla. Vean como se vuelve dorada al sol. Yo tengo una de estas en
+del comercio con otros pueblos. Tiene propiedades energéticas. Tóquenla,
+tóquenla. Vean como se vuelve dorada al sol. Yo tengo una de estas en
 mi casa dentro de un recipiente con agua para que atrape las energías
 negativas. En luna llena tienen que cambiar el agua.
 
@@ -743,8 +704,9 @@ de flecha por su dureza. Hoy es usada en los centros de belleza para hacer
 masajes y se hacen cuchillas de obsidiana para usar en cirugías de ojo o
 corazón porque su filo es mucho más delgado que el de los escalpelos de
 acero. Los cortes hechos con las cuchillas de obsidiana son más finos y
-causan menos daño al tejido permitiendo que el cuerpo sane antes. ¿Cuantas
-van a llevar? 50 dólares las grandes, 10 dólares las más chicas.
+causan menos daño al tejido permitiendo que el cuerpo sane antes.
+
+¿Cuantas van a llevar? 50 dólares las grandes, 10 dólares las más chicas.
 
 
 \vspace{0.5cm}
@@ -773,7 +735,9 @@ juro que en el momento me sentí muy listo. Dejé mi billetera en el hotel
 porque no quería que me la vayan a robar. Maldecí la desición recién
 en el momento en que sentí un arma en la espalda y una voz áspera que
 al costado del oído me preguntó por qué miraba tanto hacia la casa del
-patrón. Dos matones vestidos con traje negro y camisa color vino tinto
+patrón.
+
+Dos matones vestidos con traje negro y camisa color vino tinto
 me llevaron a los empujones hasta dentro de la mansión emplazada en la
 dirección grabada en la tarjeta guardada en la billetera que esa mañana
 puse en el bolsillo trasero izquierdo de mi pantalón.
@@ -793,7 +757,6 @@ mañana vimos un chancho pasar corriendo. Y atrás, no me lo vas a creer,
 blandiendo la hoja metálica de su cuchilla, el cocinero del hotel.
 
 \afterpage{\includepdf{fotos/pdfs/playaDelCarmen.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -822,7 +785,7 @@ ser un empleado de Techint en sus vacaciones.
 
 \---¿Qué pasó con el Sr. Louis H. Smith? Lo estoy esperando hace
 unos días ya. El tenía que traerme un paquete muy importante y estoy a
-punto de perder la paciencia. Por suerte, parece, que lo mandó a usted a arreglar
+punto de perder la paciencia. Por suerte parece que lo mandó a usted a arreglar
 cuentas con nosotros.
 
 
@@ -845,7 +808,7 @@ arena, bajo un árbol de ceibas apareció muerto un turista. Tenía marcas
 en todo el cuerpo, como de animal. Y estaba blanco como un papel. Escuché
 a alguien decir que era el argentino de la habitación 189. Nosotros estamos
 en la 188 y lo recordé. Alto, 50 años, bigote recto. Estaba bronceado
-porque hacía más de una semana que estaba aca. Todos los días en la
+porque hacía más de una semana que estaba acá. Todos los días en la
 playa. Se cocina vuelta y vuelta, había bromeado con mi hijo. Profesor de
 matemáticas me dijo que era.
 
@@ -869,7 +832,7 @@ repasa los títulos moviendo los labios, impronunciables.
 Yo tampoco encontré ninguno en español.
 
 Es que esos libros son regalos de huéspedes para los otros huéspedes,
-interviene el muchacho que cambia las toallas, y como buenos latinos ninguno
+interviene el muchacho que cambia las toallas, y, como buenos latinos, ninguno
 regala nada.
 
 Vuelva a buscar mañana señora, que voy a dejar uno mío.
@@ -903,10 +866,10 @@ en otro lugar y dejado ahí para despistar a la policía, y algunas otras
 que ahora no me acuerdo.
 
 Estábamos justamente repasando estas hipótesis (debo admitir que con cierto
-entretenimiento, ya que soy aficionado a las novelas policiales) con otra
+entretenimiento, ya que soy aficionado a los acertijos) con otra
 pareja cuando el mozo que nos servía la bebida se quedó mirándonos,
-como congelado. Qué le pasa, hombre, le pregunté. Y el tipo seguía
-absorto. Se volvió hacia mi y me lo dijo: Xtabay.
+como congelado. ¿Qué le pasa, hombre?, le pregunté. Y el tipo seguía
+absorto. Se volvió hacia mi y me lo dijo: Utz-Colel.
 
 
 \vspace{0.5cm}
@@ -915,8 +878,8 @@ absorto. Se volvió hacia mi y me lo dijo: Xtabay.
 
 Las comunidades maya que pueden ver al costado de los ruta aún conservan
 muchas de sus costumbres. Por ejemplo, duermen en hamacas en lugar de en
-camas. Esto es porque son más frescas y por los bichos. Usan la hamaca
-para todo, para dormir, descansar, reproducirse... Es la famosa hamaca de
+camas. Esto es porque son más frescas y para protejerse de los bichos. Usan la hamaca
+para todo, para dormir, descansar, tener descendencia... Es la famosa hamaca de
 San Andrés, donde se acuestan dos y amanecen tres.
 
 
@@ -972,15 +935,14 @@ para poder ayudar a quién la necesitaba. Utz-Colel, por su parte, bajo su
 apariencia dulce y cándida, era fría, orgullosa y de corazón duro.}
 
 \afterpage{\includepdf{fotos/pdfs/islaMujeres.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
 La semana que estuve en Cancún, crucé a Isla Mujeres. Es chiquita, 9 km de
 largo. La recorrimos entera en un carrito de golf que te alquilan ahí. En
-el ferry a la isla conocimos a una pareja de Rosarinos que también estaban
-de luna de miel. Ellos venían viajando desde DF, en colectivo, parando
+el ferry a la isla conocimos a una pareja de rosarinos que también estaban
+de luna de miel. Ellos venían viajando desde D.F., en colectivo, parando
 en hostels, otro plan. Los reconocimos como argentinos por el Dermaglos,
 el del envase verde. Arriba del ferry alquilaban los carritos así que nos
 pusimos de acuerdo y alquilamos uno entre los cuatro.
@@ -1003,11 +965,11 @@ Directamente desde el taller de un alquimista de nombre olvidado, llega a
 sus manos, rebajado, fraccionado, embotellado y etiquetado, el elixir de
 la eterna juventud.
 
-Con sólo unas gotas ud. podrá volver al esplendor de sus años mozos,
+Con sólo unas gotas usted podrá volver al esplendor de sus años mozos,
 recuperar el cutis de cuando era bebé y sentirse fuerte y atlético
 como nunca. Tómelo todos los días entre el orín mañanero y el café
 del desayuno.  ¿Está leyendo este aviso en el diario matutino? ¿Qué
-espera? Escupa el café, corra a su farmacia de confianza y adquieralo hoy
+espera? Escupa el café, corra a su farmacia de confianza y adquiéralo hoy
 mismo. Pídalo como «elixir de la eterna juventud», el de la etiqueta lila.
 
 Prohibido su venta a menores de 21 años.
@@ -1019,7 +981,7 @@ Elixir de la eterna juventud. Juventud eterna... mientras compre la dosis.
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-Hola, para reservar está noche en uno de los restaurantes temáticos. La
+Hola, para reservar esta noche en uno de los restaurantes temáticos. La
 Hacienda, ese es el de carne argentina, ¿no?
 
 
@@ -1044,7 +1006,7 @@ el clima no nos convenía. Al otro día había sol.
 \hyphenation{pro-pues-tas}
 \hyphenation{ve-ri-fi-car}
 Bitácora de la \st{revolución} rebelión. Día 2. El comandante a cargo de las fuerzas de
-la cocina a propuesto la siguiente estrategia (que si bien no es integral,
+la cocina ha propuesto la siguiente estrategia (que si bien no es integral,
 porque no resuelve el problema de la jornada laboral, apunta a solucionar
 el problema del sueldo): sustraer día a día, cuales hormigas amazónicas,
 raciones de comida para armar platos que luego venderemos a los turistas
@@ -1069,7 +1031,7 @@ suspenso. A verificar por una comisión si no surgen nuevas propuestas.
 
 Paseando con su camiseta de la selección Argentina de fútbol, se jacta de
 gran regateador por haber pagado dos dólares por un imán que le ofrecían
-a cinco y pagó sesenta por un estuche impermeable para la cámara de fotos
+a cinco. Y pagó sesenta por un estuche impermeable para la cámara de fotos
 que se llenó de agua del mar Caribe en la primer inmersión.
 
 
@@ -1078,7 +1040,7 @@ que se llenó de agua del mar Caribe en la primer inmersión.
 \vspace{0.5cm}
 
 Hansel y Gretel. 300 kg entre los dos. Socios vitalicios del bar de la
-piscina. Cómo ballenas encalladas, destinadas a morir en la orilla, nunca
+piscina. Como ballenas encalladas, destinadas a morir en la orilla, nunca
 cruzaron los metros de arena que los separaban del mar. Es que estamos de
 vacaciones, dijo ella.
 
@@ -1186,7 +1148,6 @@ crédito? Muy bien, cuando regresan de dar la vuelta a la isla le llenan
 el tanque de gasolina.
 
 \afterpage{\includepdf{fotos/pdfs/auto.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -1321,7 +1282,7 @@ A la noche el departamento está vacío porque la nueva inquilina va a la
 universidad. Estudia alguna ingeniería. Lo se por sus apuntes. A veces los
 leo, pero me resultan bastante aburridos. Después de darme un rutinario
 paseo por el dormitorio, empiezo a limpiar los rastros de mi presencia. Lavo
-la taza en la que me tomé café, limpio, guardo. Me causa gracia, en mi
+la taza en la que tomé café, limpio, guardo. Me causa gracia, en mi
 actual departamento no soy tan prolijo.
 
 Entonces se me ocurre, ¿por qué no ir más lejos hoy? Vuelvo al dormitorio
@@ -1537,15 +1498,15 @@ clavos de olor, comino, orégano y jitomate asado. Licuar hasta tener una
 salsa homogénea.
 
 Colocar la carne en un tazón de vidrio o bolsa con cierre y agregar la
-salsa asegurándote que cubrir toda la carne. Marinar dentro del refrigerador
+salsa asegurándose que cubrir toda la carne. Marinar dentro del refrigerador
 durante por lo menos 4 horas o durante toda la noche.
 
-Precalientar un comal o el asador a fuego medio-alto. Asar los filetes
+Precalentar un comal o el asador a fuego medio-alto. Asar los filetes
 marinados, volteando una vez, hasta que se hayan cocido completamente,
 aproximadamente 2 minutos por lado.
 
 Mientras, asar las rebanadas de piña que se hayan quemado ligeramente,
-alrededor de 5 minutos por lado. Si lo desea, puedes barnizarlas con la
+alrededor de 5 minutos por lado. Si lo desea, puede barnizarlas con la
 salsa de la carne mientras se asan.
 
 Picar la carne y la piña.
@@ -1586,8 +1547,8 @@ que se me acalambraron los músculos de la cara.
 
 Un empresario norteamericano estaba mirando el mar en la costa de un
 pueblito mexicano cuando vió a un pescador acercarse a la orilla con
-su barco cargado con algunos pescados. El empresario le preguntó cuanto
-tiempo al día dedicaba a la pesca. Solo un par de horas, respondió el
+su barco cargado con algunos pescados. El empresario le preguntó cuánto
+tiempo al día dedicaba a la pesca. Sólo un par de horas, respondió el
 pescador. El empresario le preguntó por qué no le dedicaba más tiempo,
 ya que así podría sacar más peces. El mexicano respondió que con eso
 le alcanzaba para mantener a su familia. Pero... qué hace el resto del
@@ -1596,8 +1557,8 @@ duermo la siesta con mi mujer y a la tardecita voy al pueblo a tomar vino
 y tocar la guitarra con mis amigos. Como verá, tengo una vida muy ocupada.
 
 El norteamericano sonrió con sorna. Soy experto en negocios y puedo
-ayudarlo. Usted debería pasar más tiempo pescando, así tendría más
-pescados y con el dinero extra se podría comprar un bote más grande. Un
+ayudarlo. Usted debería pasar más tiempo pescando, así tendrá más
+pescados y con el dinero extra se podrá comprar un bote más grande. Un
 bote más grande le permitirá aumentar aún más su pesca y con el dinero
 extra podrá comprar más botenes. Con una flota podrá aumentar aún más su
 pesca y con tanto volumen podrá negociar directamente con los que procesan
@@ -1671,7 +1632,7 @@ Soy México reza el cartel del parque más visitado y el actor que posa,
 vestido como maya, dando un caderazo en medio de un tradicional juego de
 pelota, es guatemalteco.
 
-
+\afterpage{\includepdf{fotos/pdfs/tulum.pdf}}
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -1713,7 +1674,6 @@ Con una pronunciación que no podía disimular su origen nos contestó. Anoto
 mis pensamientos. Es mucho mejor que sacar fotos. Necesito recordar lo que
 siento en este momento porque es todo muy lindo.
 
-\afterpage{\includepdf{fotos/pdfs/tulum.pdf}}
 
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
@@ -1754,7 +1714,7 @@ caminar del dicho al hecho.
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
 
-Dos mozos, si esos mismos dos mozos, charlan en su hora libre, si la de
+Dos mozos, sí, esos mismos dos mozos, charlan en su hora libre. Sí, la de
 46 minutos.
 
 ¿No vas a la reunión?
@@ -1772,7 +1732,6 @@ fue construída con piedas robadas a monumentos maya.
 
 
 \afterpage{\includepdf{fotos/pdfs/villadolid.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -1803,17 +1762,17 @@ y con un equipo que no cuesta más de 50 dólares.
 
 Según el experto en seguridad informática Cody Brocious, si el sistema
 de puertas del hotel está conectado a la red eléctrica, él puede abrir
-cualquier puerta usando un dispositivo basado en una mini computadora llamada
-Arduino. El aparato que construyó es capaz de abrir cinco millones de
+cualquier puerta usando un dispositivo basado en una mini computadora. 
+El aparato que construyó es capaz de abrir cinco millones de
 habitaciones en todo el mundo.
 
-El aparato funciona como si fuera una de las tarjetas que el hotel entrega
+Funciona como si fuera una de las tarjetas que el hotel entrega
 y abre todas las puertas que utilicen ese tipo de cerradura. Consigue su
 objetivo porque el código necesario para abrir una puerta se encuentra
 tanto en la tarjeta de los huéspedes como en la cerradura. El invento de
 Brocious lee la memoria de la cerradura y luego un programa es capaz de
 abrirla. El hacker tiene 24 años y ha presentado su descubrimiento en la
-conferencia Blackhat.
+conferencia Black Hat.
 
 
 \vspace{0.5cm}
@@ -1897,7 +1856,6 @@ dulce. Bajé con el bikini puesto pero no pude mojarme más que el dedo gordo.
 
 
 \afterpage{\includepdf{fotos/pdfs/cenote.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
@@ -1965,9 +1923,9 @@ ya con una carita feliz roja pintada en el hombro izquierdo de una piel
 planquísima que a fuerza de losión importada se protegió del sol. Está
 la pareja que me encontré en la pileta (la señora tiene un libro mío
 en la mano), están el doctor Mora, el escribano Peretti y el ingeniero
-Zimmermanestá, está el marido de la ucraniana con una carita negra y la
+Zimmerman está, está el marido de la ucraniana con una carita negra y la
 ucraniana con una roja, están las dos amigas, Maia y la otra, con el mismo
-color están los que llegaron al aropuerto en auto, colectivo o transporte,
+color están los que llegaron al aropuerto en auto, colectivo o \emph{transfer},
 el del muerto en el avión, el que se queja de las excursiones pero sin
 embargo vieno de vacaciones aca en lugar de recorrer américa latina como
 mochilero. Al flaco de los machunones le pintaron una carita roja en el
@@ -1976,11 +1934,11 @@ le pregunté que me iba a dibujar. Es para hacer la competencia final,
 tendremos cinchadas, carrera de harina y competencia de baile.
 
 Me dejo tatuar una carita color negro y el miembro de equipo de animación
-siguen haciendo su trabajo. El sol es tan fuerte que unos minutos más tarde
+sigue haciendo su trabajo. El sol es tan fuerte que unos minutos más tarde
 la carita ya está deformada y pasa a convertirse en un manchón negro en mi
 brazo. Cuando nos ordenan dividirnos en dos grupos según el color de nuestra
-mancha en el brazo miro a mis compañeros de equipo y encuentro otras caras
-conocidas. Está el padre de la familia que fue en la misma escurción que
+mancha miro a mis compañeros de equipo y encuentro otras caras
+conocidas. Está el padre de la familia que fue en la misma excursión que
 yo a Chichenitza, dos de los estudianets que estaban en Tulum, la pareja
 que me contó su problema con el auto en Cozumel, el hincha de Talleres
 de Córdoba, J y C a los que ya se le termina su luna de miel y las viejas
@@ -1988,7 +1946,7 @@ del contingente de La Plata que entre todas compraron 15 kg de obsidiana.
 
 Del otro lado, con un manchón rojo en el brazo que parece una herida
 reconozco al porteño que se quejaba del asado local siendo que vive en
-un departamento y nunca asa, hoy también tiene puesta la camiseta de
+un departamento y nunca asa. Hoy también tiene puesta la camiseta de
 la selección argentina, la usó todos los días, no quisiera tener que
 olerla. En su grupo también está el sobrino de Carmen, la señora que
 desayunaba sola, Hansel y Gretel, el tipo que leía Cicatrices, Mónica que no
@@ -2005,7 +1963,7 @@ este tiene que pasarselo a quien está atrás suyo y así hasta llegar
 al final, donde se va acumulando una pila de harina. Gana el equipo que
 más cantidad logre juntar. El juego se descontrola y todos hacen trampa,
 todos terminamos llenos de harina y se declara un empate técnico. Todos
-al agua mis amiguitos grita el del aquaeróbic y todos hacemos caso y todos
+al agua mis amiguitos, grita el del aquaeróbic y todos hacemos caso y todos
 volvemos convertidos en engrudo.
 
 Nos recibe la vos aflautada del animador.
@@ -2024,7 +1982,7 @@ aca, una semana en Cancún y ahora volví aca para pasar mi semana final. ¿Me
 perdí de algo? Lo abrazo. Le digo que nada mientras veo, a lo lejos, muertos de risa,
 a los dos mozos que habían puesto a correr el rumor del turista muerto
 encontrado bajo un árbol de ceibas. Uno es el que me hizo ir a buscar la
-leyenda de Xtabay. Le digo al profesor de matemáticas que ocupe mi lugar.
+leyenda de Utz-Colel. Le digo al profesor de matemáticas que ocupe mi lugar.
 
 
 \vspace{0.5cm}
@@ -2056,7 +2014,7 @@ De acuerdo con el funcionario municipal, entre el sábado y domingo pasados
 acudieron más de 10 mil personas a disfrutar de las cálidas aguas de
 nuestro mar, por lo que sumado a las visitas anteriores la cifra supera,
 haciendo la plancha, los 50 mil bañistas en lo que va de la temporada
-veraniega tan sólo en las playas públicas.  En temporada alta los niños
+veraniega. En temporada alta los niños
 son uno de los problemas a los que se enfrentan los guardavidas, porque
 los adultos se quedan dormidos tomando sol o se meten a nadar y descuidan a
 los menores y estos se alejan o se pierden. Hasta el momento han rescatado
@@ -2087,7 +2045,7 @@ multiplicidad de textos cortos, uno a continuación del otro, una multitud
 de voces que van ingresando al texto para formarlo. Así que voy a intentar
 hacer una novela con ese formato. Un estilo \emph{aggiornado} a los tiempos que
 corren digamos... la gente tiene lapsos de tiempo cortos para leer (en el
-baño, en el colectivo, en el auto mientras esperan a la hija que salga del
+baño, en el colectivo, en el auto mientras esperan que salga la hija del
 colegio) y a mi me pasa lo mismo para escribir (el domingo a la mañana,
 alguna noche, un recreo en el trabajo). De hecho la empecé a escribir en
 el celular mientras viajaba.
@@ -2141,7 +2099,7 @@ Bitácora de la rebelión. Día 20. Hablar con el escritor.
 
 \hyphenation{mon-don-go}
 \hyphenation{pi-ca-di-tas}
-Ahí está el transfer. Disculpe, ¿donde pega menos el aire?
+Ahí está el \emph{transfer}. Disculpe, ¿donde pega menos el aire?
 
 Atrás. ¿Se enfermó?
 
@@ -2190,7 +2148,7 @@ Conté la realidad en lugar de una ficción para proteger a los personajes.
 La charla con Gaspar duró más de tres horas. Me contó sobre su familia,
 una esposa, dos hijos, una hija, cuatro nietos. Sobre su juventud como
 pescador, me contó de un norteamericano que se propuso hacerlo millonario
-y después de enredsarse en negocios con él terminó con menos que antes.
+y después de enredarse en negocios con él terminó con menos que antes.
 
 Yo le conté sobre mi vida en Argentina, el trabajo sofocante para pagar el
 alquiler de un monoambiente, los intentos fallidos por publicar una novela
@@ -2209,7 +2167,6 @@ listillos le habían hecho renombrar. Les dió el gusto.
 Por último hizo su pedido.
 
 \afterpage{\includepdf{fotos/pdfs/iguana.pdf}}
-
 \vspace{0.5cm}
 \hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
 \vspace{0.5cm}
