@@ -29,23 +29,6 @@
 
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 
-% change the space before the titles
-\makeatletter
-\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
-\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
-\makeatother
-
-% change the space after the titles
-\renewcommand{\DOTI}[1]{%
-    \raggedright
-    \CTV\FmTi{#1}\par\nobreak
-    \vskip 10pt}% original: 40pt
-\renewcommand{\DOTIS}[1]{%
-    \raggedright
-    \CTV\FmTi{#1}\par\nobreak
-    \vskip 10pt}% original: 40pt
-
-
 \title{Xolopes}
 \author{Juanjo Conti}
 \date{}
@@ -60,10 +43,6 @@
 \hyphenation{per-dien-do}
 \hyphenation{me-tros}
 \hyphenation{di-si-mu-lar}
-
-\addto\captionsspanish{
-  \renewcommand{\figurename}{Foto}
-}
 
 \begin{document}
 
@@ -99,11 +78,6 @@ http://www.juanjoconti.com.ar/libros
 
 \noindent
 \begin{flushright}
-%\emph{
-%\emph{Xolopes} está dedicado \\a mi papá y a mi mamá\\
-%que me enseñaron \\a leer y a amar.\\
-%Amo, por eso escribo.
-%}
 \emph{
 \emph{Xolopes} \\está \\dedicado \\a \\mi \\papá \\y \\a \\mi \\mamá\\
 que \\me \\enseñaron \\a \\leer \\y \\a \\amar.\\
