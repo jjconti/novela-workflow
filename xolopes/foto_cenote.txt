@@ -1,1 +1,1 @@
-\afterpage{\includepdf{fotos/pdfs/cenote.pdf}}
+fotos/pdfs/cenote.pdf

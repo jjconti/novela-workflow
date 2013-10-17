@@ -1,1 +1,1 @@
-\afterpage{\includepdf{fotos/pdfs/chichen.pdf}}
+fotos/pdfs/chichen.pdf

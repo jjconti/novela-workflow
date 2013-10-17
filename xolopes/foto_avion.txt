@@ -1,1 +1,1 @@
-\afterpage{\includepdf{fotos/pdfs/avion.pdf}}
+fotos/pdfs/avion.pdf

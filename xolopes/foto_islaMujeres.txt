@@ -1,1 +1,1 @@
-\afterpage{\includepdf{fotos/pdfs/islaMujeres.pdf}}
+fotos/pdfs/islaMujeres.pdf

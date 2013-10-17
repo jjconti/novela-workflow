@@ -1,4 +1,5 @@
 import os
+import sys
 
 def getAsTexContent(fileName):
     if fileName.startswith('#'):
@@ -6,7 +7,8 @@ def getAsTexContent(fileName):
     fileName = fileName.strip('?')
     fileContent = open(fileName + '.txt', 'r').read()
     if fileName.startswith('foto_'):
-        return fileContent
+        draft = "[draft]" if len(sys.argv) > 1 and sys.argv[1] == 'draft' else ""
+        return "\\afterpage{\\includepdf" + draft + "{" + fileContent.strip() + "}}"
     else:
         return '''
 \\vspace{0.5cm}
@@ -21,5 +23,5 @@ for f in open('xolopes.index').read().splitlines():
     content += getAsTexContent(f)
 
 mainTex = open('xolopesBase.tex', 'r').read()
-final = open('xolopes.tex', 'w+')
+final = open('draft.tex' if len(sys.argv) > 1 and sys.argv[1] == 'draft' else 'xolopes.tex', 'w+')
 final.write(mainTex.replace('##CONTENT##', content))

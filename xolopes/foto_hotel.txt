@@ -1,1 +1,1 @@
-\afterpage{\includepdf{fotos/pdfs/hotel.pdf}}
+fotos/pdfs/hotel.pdf

@@ -1,1 +1,1 @@
-\afterpage{\includepdf{fotos/pdfs/villadolid.pdf}}
+fotos/pdfs/villadolid.pdf
