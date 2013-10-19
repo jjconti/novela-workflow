@@ -1,6 +1,6 @@
-El mar y la playa son como un libro inmenso, un libro infinito, que día
+\emph{El mar y la playa son como un libro inmenso, un libro infinito, que día
 a día va pasando sus páginas. Cada ola sobre la arena que trae algo y se
-lleva un poco puede verse como una hoja de ese libro que alguien va pasando.
+lleva un poco puede verse como una hoja de ese libro que alguien va pasando.}
 
-Los glifos con los que se escribe son marcas en la arena. Un cuadrado que
-delimita una cancha, un corazón que dice J y C, un castillo.
+\emph{Los glifos con los que se escribe son marcas en la arena. Un cuadrado que
+delimita una cancha, un corazón que dice J y C, un castillo.}
