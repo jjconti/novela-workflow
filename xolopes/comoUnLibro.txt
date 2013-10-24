@@ -3,4 +3,4 @@ a día va pasando sus páginas. Cada ola sobre la arena que trae algo y se
 lleva un poco puede verse como una hoja de ese libro que alguien va pasando.}
 
 \emph{Los glifos con los que se escribe son marcas en la arena. Un cuadrado que
-delimita una cancha, un corazón que dice J y C, un castillo.}
+delimita una cancha, un corazón que dice \mbox{J y C}, un castillo.}
