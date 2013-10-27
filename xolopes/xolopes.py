@@ -2,7 +2,7 @@ import os
 import sys
 
 def getAsTexContent(fileName):
-    if fileName.startswith('#'):
+    if fileName.startswith('#') or fileName.startswith('!'):
         return ''
     fileName = fileName.strip('?')
     fileContent = open(fileName + '.txt', 'r').read()
@@ -11,15 +11,16 @@ def getAsTexContent(fileName):
         return "\\afterpage{\\includepdf" + draft + "{" + fileContent.strip() + "}}"
     else:
         return '''
-\\vspace{0.5cm}
 \\hrulefill\\hspace{0.2cm} \\decofourleft\\decofourright \\hspace{0.2cm} \\hrulefill
 \\vspace{0.5cm}
 
 ##CONTENT##
+\\vspace{0.5cm}
 '''.replace('##CONTENT##', fileContent)
 
 content = ''
-for f in open('xolopes.index').read().splitlines():
+for line in open('xolopes.index').readlines():
+    f = line.split()[0]
     content += getAsTexContent(f)
 
 mainTex = open('xolopesBase.tex', 'r').read()
