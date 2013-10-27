@@ -15,7 +15,7 @@ podría funcionar con los turistas sudamericanos, en especial bolivianos
 y peruanos, pero:
 
 \begin{enumerate}
-\item Son pocos en compración con los gringos.
+\item Son pocos en comparación con los gringos.
 \item Queremos dolares o euros, no bolivianos o soles.
 \end{enumerate}
 

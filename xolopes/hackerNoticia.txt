@@ -9,7 +9,7 @@ y con un equipo que no cuesta más de 50 dólares.
 
 Según el experto en seguridad informática Cody Brocious, si el sistema
 de puertas del hotel está conectado a la red eléctrica, él puede abrir
-cualquier puerta usando un dispositivo basado en una mini computadora. 
+cualquier puerta usando un dispositivo basado en una minicomputadora.
 El aparato que construyó es capaz de abrir cinco millones de
 habitaciones en todo el mundo.
 
