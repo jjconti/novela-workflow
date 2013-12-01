@@ -1,10 +1,10 @@
-¿Cuál le gusta? Buen precio. Más barato de este lado. ¿Habla español? ¡Le
+---¿Cuál le gusta? Buen precio. Más barato de este lado. ¿Habla español? ¡Le
 hago un descuento si habla español! ¿España?
 
-No.
+---No.
 
-¿Portugal?
+---¿Portugal?
 
-No.
+---No.
 
-¡Argentina! ¡Amigos de Francisco!
+---¡Argentina! ¡Amigos de Francisco!

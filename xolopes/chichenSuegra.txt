@@ -1,11 +1,12 @@
-One dollar. Vengo caminando desprevenido y ataca un vendedor.
+---One dollar. ---Vengo caminando desprevenido y ataca un vendedor.
 
-No hay plata. Lo corto en seco y sigo caminando.
+---No hay plata. ---Lo corto en seco y sigo caminando.
 
-¿Argentino? Mitad de precio. Algo para la suegra. Un recuerdito. Me grita
+---¿Argentino? Mitad de precio. Algo para la suegra. Un recuerdito ---me grita
 para que lo escuche.
 
-No se lo merece. Me doy vuelta y contesto.
+---No se lo merece. ---Me doy vuelta y contesto.
 
-El tipo sonríe mostrando los dientes que le faltan y remata: también
-tenemos cuchillos.
+El tipo sonríe mostrando los dientes que le faltan y remata: 
+
+---También tenemos cuchillos.

@@ -1,6 +1,6 @@
 Gaspar nos describió el escenario hablando como un experto.
 
-Muchos de los turistas pagan por su estadía en efectivo. Dólares.
+---Muchos de los turistas pagan por su estadía en efectivo. Dólares.
 El hotel cuenta con una caja fuerte Sherman con casco exterior e interior de
 acero de 5 y 2 milímetros respectivamente. Espesor total, 70 milímetros. La
 puerta, también de acero, está reforzada con un sistema de flejes de
@@ -13,12 +13,12 @@ millón de combinaciones. Las placas de acero están rellenas de hormigón
 vibrado con sistema de enrejado interno. El exterior está recubierto por
 una pintura anticorrosiva.
 
-Todos los lunes a la mañana, entre las 7:00 y 7:10, un camión blindado
+``Todos los lunes a la mañana, entre las 7:00 y 7:10, un camión blindado
 TAC con nivel de blindaje T8 estaciona frente al hall del hotel. Dos hombres
 armados se bajan con bolsos de lona reforzada. Otro, el conductor, se queda
 en el camión. El gerente les abre la oficina que está detrás del hall con
 una llave que tiene siempre colgada de su cuello. En esta oficina está la
 caja fuerte. Además de en el momento del retiro, la puerta es abierta dos
 veces por día para hacer los ingresos parciales. A las diez de la mañana
-y a las tres de la tarde.
+y a las tres de la tarde''.
 

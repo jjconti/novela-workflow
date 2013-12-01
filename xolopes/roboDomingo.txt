@@ -1,15 +1,16 @@
-Mucho blindaje y muchas balas para mi gusto. Vamos a atacar esta cadena
-de seguridad en su eslabón más débil, el humano.
-
-Lo haremos el domingo a la noche. Mi voz resonó firme en la habitación
+---Mucho blindaje y muchas balas para mi gusto. Vamos a atacar esta cadena
+de seguridad en su eslabón más débil, el humano. Lo haremos el domingo a la noche. ---Mi voz resonó firme en la habitación
 donde estábamos reunidos.
 
 Luego habló el norteamericano.
-If you get the two keys, I can modify the device used to break into the rooms
+
+---If you get the two keys, I can modify the device used to break into the rooms
 to make it find the password for the box. (Si logran conseguir las dos llaves, puedo
 modificar el dispositivo que uso para las puertas de las habitaciones para
 que encuentre la clave de la caja.)
 
 Gaspar aportó un último dato antes de dar lugar a un sin fin bullicioso
-de elucubraciones. En esta época del año el hotel recauda unos 500.000
+de elucubraciones. 
+
+---En esta época del año el hotel recauda unos 500.000
 dólares semanales.
