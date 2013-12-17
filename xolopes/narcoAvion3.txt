@@ -1,13 +1,14 @@
 \hyphenation{bra-si-le-ño}
 \hyphenation{e-xi-ge}
 \hyphenation{via-je}
-Pasó una hora y el clima en el avión es tenso. Te preguntás qué mierda
+%Pasó una hora y el clima en el avión es tenso. 
+Después de haber pasado una hora, el clima del avión es tenso. 
+Te preguntás qué mierda
 estará pasando cuando volvés a escuchar la voz del capitán. 
-
----Les habla
+``Les habla
 su capitán, tengo que informarles que se ha encontrado cocaína en las
 pertenencias del pasajero y la policía local no nos permite continuar el
-viaje hasta realizar los peritajes necesarios en el avión. 
+viaje hasta realizar los peritajes necesarios en el avión''. 
 
 Ves a un padre
 con su bebé en brazos a las puteadas. Lo mandan a primera clase, igual que

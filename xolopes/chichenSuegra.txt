@@ -1,6 +1,6 @@
 Vengo caminando desprevenido y ataca un vendedor.
 
----One dollar.
+---\emph{One dollar}.
 
 Lo corto en seco y sigo caminando.
 
