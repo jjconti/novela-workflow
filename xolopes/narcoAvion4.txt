@@ -1,5 +1,6 @@
-Les habla su capitán, les informo que hemos podido reabastecernos
+``Les habla su capitán, les informo que hemos podido reabastecernos
 del combustible necesario para continuar el viaje. En cuarenta minutos
-iniciaremos el despegue. Ya pasaron seis horas desde el aterrizaje y es
+iniciaremos el despegue''. 
+Ya pasaron seis horas desde el aterrizaje y es
 de noche. La mayoría de los pasajeros están dormidos y vos, desvanecido,
 te dormís cuando el avión está despegando.

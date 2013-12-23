@@ -1,5 +1,9 @@
-¿\emph{Yankee}? ¿What's a \emph{yankee}?
+---¿\emph{Yankee}? ¿What's a \emph{yankee}?
 
-En argenindio-english le contesté. It's how we call people from United States.
+En argenindio-english le contesté:
 
-La mujer era alta y de pelo colorado. Esposa de un director de orquesta, me contó después. Habernos escuchado referirnos a ellos de esa forma le había causado mucha gracia. Estaba muy divertida. Really? I've never heard that! I mean... I've heard \emph{yankees} refered to the New York team, but...
+---It's how we call people from United States.
+
+La mujer era alta y de pelo colorado. Esposa de un director de orquesta, me contó después. Habernos escuchado referirnos a ellos de esa forma le había causado mucha gracia. Estaba muy divertida. 
+
+---Really? I've never heard that! I mean... I've heard \emph{yankees} refered to the New York team, but...

@@ -1,4 +1,4 @@
-Al final fuimos a un All inclusive. Una pulcerita, comida y bebida gratis,
+Al final fuimos a un \emph{all-inclusive}. Una pulcerita, comida y bebida gratis,
 en abundancia, todo el día, todos los días.
 
 Yo me consolaba solo diciéndome que así ya tenía resuelto el tema de

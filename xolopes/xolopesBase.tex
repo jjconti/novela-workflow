@@ -50,6 +50,9 @@
 
 \begin{document}
 
+% Quitar los numeros de pagina
+\pagenumbering{gobble}
+
 \pagestyle{plain}
 
 \maketitle
@@ -96,6 +99,10 @@ Amo, por eso escribo.
 ##CONTENT##
 
 \vspace{0.5cm}
-\hrulefill\hspace{0.2cm} \decofourleft\decofourright \hspace{0.2cm} \hrulefill
+\hrulefill\hspace{0.2cm} \decofourright\decofourleft \hspace{0.2cm} \hrulefill
+
+\cleardoublepage
+
+\includepdf{chunks.pdf}
 
 \end{document}

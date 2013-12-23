@@ -1,3 +1,7 @@
-Escuché dos amigas discutir: ¿Y si vamos a un hostel? Estás loca, le
-dijo una a la otra, si vamos a Cancún, vamos a un All Inclusive.
+Escuché dos amigas discutir: 
+
+---¿Y si vamos a un hostel? 
+
+---Estás loca ---le
+dijo una a la otra---, si vamos a Cancún, vamos a un \emph{all-inclusive}.
 

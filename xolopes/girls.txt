@@ -1,5 +1,5 @@
-Where are you from, girls?
+---\emph{Where are you from, girls?}
 
-Argentina.
+---Argentina.
 
-Where is that? Somewhere in Mexico?
+---\emph{Where is that? Somewhere in Mexico?}
