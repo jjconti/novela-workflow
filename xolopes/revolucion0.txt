@@ -15,8 +15,8 @@ salarios mínimos generales, compañeros. Es principalmente la Ley Federal
 del Trabajo la que contiene la regulación de los salarios mínimos.
 Entre los Art. 90 y 97, se encuentran sus características principales.
 
-``El salario mínimo en México es de $60,66 diarios, lo que equivale
-a U$S4,4. Esto resulta insuficiente para cubrir las necesidades de una
+``El salario mínimo en México es de \$60,66 diarios, lo que equivale
+a U\$S4,4. Esto resulta insuficiente para cubrir las necesidades de una
 familia. En la constitución mexicana, compañeros, se determina que la 
 Comisión Nacional de Salarios
 Mínimos, integrada el gobierno más empleadores y trabajadores, será la
