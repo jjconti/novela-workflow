@@ -8,7 +8,7 @@
 
 \item La historia de Utz-Colel es una leyenda mexicana.
 
-\item Cody Brocious es un hacker y presentó su descubrimiento en Black Hat 2012.
+\item Cody Brocious es un hacker de \emph{Mozilla Corporation} y presentó su descubrimiento en \emph{Black Hat} 2012.
 
 \item Las noticias presentadas tienen base real pero fueron adulteradas.
 
