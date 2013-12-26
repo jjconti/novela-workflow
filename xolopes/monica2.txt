@@ -2,7 +2,8 @@
 Otro día en la playa con el cuaderno, después de
 flotar por horas en el agua, Mónica escribe:
 
-\vspace{0.5cm}
+%\vspace{0.5cm}
+\pagebreak
 
 Floto
 

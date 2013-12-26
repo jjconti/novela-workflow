@@ -1,13 +1,27 @@
-\item 1 cebolla en trozos.  \item 1/4 de taza
-de vinagre.  \item 1/2 taza de jugo de naranja.  \item 1 taza de piña
-picada.  \item 3 clavos de olor.  \item 1 cucharadita de comino.  \item 1
-cucharadita de orégano.  \item 1 jitomate asado, pelado y sin semillas.
-\item 1 cucharada de sal.  \end {itemize}
+\begin{itemize}
+
+\item 1 cebolla en trozos
+\item 1/4 de taza de vinagre
+\item 1/2 taza de jugo de naranja
+\item 1 taza de piña picada
+\item 3 clavos de olor
+\item 1 cucharadita de comino
+\item 1 cucharadita de orégano
+\item 1 jitomate asado, pelado y sin semillas
+\item 1 cucharada de sal
+
+\end {itemize}
 
 Elementos necesarios para servir:
 
-\begin{itemize} \item Tortillas de maíz (de preferencia hechas a mano).
-\item 4 rebanadas de piña.  \item 1/2 taza de cilantro limpio y picado.
-\item 1/2 taza de cebolla picada.  \item Salsa taquera de tomate (tomatillo).
-\item Rebanadas de limón.  \end{itemize}
+\begin{itemize} 
+
+\item tortillas de maíz (de preferencia, hechas a mano)
+\item 4 rebanadas de piña
+\item 1/2 taza de cilantro limpio y picado
+\item 1/2 taza de cebolla picada
+\item salsa taquera de tomate (tomatillo)
+\item rebanadas de limón
+
+\end{itemize}
 
