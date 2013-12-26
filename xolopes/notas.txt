@@ -8,7 +8,9 @@
 
 \item La historia de Utz-Colel es una leyenda mexicana.
 
-\item Cody Brocious es un hacker de \emph{Mozilla Corporation} y presentó su descubrimiento en \emph{Black Hat} 2012.
+\item La historia del pescador y el empresario es un cuento popular en el cual las nacionalidades de los protagonistas varían en las distintas versiones.
+
+\item Cody Brocious es un \emph{hacker} de \emph{Mozilla Corporation} y presentó su descubrimiento en \emph{Black Hat} 2012.
 
 \item Las noticias presentadas tienen base real pero fueron adulteradas.
 
