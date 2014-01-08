@@ -2,6 +2,29 @@
 
 \item A mi esposa Cecilia, compañera de viaje en las historias de este libro que no son inventadas.
 
-\item A quienes apoyaron este proyecto comprando el libro en pre-venta:
+\item A los lectores de los primeros borradores de esta novela: César, Milton, David y Marilina.
+
+\item A quienes apoyaron este proyecto comprando el libro en preventa:
+Antonio Negro,
+César Portela,
+Tomás Bracalentti,
+María Diamantina Paredes,
+David Capello,
+Emanuel Herrmann,
+Mariano Mara,
+Santiago Arguilla,
+Susana Garau,
+Bárbara Yunges,
+Luciano Bello,
+Pablo Addante,
+Milton Pividori,
+Nicolás Javier Guimar.
+
+\item A la asesora literaria y correctora de lujo con quien tuve el gusto de contar 
+para hacer que este trabajo alcance un grado de corrección muy superior al que aspiraba: 
+Lis Gariglio.
+
+\item A ti, lector, por haberme leído. Incluso tal vez hasta compraste este, un libro invisible, autoeditado.
+Si te gustó, te pido algo más: ayudame a difundirlo.
 
 \end{itemize}
