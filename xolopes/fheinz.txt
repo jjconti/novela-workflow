@@ -15,7 +15,7 @@ esta historia. Te la paso porque te puede servir para la novela:
 
 ``En el primer día de sus vacaciones en el Caribe, Martín salió a matar. De
 abajo para arriba, llevaba ojotas, bermudas rojas, camisa floreada, amplia
-para disimular la ``zapán'' y abierta para que se viera la cadena de oro,
+para disimular la `zapán' y abierta para que se viera la cadena de oro,
 anteojos negros con marco de metal dorado y la gorra del Club Atlético
 Talleres (no por seductor iba a renegar de sus sentimientos más
 profundos). Entró a la playa con el pecho henchido, consciente de que las
@@ -27,7 +27,7 @@ Tanto despliegue de masculinidad, por supuesto, no podía pasar desapercibido;
  al fin y al cabo, las mujeres tampoco son de palo y menos en esas
 latitudes en las que el sol y la naturaleza mantienen la sangre siempre
 efervescente. Había estado escasos minutos sobre el sillón cuando escuchó
-una voz melódica que le preguntaba ``\emph{would you mind spreading some sun
+una voz melódica que le preguntaba ``\emph{Would you mind spreading some sun
 lotion on my back?}''. Martín no hablaba una palabra de inglés, lo que no
 le impidió comprender la pregunta, porque pocas cosas hay más cercanas a
 un lenguaje universal que la imagen de una morena pechugona, apenas cubierta
@@ -56,7 +56,7 @@ al oído si no quería acompañarlas a la habitación del hotel, donde las
 estaba esperando otra amiga.
 
 El hotel no estaba lejos y la puerta se abrió para revelar a la más bella,
-más voluptuosa y más desnuda de las tres, quien los esperaba con tragos
+ voluptuosa y desnuda de las tres, quien los esperaba con tragos
 servidos. Martín tardó un momento en darse cuenta de la presencia de otro
 hombre en la habitación y, pese a que su aspecto era agradable, sintió
 cierto temor. El extraño resultó ser un centroamericano muy cordial,

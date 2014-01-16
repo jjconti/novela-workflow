@@ -1,8 +1,10 @@
 \hyphenation{pa-sa-je-ro}
 \hyphenation{e-llas}
 \hyphenation{fe-de-ral}
-El \emph{Folha de S. Paulo} informa. Africano muere
-durante vuelo con 104 cápsulas de cocaína en el estómago.  El sudafricano
+El \emph{Folha de S. Paulo} informa: ``Africano muere
+durante vuelo con 104 cápsulas de cocaína en el estómago''.
+
+El sudafricano
 Louis Hendrik Smith, de 34 años, murió esta tarde durante un vuelo entre
 Argentina y México, se presume por sobredosis de cocaína. Fuentes de
 la Policía Federal informan que Smith había ingerido 1,7 kg de droga,
