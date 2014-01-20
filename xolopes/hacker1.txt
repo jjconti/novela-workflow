@@ -12,9 +12,9 @@ rápido y saliste corriendo.
 ---Sí.
 
 ---Bueno, hoy leí este cuento en uno de los libros de la biblioteca que está
-al lado de la piscina y me acordé de vos. Se llama ``El departamento'':
+al lado de la piscina y me acordé de vos. Se llama «El departamento»:
 
-``Estoy nuevamente en el departamento. De vez en cuando vuelvo por la
+«Estoy nuevamente en el departamento. De vez en cuando vuelvo por la
 noche. Todavía tengo mis llaves y no cambiaron la cerradura. Abro sin hacer
 ruido, subo despacio las escaleras y prendo la luz de la cocina. La del
 living no, porque se ve desde afuera por la ventana. Enciendo una hornalla
@@ -41,4 +41,4 @@ a cada uno de los sonidos. No sé si pasó media hora o tres horas cuando
 escucho que cierra la canilla luego de lavar los platos.
 
 La luz se enciende y vuelvo a verme las manos después de varias horas de
-oscuridad. Están transpiradas''.
+oscuridad. Están transpiradas».

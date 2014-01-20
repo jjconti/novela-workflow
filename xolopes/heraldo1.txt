@@ -1,7 +1,7 @@
 \hyphenation{pla-yas}
 \hyphenation{cá-li-das}
-El \emph{Heraldo de Quintana Roo} informa: ``Playa del Carmen. Cifra récord de
-asistencia a playas''.
+El \emph{Heraldo de Quintana Roo} informa: «Playa del Carmen. Cifra récord de
+asistencia a playas».
 
 En esta temporada de verano, más de cincuenta mil personas
 han acudido a disfrutar del mar Caribe. 
