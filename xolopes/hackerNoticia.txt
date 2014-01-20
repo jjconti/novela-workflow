@@ -17,5 +17,5 @@ y abre todas las puertas que utilicen ese tipo de cerradura. Consigue su
 objetivo porque el código necesario para abrir una puerta se encuentra
 tanto en la tarjeta de los huéspedes como en la cerradura. El invento de
 Brocious lee la memoria de la cerradura y luego un programa es capaz de
-abrirla. El \emph{hacker} tiene 24 años y ha presentado su descubrimiento en la
+abrirla. El \emph{hacker} tiene veinticuatro años y ha presentado su descubrimiento en la
 conferencia \emph{Black Hat}.
