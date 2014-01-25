@@ -10,11 +10,12 @@ Joel Lorenzatti,
 Antonio Negro,
 Leonardo Martinez,
 César Portela,
-Tomás Bracalentti,
+Tomás Bracalenti,
 María Diamantina Paredes,
 Margarita Guadalupe Garau,
 David Capello,
 Emanuel Herrmann,
+Pablo Ramos,
 Adrián Staffolani,
 Leandro Rojas,
 Raúl Conti,
@@ -28,7 +29,7 @@ Luciano Bello,
 Pablo Addante,
 Milton Pividori,
 Nicolás Javier Guimar,
-Manuel Kaufmann.
+y Manuel Kaufmann.
 
 \item A la asesora literaria y correctora de lujo con quien tuve el gusto de contar 
 para hacer que este trabajo alcance un grado de corrección muy superior al que aspiraba: 
