@@ -2,7 +2,7 @@
 
 \item A mi esposa Cecilia, compañera de viaje en las historias de este libro que no son inventadas.
 
-\item A los lectores de los primeros borradores de esta novela: César, Milton, Joel, David, Santi y Marilina.
+\item A los lectores de los primeros borradores de esta novela: César, Milton, Joel, David, Santi, Melisa y Marilina.
 
 \item A quienes apoyaron este proyecto comprando el libro en preventa:
 Laura Casado,
@@ -35,11 +35,9 @@ y Manuel Kaufmann.
 para hacer que este trabajo alcance un grado de corrección muy superior al que aspiraba: 
 Lis Gariglio.
 
-\item A ti, lector, por haberme leído. Incluso tal vez hasta compraste este, un libro invisible, autoeditado.
+\item A ti, lector, por haberme leído. Incluso tal vez hasta compraste éste, un libro invisible, autoeditado.
 Si te gustó, te pido algo más: ayudame a difundirlo. Prestalo o, si sos más moderno,
 sacate una foto con el libro y compartila con la
 dirección de la web del libro\\ (http://www.juanjoconti.com.ar/xolopes).
-
-%\item ¿Tenés anécdoras \emph{xolopes}? Mandámelas por mail \\ a \mbox{jjconti@gmail.com} con algunas fotos y la publico en mi blog.
 
 \end{itemize}
