@@ -5,7 +5,7 @@
 %estaba de vacaciones en México leí una que transcurría en Villa
 %Gesell y me pareció buenísima. Si bien es un policial atrapante, lo que
 %más me llamó la atención no fue el contenido sino la forma. Esta novela,
-... en lugar de ser una sucesión de pocos capítulos largos, se forma con una
+...en lugar de ser una sucesión de pocos capítulos largos, se forma con una
 multiplicidad de textos cortos, uno a continuación del otro, una multitud
 de voces que van ingresando al texto para formarlo. Así que voy a intentar
 hacer una novela con ese formato. Un estilo \emph{aggiornado} a los tiempos que
