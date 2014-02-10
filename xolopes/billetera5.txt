@@ -1,10 +1,10 @@
 \hyphenation{us-te-des}
 \hyphenation{no-so-tros}
----What happened with Mr. Louis H. Smith?
+---\emph{What happened with Mr. Louis H. Smith?}
 
----¿He...? ¿Dónde estoy? ¿Quiénes son ustedes?
+---¿Eh...? ¿Dónde estoy? ¿Quiénes son ustedes?
 
----¿Qué pasó con el Sr. Louis H. Smith? Lo estoy esperando hace
-unos días ya. El tenía que traerme un paquete muy importante y estoy a
-punto de perder la paciencia. Por suerte parece que lo mandó a usted a arreglar
+---¿Qué pasó con el Sr. Louis H. Smith? Lo estoy esperando hace ya
+unos días. El tenía que traerme un paquete muy importante y estoy a
+punto de perder la paciencia. Por suerte, parece que lo mandó a usted a arreglar
 cuentas con nosotros.

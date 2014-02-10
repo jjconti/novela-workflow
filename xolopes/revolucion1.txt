@@ -1,15 +1,15 @@
 \hyphenation{mi-nu-tos}
 \hyphenation{la-bo-ra-les}
 Bitácora de la \st{revolución} rebelión. Día 1. Hoy, durante la hora libre, que en
-realidad son 46 minutos, nos hemos reunidos con los compañeros alineados
+realidad son cuarenta y seis minutos, nos hemos reunidos con los compañeros alineados
 a la causa con el objetivo de trazar líneas de acción, orientadas a poner
 en marcha un plan que nos permita obtener las mejoras laborales que venimos
 reclamando durante los últimos años y que la administración del hotel
 se ha negado sistemáticamente a concedernos. A saber:
 
 \begin{enumerate}
-\item reducción de la jornada laboral de 14 a 9 horas con una hora de descanso;
-\item aumento del salario mínimo de $1.300 a $5.000.
+\item reducción de la jornada laboral de catorse a nueve horas con una hora de descanso;
+\item aumento del salario mínimo de mil trecientos pesos a cinco mil pesos.
 \end{enumerate}
 
 Como la negativa ya fue afirmada y reafirmada, hemos decidido recuperar

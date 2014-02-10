@@ -1,0 +1,91 @@
+ \documentclass[12pt,twoside,openright,##PAPER##paper]{book}
+
+\usepackage[##PAPER##paper]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+
+
+\title{##TITLE##}
+\author{Juanjo Conti}
+\date{}
+
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica, 2014.\\
+
+\vspace{0.5cm}
+
+\noindent
+\emph{##TITLE##} lleva la licencia 
+\emph{Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Unported License}.
+Esto significa que podés compartir esta obra y crear obras derivadas
+mencionando al autor, pero no ha\-cer un uso comercial de ella.
+
+\vfill
+
+\noindent
+Más información sobre este libro:\\
+http://www.juanjoconti.com.ar/cuentos5\\
+
+\noindent
+Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{Santa Furia}\\
+está dedicado a...
+}
+\end{flushright}
+
+\cleardoublepage
+
+\renewcommand*\contentsname{Índice}
+
+\tableofcontents
+
+##CONTENT##
+
+\end{document}

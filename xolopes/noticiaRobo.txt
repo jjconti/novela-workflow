@@ -1,5 +1,5 @@
-El Heraldo de Quintana Roo informa. Ocho detenidos por robo en un hotel
-cinco estrellas.
+El \emph{Heraldo de Quintana Roo} informa: «Ocho detenidos por robo en un hotel
+cinco estrellas».
 
 Tres de los apresados son extranjeros. El robo se produjo el domingo a la
 noche; se llevaron el dinero de una caja de seguridad ubicada en el
@@ -8,7 +8,7 @@ hotel. El botín también incluye joyas de la esposa del dueño.
 Fuentes policiales informaron a este medio que un encargado del hotel fue
 golpeado y maniatado.
 
-Aparentemente la caja fuerte no fue violentada e intentan establecer cómo
+Aparentemente, la caja fuerte no fue violentada e intentan establecer cómo
 los ladrones pudieron abrirla sin el código de seguridad.
 
 Se recuperaron algunas joyas del botín, pero el paradero del grueso del

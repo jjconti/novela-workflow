@@ -1,7 +1,7 @@
 \hyphenation{ce-bo-lla}
 \hyphenation{o-lla}
 \hyphenation{re-fri-ge-ra-dor}
-Tacos al pastor. Receta.
+Tacos al pastor (receta).
 
 Tacos de trozos de lomo de cerdo marinados en una salsa de tres chiles
 con jugos de naranja y piña. Deliciosos en sus tortillas de maíz recién
@@ -9,10 +9,13 @@ hechas, con rebanadas de piña, cilantro y cebolla.
 
 Ingredientes para diez porciones:
 
-\begin{itemize} \item 1 kilo de lomo de cerdo, cortado en filetes delgados.
-\item 3 chiles guajillo, desvenados y despepitados.  \item 2 chiles anchos,
-desvenados y despepitados.  \item 2 chiles chipotle en adobo.  \item 2
-dientes de ajo machacados.
+\begin{itemize} 
+\item 1 kilo de lomo de cerdo, cortado en filetes delgados
+\item 3 chiles guajillo, desvenados y despepitados  
+\item 2 chiles anchos, desvenados y despepitados  
+\item 2 chiles chipotle en adobo  
+\item 2 dientes de ajo machacados
 
 ...
+\end{itemize}
 

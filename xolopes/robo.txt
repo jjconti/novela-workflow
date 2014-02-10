@@ -1,7 +1,7 @@
-Para ayudar a Gaspar a robar la caja fuerte del hotel armé un equipo bien
+Para ayudar a Gaspar a robar la caja fuerte del hotel, armé un equipo bien
 variado de ayudantes.
 
-Sí, por supuesto. Luego de escuchar su propuesta acepté encantado. ¿Que
+Sí, por supuesto. Luego de escuchar su propuesta, acepté encantado. ¿Que
 podía terminar preso? Sí. ¿Que en los documentales las cárceles
 mexicanas son sucias y los policías corruptos? Sí. ¿Que mi familia no
 me lo perdonaría? Sí. ¿Que los compañeros de la oficina pensarían que
@@ -14,9 +14,9 @@ es tener un final que tome toda la paja de relleno y la prenda fuego. Es
 por esto que, luego de escuchar la propuesta de Gaspar, acepté encantado.
 
 El equipo estaba integrado por mí y siete personas más. Gaspar, por supuesto,
-sus dos discípulos, el hacker norteamericano que me enseñó a abrir las
-puertas de las habitaciones del hotel, habilidad sin la cual no podría
-haber escrito muchas de las historias de este libro, el brujo de la isla,
+sus dos discípulos, el \emph{hacker} norteamericano que me enseñó a abrir las
+puertas de las habitaciones del hotel (habilidad sin la cual no podría
+haber escrito muchas de las historias de este libro), el brujo de la isla,
 el instructor de aquaeróbic y una señorita muy bonita que no entendí si
 era rusa o ucraniana.
 

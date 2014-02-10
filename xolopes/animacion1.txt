@@ -1,10 +1,10 @@
-Todas las mañanas a las 9:15 hs los miembros del equipo de animación del
+Todas las mañanas, a las nueve y cuarto, los miembros del equipo de animación del
 hotel se aparecen por el comedor donde se está sirviendo el desayuno, toman
 un plato, lo cargan de fruta y se sientan a desayunar con algunos de los
 huéspedes. Charlan amigablemente en español, inglés, alemán o francés.
 
 Con sus pantaloncitos azules y remeras amarillas van completando los huecos
-del tablero que son las mesas en el salón Estrella de mar.
+del tablero, que son las mesas en el salón \emph{Estrella de mar}.
 
 Una señora que come sola y con quien no se ha sentado nadie en toda la
 semana resopla y se le escucha decir, despechada:

@@ -1,0 +1,19 @@
+\begin{itemize}
+
+\item El post mencionado en 32 es real. Fue escrito por Federico Heinz y la versión original puede leerse en \\ http://federratas.codigolibre.net/?p=9
+
+\item La historia del brujo y las pulseritas me la contó Luis Stroppi padre.
+
+\item No existe una ruta aérea que cubra Buenos Aires, Recife y México. \emph{Pero la ficción no solicita ser creída en tanto que verdad, sino en tanto que ficción.}
+
+\item La historia de Utz-Colel es una leyenda mexicana.
+
+\item La historia del pescador y el empresario es un cuento popular en el cual las nacionalidades de los protagonistas varían en las distintas versiones.
+
+\item Cody Brocious es un \emph{hacker} de \emph{Mozilla Corporation} y presentó su descubrimiento en \emph{Black Hat} 2012.
+
+\item Las noticias presentadas tienen base real pero fueron adulteradas.
+
+\item Ningún chancho fue dañado durante la realización de esta novela.
+
+\end{itemize}
