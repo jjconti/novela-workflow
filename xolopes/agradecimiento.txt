@@ -28,16 +28,18 @@ Bárbara Yunges,
 Luciano Bello,
 Pablo Addante,
 Milton Pividori,
-Nicolás Javier Guimar,
+Nicolás Javier Guimar
 y Manuel Kaufmann.
 
 \item A la asesora literaria y correctora de lujo con quien tuve el gusto de contar 
 para hacer que este trabajo alcance un grado de corrección muy superior al que aspiraba: 
 Lis Gariglio.
 
-\item A ti, lector, por haberme leído. Incluso tal vez hasta compraste éste, un libro invisible, autoeditado.
-Si te gustó, te pido algo más: ayudame a difundirlo. Prestalo o, si sos más moderno,
+\item A vos, lector, por haberme leído.
+Incluso, tal vez hasta compraste este, un libro invisible, autoeditado
+\footnote{Si te gustó, te pido algo más: ayudame a difundirlo. Prestalo o, si sos más moderno,
 sacate una foto con el libro y compartila con la
-dirección de la web del libro\\ (http://www.juanjoconti.com.ar/xolopes).
+dirección su dirección web (http://www.juanjoconti.com.ar/xolopes).
+Por cualquier duda, crítica o comentario no dejés de contactarme a jjconti@gmail.com}.
 
 \end{itemize}

@@ -1,6 +1,6 @@
 \hyphenation{ha-bí-a}
 {\em Hace muchos años, antes de que el hombre blanco llegue a Yucatán,
-en un poblado de nombre olvidado vivían dos mujeres. Una se llamaba Xtabay
+en un poblado de nombre olvidado, vivían dos mujeres. Una se llamaba Xtabay
 y era llamada Xkeban (que significa «prostituta, mujer mala o dada al amor
 ilícito») y la otra se llamaba Utz-Colel, «mujer buena, decente y limpia».
 
@@ -11,5 +11,5 @@ ningún amor carnal, nunca había cometido ningún pecado amoroso.
 Xtabay era de gran corazón. Generosa, siempre estaba ayudando a los
 demás. A los ancianos, a los niños e incluso a los animales que otros
 desechaban. Vendía joyas y finas túnicas que sus enamorados le regalaban
-para poder ayudar a quien la necesitaba. Utz-Colel, por su parte, bajo su
+para poder ayudar a quien lo necesitaba. Utz-Colel, por su parte, bajo su
 apariencia dulce y cándida, era fría, orgullosa y de corazón duro.}
