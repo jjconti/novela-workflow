@@ -1,6 +1,6 @@
 \hyphenation{mon-don-go}
 \hyphenation{pi-ca-di-tas}
----Ahí está el \emph{transfer}. Disculpe, ¿donde pega menos el aire?
+---Ahí está el \emph{transfer}. Disculpe, ¿dónde pega menos el aire?
 
 ---Atrás. ¿Se enfermó?
 

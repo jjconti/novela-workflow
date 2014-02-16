@@ -16,6 +16,5 @@ Ingredientes para diez porciones:
 \item 2 chiles chipotle en adobo  
 \item 2 dientes de ajo machacados
 
-...
 \end{itemize}
 
