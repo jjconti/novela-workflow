@@ -4,7 +4,7 @@
 
 \item Luis Stroppi (padre) me contó la historia del brujo y las pulseritas.
 
-\item No existe una ruta aérea que cubra Buenos Aires, Recife y México. \emph{Pero la ficción no solicita ser creída en tanto que verdad, sino en tanto que ficción\footnote{El concepto de ficción, Juan José Saer.}.}
+\item No existe una ruta aérea que cubra Buenos Aires, Recife y México. \emph{Pero la ficción no solicita ser creída en tanto que verdad, sino en tanto que ficción\footnote{\emph{El concepto de ficción}, Juan José Saer.}.}
 
 \item La historia de Utz-Colel es una leyenda mexicana.
 
