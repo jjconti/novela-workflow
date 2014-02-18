@@ -38,8 +38,7 @@ Lis Gariglio.
 \item A vos, lector, por haberme leído.
 Incluso, tal vez hayas comprado este libro, invisible y autoeditado
 \footnote{Si te gustó, te pido algo más: ayudame a difundirlo. Prestalo o, si sos más moderno,
-sacate una foto con el libro y compartila con la
-dirección su dirección web (http://www.juanjoconti.com.ar/xolopes).
-Ante cualquier duda, crítica o comentario no dejés de contactarme a jjconti@gmail.com}.
+sacate una foto con el libro y compartila con su dirección web (http://www.juanjoconti.com.ar/xolopes).
+Ante cualquier duda, crítica o comentario no dejés de contactarme a jjconti@gmail.com.}.
 
 \end{itemize}

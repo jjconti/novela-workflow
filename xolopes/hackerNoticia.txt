@@ -3,7 +3,7 @@ cinco estrellas hemos utilizado las tarjetas magnéticas que permiten
 abrir y cerrar las puertas de los cuartos y les hemos confiado nuestra
 intimidad. Después de leer el artículo, que salió en la revista \emph{Forbes},
 la paranoia y desconfianza se apoderará de más de un lector viajero. En
-el artículo se cuenta la historia de un \emph{hacker} que puede abrir la puerta
+el artículo, se cuenta la historia de un \emph{hacker} que puede abrir la puerta
 de cada una de las habitaciones de la mayoría de los hoteles en minutos
 y con un equipo que no cuesta más de cincuenta dólares.
 
