@@ -33,7 +33,10 @@ Nicolás Javier Guimar,
 Nacho Yunis,
 Pitu Stroppi,
 Marisú Conti,
-Luis Stroppi, Graciela Campo
+Luis Stroppi, Graciela Campo,
+Norma Grando,
+Emanuel Banchio,
+Nieve Bonafede
 y Manuel Kaufmann.
 }
 \item A la asesora literaria y correctora de lujo con quien tuve el gusto de contar 
