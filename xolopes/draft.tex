@@ -1,6 +1,11 @@
 \documentclass[12pt,twoside,openright,a5paper]{book}
 
-\usepackage[a5paper]{geometry}
+%\usepackage[a5paper, bindingoffset=1cm, inner=2cm, outer=1.5cm]{geometry}
+%\usepackage[a5paper]{geometry}
+\usepackage[a5paper, hmarginratio={3:2}]{geometry}
+%,bindingoffset=1cm
+%inner
+%outer
 
 \usepackage{times}
 \usepackage[Lenny]{fncychap}
@@ -51,9 +56,14 @@
 
 \pagestyle{plain}
 
+%%FOR PRINT
+%\includepdf{empty.pdf}
+%\includepdf{empty.pdf}
+%%%%%%%%%%%
+
 \includepdf{xolopesfirstpage.eps}
 
-\cleardoublepage
+%\cleardoublepage
 
 \thispagestyle{empty}
 \noindent
@@ -84,11 +94,13 @@ mencionando al autor, pero no ha\-cer un uso comercial de ella.
 \vfill
 
 \noindent
-Más información sobre este libro: http://www.juanjoconti.com.ar/xolopes.
+http://www.juanjoconti.com.ar/xolopes
+%Más información sobre este libro: {\small http://www.juanjoconti.com.ar/xolopes}.
 
 \vspace{0.5cm}
 \noindent
-Más libros del autor: http://www.juanjoconti.com.ar/libros.
+http://www.juanjoconti.com.ar/libros
+%Más libros del autor: {\small http://www.juanjoconti.com.ar/libros}.
 
 \cleardoublepage
 
@@ -2170,7 +2182,7 @@ matar al turista. No resultó como se pensaba. Los turistas son egoístas y
 egocéntricos. No les importa lo que pasa a su alrededor. Otras noticias:
 nos hemos puesto en contacto con otros grupos \st{revolucionarios}
 rebeldes que tienen
-cede en otros hoteles. Es satisfactorio ver que no somos los únicos que han
+sede en otros hoteles. Es satisfactorio ver que no somos los únicos que han
 tomado esta iniciativa y pensamos unir fuerzas para lograr nuestro objetivo.
 
 
@@ -2811,7 +2823,7 @@ dulce.
 
 \nopagebreak
 
----Todo este tema de Gaspar Yanga me llevó investigar un poco en
+---Todo este tema de Gaspar Yanga me llevó a investigar un poco en
 la biblioteca municipal. Revisé algunos libros. Lo nuestro no es
 una revolución, es una rebelión. Así que en lugar de
 llamarla bitácora de la revolución, deberíamos llamarla bitácora de la
@@ -3292,7 +3304,7 @@ todos terminamos llenos de harina y se declara un empate técnico.
 al agua, mis amiguitos ---grita el del aquaeróbic y todos hacemos caso y todos
 volvemos convertidos en engrudo.
 
-Nos recibe la vos aflautada del animador.
+Nos recibe la voz aflautada del animador.
 
 ---Ahora sí, amiguitos, la competencia final. Las cinchadas o tira y afloje. No
 sé si lo saben, pero este fue un deporte olímpico entre 1900 y 1920. Vamos a
@@ -3361,4 +3373,11 @@ relaciones entre las distintas partes que componen \emph{Xolopes}.}
 
 \input{agradecimiento.txt}
 
+%%%FOR PRINT
+%\cleardoublepage
+
+%\input{pie.txt}
+
+%\includepdf{empty.pdf}
+%%%%%%%%%%%%
 \end{document}
