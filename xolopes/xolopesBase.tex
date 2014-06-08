@@ -1,6 +1,11 @@
 \documentclass[12pt,twoside,openright,a5paper]{book}
 
-\usepackage[a5paper]{geometry}
+%\usepackage[a5paper, bindingoffset=1cm, inner=2cm, outer=1.5cm]{geometry}
+%\usepackage[a5paper]{geometry}
+\usepackage[a5paper, hmarginratio={3:2}]{geometry}
+%,bindingoffset=1cm
+%inner
+%outer
 
 \usepackage{times}
 \usepackage[Lenny]{fncychap}
@@ -51,9 +56,14 @@
 
 \pagestyle{plain}
 
+%%FOR PRINT
+%\includepdf{empty.pdf}
+%\includepdf{empty.pdf}
+%%%%%%%%%%%
+
 \includepdf{xolopesfirstpage.eps}
 
-\cleardoublepage
+%\cleardoublepage
 
 \thispagestyle{empty}
 \noindent
@@ -84,11 +94,13 @@ mencionando al autor, pero no ha\-cer un uso comercial de ella.
 \vfill
 
 \noindent
-Más información sobre este libro: http://www.juanjoconti.com.ar/xolopes.
+http://www.juanjoconti.com.ar/xolopes
+%Más información sobre este libro: {\small http://www.juanjoconti.com.ar/xolopes}.
 
 \vspace{0.5cm}
 \noindent
-Más libros del autor: http://www.juanjoconti.com.ar/libros.
+http://www.juanjoconti.com.ar/libros
+%Más libros del autor: {\small http://www.juanjoconti.com.ar/libros}.
 
 \cleardoublepage
 
@@ -146,4 +158,11 @@ relaciones entre las distintas partes que componen \emph{Xolopes}.}
 
 \input{agradecimiento.txt}
 
+%%%FOR PRINT
+%\cleardoublepage
+
+%\input{pie.txt}
+
+%\includepdf{empty.pdf}
+%%%%%%%%%%%%
 \end{document}
