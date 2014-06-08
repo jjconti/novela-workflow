@@ -1,0 +1,14 @@
+\begin{center}
+\vspace*{\fill}
+{\tiny
+Se terminó de imprimir en los talleres gráficos de Impresos S.A.\\
+
+Vera 3825 (3000) Santa Fe\\
+
+República Argentina\\
+
+en el mes de marzo de 2014
+
+}
+\vspace*{\fill}
+\end{center}
