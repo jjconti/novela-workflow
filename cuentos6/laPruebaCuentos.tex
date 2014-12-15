@@ -1,0 +1,131 @@
+ \documentclass[12pt,twoside,openright,a5paper]{book}
+
+\usepackage[a5paper, hmarginratio={3:2}]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\usepackage{pdfpages}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+
+
+\title{La prueba del dulce de leche}
+\author{Juanjo Conti}
+\date{}
+
+
+% Evitar viudas y huérfanas
+\widowpenalty=10000
+\clubpenalty=10000
+
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+%\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica, 2014.\\
+
+\vspace{0.5cm}
+
+\noindent
+\emph{La prueba del dulce de leche} lleva la licencia 
+\emph{Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Unported License}.
+Esto significa que podés compartir esta obra y crear obras derivadas
+mencionando al autor, pero no ha\-cer un uso comercial de ella.
+
+\vfill
+
+\noindent
+%Más información sobre este libro:\\
+http://www.juanjoconti.com.ar/la-prueba\\
+
+\noindent
+%Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{La prueba del dulce de leche}\\
+está dedicado a mi amigos Ale y Juan,\\
+protagonistas de este libro.
+}
+\end{flushright}
+
+\cleardoublepage
+
+\renewcommand*\contentsname{Índice}
+
+\tableofcontents
+
+\chapter*{Prólogo}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat velit neque, sed facilisis sapien tincidunt nec. Praesent porttitor enim quis enim tristique, sed hendrerit nisl iaculis. Maecenas interdum, metus ut venenatis pulvinar, erat velit maximus quam, at vehicula urna ex sit amet nisi. Fusce id odio eleifend, blandit mauris non, ullamcorper nunc. Aliquam at facilisis libero. Nam elementum quam elit, non sagittis purus aliquam eu. Donec volutpat maximus porta. Fusce hendrerit urna a tellus sollicitudin, et lacinia eros pulvinar. Donec sed justo in nisl lobortis pharetra non id dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum lobortis faucibus risus vel porta. Aliquam pulvinar, enim nec efficitur facilisis, purus purus feugiat erat, ac sagittis magna nibh quis leo. Fusce a lacus eget dolor molestie finibus.
+
+Nulla non est bibendum, tristique diam nec, sollicitudin sem. Morbi ornare viverra sapien sed eleifend. Etiam semper, augue sit amet auctor malesuada, justo enim tincidunt dui, suscipit.
+
+\input{pinocho.txt}
+
+%\input{carta.txt}
+
+\input{bicicleta.txt}
+
+%\input{garganta.txt}
+
+\input{mosquito.txt}
+
+\input{dentista.txt}
+
+\input{paredon.txt}
+
+\input{notebook.txt}
+
+\input{regalo.txt}
+
+\input{caja.txt}
+
+\input{permanente.txt}
+
+%\input{restaurador.txt}
+
+\input{prueba.txt}
+
+\includepdf{empty.pdf}
+
+\end{document}
