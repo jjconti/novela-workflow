@@ -35,6 +35,13 @@
     \CTV\FmTi{#1}\par\nobreak
     \vskip 10pt}% original: 40pt
 
+\usepackage{etoc}
+\makeatletter
+\@addtoreset{chapter}{part}
+\makeatother
+
+%\let\StandardContentsName\contentsname
+\renewcommand{\partname}{Libro}
 
 \title{Todos los cuentos el cuento}
 \author{Juanjo Conti}
@@ -83,14 +90,18 @@ está dedicado a...
 \cleardoublepage
 
 \renewcommand*\contentsname{Índice}
-
 \tableofcontents
 
+\part{Juegos oníricos}
 \input{25.title} \input{25.txt}
 \input{encuentroDominical.title} \input{encuentroDominical.txt}
 \input{losEternos.title} \input{losEternos.txt}
 \input{fantasmas.title} \input{fantasmas.txt}
 \input{mameluco.title} \input{mameluco.txt}
+\input{asadoReyes.title} \input{asadoReyes.txt}
+\input{hombreYGato.title} \input{hombreYGato.txt}
+
+\part{Animales}
 \input{asadoReyes.title} \input{asadoReyes.txt}
 \input{hombreYGato.title} \input{hombreYGato.txt}
 \input{naranjas.title} \input{naranjas.txt}
@@ -99,11 +110,13 @@ está dedicado a...
 \input{primerRomantico.title} \input{primerRomantico.txt}
 \input{barba.title} \input{barba.txt}
 \input{joel.title} \input{joel.txt}
+\part{Santa Furia}
 \input{queComemosHoy.title} \input{queComemosHoy.txt}
 \input{bermellon.title} \input{bermellon.txt}
 \input{laCaja.title} \input{laCaja.txt}
 \input{santaFuria.title} \input{santaFuria.txt}
 \input{coccion.title} \input{coccion.txt}
+\part{Extras}
 \input{laConvencion.title} \input{laConvencion.txt}
 \input{seDesperto.title} \input{seDesperto.txt}
 \input{dosPalabras.title} \input{dosPalabras.txt}
