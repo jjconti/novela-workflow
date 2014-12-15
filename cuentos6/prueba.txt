@@ -34,7 +34,7 @@ Su voz era como de ultratumba porque venía del baño, escalaba la puerta entrea
 
 Ale, sin dejar de atender al pan con manteca y dulce de leche que estaba preparando, le contestó en forma automática:
 
----Usá el bidet.
+---Usá el \emph{bidet}.
 
 El Chami hizo como que no oía y volvió a pedir:
 
@@ -44,17 +44,17 @@ Entonces, yo, que conocía esa sensación de impotencia, ese estar parado con la
 
 Cuando el Chami volvió a la mesa, había cierto desconcierto en sus ojos. Interrogación.
 
----¿Vos usás bidet, Ale?
+---¿Vos usás \emph{bidet}, Ale?
 
 ---Sí, es lo mejor que hay. Mucho más higiénico que andar limpiándose con un pedazo de papel.
 
----Pero... pero... el bidet... lo usan las minas... ---balbuceó.
+---Pero... pero... el \emph{bidet}... lo usan las minas... ---balbuceó.
 
 ---Yo no soy mina y lo uso ---contestó Ale, serio.
 
 Parecía que la diferencia estaba saldada, pero el Chami seguía incrédulo.
 
-Se planteó entonces ahí, en el medio de la cocina, con las rodajas de pan untadas como mudos testigos, una batalla intelectual. Había dos escuelas. La escuela del papel higiénico y la escuela del bidet. El Chami y Ale empezaron a discutir, dando cada uno sus argumentos. Gritaban, gesticulaban. 
+Se planteó entonces ahí, en el medio de la cocina, con las rodajas de pan untadas como mudos testigos, una batalla intelectual. Había dos escuelas. La escuela del papel higiénico y la escuela del \emph{bidet}. El Chami y Ale empezaron a discutir, dando cada uno sus argumentos. Gritaban, gesticulaban. 
 
 Que el chorro limpia mejor, decía uno. 
 

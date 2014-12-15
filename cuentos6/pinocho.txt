@@ -2,4 +2,4 @@
 
 Soy un niño de madera. Mi papá es un italiano viejo y rezongón que habla con hadas cuando se va de copas. Yo nací de una de esas charlas nocturnas, por lo que podríamos decir que soy mitad hada y mitad humano. Eso sería genial. Podría volar, tendría poderes... Pero no, lo único que tengo es un grillo afeminado que viste como si estuviese en una corte inglesa y que está parado todo el día sobre mi hombro jugando a ser mi conciencia. Trato de no escucharlo. 
 
-Estoy hecho de madera de pino, pino elliotis. Por eso me llaman Pinocho e intento comportarme como un niño normal. A veces, no me sale.
+Estoy hecho de madera de pino, \emph{pino elliotis}. Por eso me llaman Pinocho e intento comportarme como un niño normal. A veces, no me sale.

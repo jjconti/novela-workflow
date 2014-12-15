@@ -48,7 +48,7 @@ Veintitrés.
 
 Veinticuatro.
 
-Yo quería hacer el último gol. Y quería que le hagamos “paredón”. Quería vengarme. No me importaba que el Crema no haya estado el día anterior. Solo quería darle un puntinazo con fuerza a la pelota e incrustársela en la espalda.
+Yo quería hacer el último gol. Y quería que le hagamos “paredón”. Quería vengarme. No me importaba que el Crema no haya estado el día anterior. Solo quería darle un \emph{puntinazo} con fuerza a la pelota e incrustársela en la espalda.
 
 Veinticinco.
 
