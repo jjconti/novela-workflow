@@ -1,0 +1,8 @@
+\chapter*{Los Pico (1)} \addcontentsline{toc}{chapter}{Los Pico (1)}
+\label{ch:pico1}
+
+Vayamos al dicho, enunciado hasta el cansancio en todos los pueblos de la redonda: “Acá no se come puchero, dijo el viejo Pico y pateó la olla. Y había criado a todos los hijos comiendo ocote\footnote{Tripa gorda de la vaca.}”. El dicho tuvo su origen una tardecita de verano cuando Luis Pico, después de tomar más de un porrón en el boliche La Peri, volvió a su casa con falta de verticalidad y, tras arañar varias veces la cerradura, abrió la puerta. María Verga estaba revolviendo una olla de puchero (papas, cebollas, apio y osobuco) y el olor ya se había pegado a las paredes. No se sabe la razón, pero el padre de familia montó en cólera y descargó su ira contra el cacharro que se mantenía caliente a fuego lento. El dicho original reza “...y pateó la olla” (o en su versión coloquial “... y \emph{patió} la olla”), pero esto es difícil de creer ya que un horno estándar tienen una altura de ochenta y cinco centímetros y el viejo Pico, que desde los quince alegaba artrosis para trabajar lo menos posible, hacía varios años que no levantaba las piernas, ni siquiera para cruzar alambrados a robar choclos.
+
+\vspace{10mm}
+
+\emph{Sigue en la página \pageref{ch:pico2}.}

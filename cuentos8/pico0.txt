@@ -1,0 +1,10 @@
+\chapter*{Los Pico (remembranzas de una familia peculiar)} \addcontentsline{toc}{chapter}{Los Pico (0)}
+\label{ch:pico0}
+
+Durante los años 60, vivió en Carlos Pellegrini una familia renombrada por sus peculiaridades. Protagonistas de dichos y anécdotas, la familia Pico estaba conformada por el padre de familia, Luis Pico, su señora, María Verga (quien, desde la catequesis y  por respeto a los Santos Evangelios, decía que se apellidaba Vergia) y seis hijos: tres varones (los mayores) y tres mujeres (las menores).
+
+Aunque “para muestra baste un botón”, en este estudio se analizan tres: un dicho y dos anécdotas.
+
+\vspace{10mm}
+
+\emph{Sigue en la página \pageref{ch:pico1}.}

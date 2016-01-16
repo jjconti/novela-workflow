@@ -1,0 +1,16 @@
+\chapter*{Los Pico (2)} \addcontentsline{toc}{chapter}{Los Pico (2)}
+\label{ch:pico2}
+
+Expuesto este dicho (‘enunciado mediante el cual se expresa una idea con gracia’), pasemos a una anécdota (‘relato breve de un acontecimiento extraño, curioso o divertido’). La que nos ocupa tuvo lugar pocos años después del incidente de la olla, pocas semanas antes de Navidad: un Zabala, el mismo que había reñido con la justicia la Navidad anterior por haber robado un chancho y habérselo vendido a más de un parroquiano a la vez, ahora se encontraba vendiendo una rifa con automotores como premio. El viejo Pico había cobrado  la plata de una changa y estaba “dulce”: cuando el vendedor le mostró las fotos de los Rambler, los Falcon y los Torino que estaban en juego, no dudó en sacar uno de los cuatro billetes que tenía \emph{amarrocados} y comprar un número. Al llegar a la casa, lo enganchó en el marco de un espejo y se sentó en una silla a mirarlo, imaginándose los lugares que visitaría manejando su Torino cero kilómetro. Estaba hipnotizado cuando entraron en la casa los hijos varones: el Chochito, Walter y el Triqui, que solían ayudarlo en las changas. Al enterarse de la compra de su padre, cada uno empezó a reclamar su parte del automóvil.
+
+“Yo lo quiero usar los fines de semana”, dijo uno.
+
+“No, si vos no tenés ni novia, dejamelo a mi para pasear con la Macerlita”, dijo otro.
+
+“Yo lo voy a usar para ir a la cancha cuando  juguemos afuera”, dijo el tercero.
+
+Entonces, al ver la multitud que se le subía al auto nuevo, el viejo Pico explotó en un grito: “Se bajan todos del auto, que ya me lo están rayando”, y empezó a repartir cintazos en el lomo a diestra y siniestra.
+
+\vspace{10mm}
+
+\emph{Sigue en la página \pageref{ch:pico3}.}

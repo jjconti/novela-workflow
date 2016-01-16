@@ -1,0 +1,143 @@
+\chapter*{La maravillosa vida de Henry Dijkstra} \addcontentsline{toc}{chapter}{La maravillosa vida de Henry Dijkstra}
+
+Aproveché el último día hábil de año para hacer algunos trámites y pagar la factura de la luz que se me atrasó. La empresa de energía es leonina: si te  atrasás un mes, por ejemplo, porque  estás de vacaciones, te llega una intimación de pago. No podés pagar ni generar la factura por Internet. Tenés que ir a una oficina especializada en pagos morosos, pedir que te reimpriman la boleta e ir a pagarla a otro lugar. Es 30 de diciembre; si no pago hoy, voy a empezar el año a oscuras.
+
+El centro es un mar de gente. Bodoques de cuerpos transpirados que se mueven en masa del banco a la fotocopiadora, de la fotocopiadora al kiosco que cobra impuestos pero no servicios, del kiosco que cobra impuestos pero no servicios al que cobra servicios pero solo algunos impuestos. Yo aprovecho los lapsos en los que tengo que hacer cola para leer un libro de cuentos de misterio de Asimov que tengo en el celular. Leer es como viajar en el tiempo y el espacio, pero no solo por la historia a la que saltás cada vez que bajás la cabeza, sino porque, en un momento, estás al final de la cola, te concentrás en una parte del relato y al instante, el cajero te está chistando para avisarte que es tu turno. Es la única razón por la que acepto ir a hacer pagos en persona: por el placer de poder leer sin culpa.
+
+Mi penúltima parada es en el Banco Provincia. Necesito sacar plata. La cantidad que tengo que sacar es mayor a la que te pueden dar los cajeros automáticos regulares y menor a la que requeriría la intervención del tesorero, por lo que la operación consiste en entrar al banco, hacer cola en “el cajero que da hasta 20000 pesos” y esperar.
+
+La diferencia entre el afuera y el adentro es celestial. La treintena de grados centígrados, la humedad humana y esa sensación de tedio generalizado desaparecen al traspasar la pesada puerta de madera. Adentro, el aire no solo es fresco, sino que no está viciado. Camino hacia la fila del cajero especial y ocupo el último lugar. Veo que a mi costado hay una señora sentada en una silla a la que alguien, presumiblemente su marido, le hace viento con una revista. Estoy contemplando la escena cuando siento que alguien deposita una mano en mi hombro. Mi sucesor en el lugar es un hombre alto, de más de sesenta y cinco años, bien vestido, pero con ropa que no es de la época, y con la espalda derecha como una vela. Debajo del brazo lleva un libro y una agenda. Se acerca para hablarme casi al oído y yo sorprendido por la confianza, lo escucho.
+
+---Tienen que ponerle las piernas para arriba ---habla sobre la señora y mira para todos lados, como buscando a alguien---. ¿No habrá algún médico acá, che?... Lo que pasa es que no se meten. Los médicos no se meten cuando una situación ocurre en la calle. Se cubren, por el tema de los seguros... Yo sé porque tengo una hija que es doctora. No se si te acordás vos del caso ese del chiquito que casi se muere en Rosario, que la mamá no estaba bien. Iban caminando por el centro de la mano y la mamá, que estaba loca, según dijeron, empezó a apuñalarlo. Tenés que haber visto la noticia... la pasaron en todos lados.
+
+---Mmm, no, la verdad que no.
+
+---Bueno, no importa. Mi hija Laura... mi hija que es doctora, pasaba por ahí, alzó al nene y lo puso arriba del mostrador de un quiosco. Arriba de uno de esos mostradores de vidrio, ¿viste? Le tuvo que hacer un corte en la garganta para que respire, pero le salvó la vida. Eso no lo hace cualquiera, ¿eh? Por miedo a la mala praxis y todo eso. ¿Vos son médico?
+
+---¿Eh? No, yo soy Ingeniero Industrial, de la UTN de acá.
+
+---Ah... bueno, entonces podemos decir que estudiaste gracias a mí. Yo puse esa carrera.
+
+---¿Sí?
+
+---Sí, sí, yo traje el plan de estudios del politécnico de Barcelona. En aquella época, yo estaba en una agrupación de estudiantes. Viajábamos mucho. Una vez, nos fuimos seis meses a Europa, todo pago. Yo viajé por todos lados. Soy de familia holandesa yo. De mis parientes, heredé eso de ser medio pirata. Anduve por todos lados. La madre de mi hija es inglesa. Estuvimos juntos doce años; después, cada uno por su lado. ¿Querés ver una foto de mi hija?
+
+---Bueno...
+
+El hombre abre la agenda y me muestra una especie de hoja impresa, en la cual hay unas ocho fotos, todas de la misma persona, pero tomadas en diferentes años. Abajo de cada foto, está el año correspondiente.
+
+---¿Conocés el sistema de riego por goteo? ---el hombre arremete, no dispuesto a que la conversación termine.
+
+---Sí, por supuesto.
+
+---Bueno, yo ayudé a diseñarlo. Estaba en España, en un seminario, cuando vinieron unos israelitas a la universidad con la idea. El problema fue que la universidad no podía mandar a los españoles por problemas raciales o políticos, o algo así, y como yo estaba ahí, me preguntaron si quería ir. “¡Pero seguro!”, les grité, y estuve dos años trabajando allá. Otra vez, estábamos también en España, pero en otra universidad, cuando nos ofrecieron ir a Inglaterra a levantar la cosecha de duraznos. La paga era un curso de inglés en Oxford. Ahí aprendí a hablar inglés y ahí conocí a la madre de mi hija.
+
+---¿Qué apellido me dijo que tenía usted?
+
+---Dijkstra. Henry Dijkstra es mi nombre.
+
+---¿Así que viajó mucho por su trabajo?
+
+---Muchísimo: España, Inglaterra, Israel, Japón, Francia, Alemania. Di vueltas veinte años antes de volver. Cuando volví, la provincia me contrató para dirigir una obra muy importante, pero duré diez días. La obra salía cien y querían que firme por novecientos. Los mandé a cagar. Así que ahí me puse a dar clases en tu facultad. Después, me ofrecieron ser decano, pero no acepté. Lo mío no es la política. Di clases hasta el 2000; después tuve un pequeño ataque y no pude trabajar más... ¿Vos en qué año ingresaste?
+
+---2002.
+
+---Claro... yo daba Termodinámica. ¿A vos te dió Loretti? Era ayudante mío.
+
+Saco por un instante la atención de ese hombre de palabras apresuradas que me habla como si me conociera de antes y me doy cuenta de que ya recorrimos la mitad de camino al cajero. Su relato, al igual que la lectura, me está haciendo viajar en el tiempo y en el espacio. Pienso en esto y tal vez en alguna idea más y su voz me vuelve a sumergir en la historia.
+
+---Yo, el primer día, me paraba frente al aula y le decía a los alumnos: “La termodinámica es como hacer el amor. Acá somos todos grandes; así que podemos hablar sin problemas, ¿no, señoritas?”. Presión, temperatura, energía: hacía analogías con los conceptos fundamentales y los iba anotando en el pizarrón. No se olvidaban más...
+
+Comenta algunos de sus ejemplos didácticos y me da un poco de vergüenza estar hablando de sexo con un desconocido en el medio del banco. Balbuceo una especie de respuesta y me doy cuenta de que estamos en el principio de la cola.
+
+---¿No me dejarías pasar a mi primero, pibe? Es que ando con el tiempo justo...
+
+Sin esperar mi respuesta, ocupa el lugar frente a la máquina que se acaba de liberar. Apoya el libro sobre el cajero y abre la agenda para buscar, imagino, su clave. Se toma su tiempo para cada operación; la máquina se lo hace saber emitiendo un irritante pitido cada vez que pasan treinta segundos sin que oprima ningún botón. “Pi pi pi pi pi píííííííííííííííí: ¿necesita más tiempo?” “Sí”, oprime Dijkstra. Otros de la cola se empiezan a impacientar y cuando lo ven reintentar más de dos veces en la misma pantalla, uno le grita: “¡Volvé a poner la clave! Leé lo que te dice la pantalla”. Dijkstra se da vuelta  y sonríe como pidiendo disculpas.
+
+Finalmente termina y desaparece a toda velocidad. Yo tomo el lugar que dejó y, luego de ingresar mi tarjeta y mi clave, me doy cuenta de que olvidó el libro sobre el cajero. Amago a correrlo, pero ya no está a la vista. Podría salir del banco, pero perdería mi lugar y tendría que volver a hacer la fila, por lo que decido hacer mi extracción y esperar a que note el olvido y vuelva por su cuenta.
+
+No lo hace. Así que agarro el libro y me lo llevo debajo del brazo. En la puerta del banco, miro para todos lados intentando, sin éxito, encontrarlo. Si antes al pasar del calor de la calle al aire acondicionado del banco había sentido que había ingresado al Cielo, ahora, que el calor de la ciudad me vuelve a pegar de lleno en la cara, siento que mi formulario de ingreso fue rechazado y me están mandando directo al Infierno. Al Infierno de los morosos que no pagan a tiempo la boleta de la luz.
+
+
+\begin{center}
+*
+\end{center}
+
+
+Pasó una semana desde mi encuentro en el banco con ¿Dijkstra? y acabo de terminar de leer el libro que tenía bajo el brazo y olvidó sobre el cajero. No le presté atención hasta bien entrada la tarde de aquel día. Sin dudas, lo primero que me sorprendió fue el título del libro y que en él figurara el nombre de quién había sido mi interlocutor por algunos minutos y metros: \emph{La maravillosa vida de Henry Dijkstra}. La tapa era anaranjada y en el centro tenía la foto de un gran buque. El autor era holandés, como Dijkstra.
+
+Ante el descubrimiento, suspendí los otros libros que estaba leyendo y le dediqué cada minuto libre a ese ladrillo de setecientas páginas. A medida que pasaban los capítulos, la sorpresa era aún mayor: había uno por cada acontecimiento que Dijkstra me contó. Un capítulo en España, uno en Israel, uno en Inglaterra, la docencia, la esposa. Incluso estaba narrado con excesivo detalle el acontecimiento en el que Laura, la hija de Dijkstra, fue concebida bajo un árbol de duraznos en una noche estrellada. En el libro, se llamaba Laurien, aunque no se hacía referencia a su profesión.
+
+Sin embargo, por más sorprendentes que parezcan estos hechos, nada se compara con la lectura del capítulo final. En este, un Dijkstra viejo y desmemoriado, olvida su diario de vida en el banco de una plaza y un escritor desconocido lo encuentra, lo lee y escribe este cuento.
+
+
+\begin{center}
+*
+\end{center}
+
+
+No, mentira, no aparece ningún escritor en la novela.
+
+
+\begin{center}
+*
+\end{center}
+
+
+Antes de cerrar el libro, lo vuelvo a revisar. En la penúltima hoja, una de ese grupito de hojas dejadas en blanco intencionalmente por la imprenta, veo la tinta que años atrás dejó un sello. Se alcanza a leer “Propiedad de H...” y una dirección. La dirección se lee bien. No es lejos; así que camino hasta el lugar. Es una esquina. Una casona blanca en una esquina. Me bajo del auto. En la puerta, hay una placa que dice “Hogar de día Amancay”. Toco el timbre y la puerta se abre sola. Después de un pasillo, hay una especie de mostrador y detrás del mostrador, una especie de enfermera.
+
+---Hola, ¿se encuentra el señor Henry Dijkstra?
+
+---¿Quién?
+
+---Una persona que creo viene por acá.
+
+---No me suena ese apellido. ¿Cómo se escribe?
+
+---D-I-J-K-S-T-R-A
+
+Obviamente, no había nadie con ese nombre. Entonces, intento describirlo.
+
+---Es un hombre alto, debe tener más de sesenta y cinco años, canoso, con barba también canosa, lentes.
+
+La enfermera se sonríe.
+
+---Esas características no son muy distintivas entre las personas que nos visitan.
+
+Se queda mirándome. Entonces se me ocurre.
+
+---¿Tienen una biblioteca?
+
+---Sí, al fondo.
+
+---¿Y tienen fichas para llevar el control de quienes sacan los libros?
+
+---Sí.
+
+
+\begin{center}
+*
+\end{center}
+
+
+Le extiendo la novela a la bibliotecaria y le pregunto si me puede decir quién lo retiró.
+
+---Sí, como no, dame un segundito... mmm... a ver... sí. Ireneo Funes. ¿Sos familiar?
+
+---No, no. ¿Sabés si se encuentra ahora?
+
+---Me parece que se fue hace un rato. Vive varias cuadras al sur, por esta misma calle.
+
+
+\begin{center}
+*
+\end{center}
+
+
+Salgo y camino rápido. No sé por qué. No sé para qué lo busco. ¿Qué quiero decirle? ¿Qué quiero saber? Igual camino rápido, casi trotando. Una cuadra, dos, tres. Y entonces, lo veo. Está parado en la cola de un kiosco, hablando con el que tiene adelante. Sin que me vea, me pongo detrás suyo y escucho lo que está diciendo.
+
+---Tengo un médico amigo, el Dr. Watson, vivimos en un departamento arriba de una panadería...
+
+Me sonrió. No necesito seguir escuchando. Es una sonrisa triste. No puedo dejar de notar, bajo el brazo de Funes, junto a su agenda, un pequeño volumen en rústica. No alcanzo a leer el título completo, pero lo adivino: \emph{Estudio en escarlata}.
+
+Me voy, con mi propio misterio resuelto.

@@ -1,0 +1,3 @@
+\chapter*{Los Pico (3)} \addcontentsline{toc}{chapter}{Los Pico (3)}
+\label{ch:pico3}
+La última anécdota, en realidad no es tal, ya que no se trata de un hecho puntual, sino de un comportamiento regular de Luis Pico. En época de vacas flacas, para ahorrar lo que no se tenía, almorzaba mate de yerba secada al sol, pero, para no sentirse herido en el orgullo, de postre sacaba una pajita de la escoba, se la ponía entre los dientes y se iba a caminando al bar. Cuando hacía su entrada, tomaba la pajita entre los dedos y se escarbaba los dientes, como si tratara sacarse un pedazo de carne para simular un “¡qué rico que estuvo el asado!”.
