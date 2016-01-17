@@ -1,12 +1,44 @@
-\chapter*{La oficina del fin del mundo} \addcontentsline{toc}{chapter}{La oficina del fin del mundo}
+\chapter*{La oficina del fin del mundo} \addcontentsline{toc}{chapter}{La
+oficina del fin del mundo}
 
-El fin del mundo tiene dividida a la comunidad científica desde hace décadas. Están los que dicen que el fin del mundo no será un hecho puntual, sino un proceso largo y complejo y los que dicen que todo desaparecerá de un instante a otro. Los primeros aseguran que todos los escenarios que implican instantaneidad deben descartarse por improbables. Los segundos aseveran que el fin del mundo se producirá por el choque de un meteorito, un ataque extraterrestre o una explosión nuclear. Ya que en el caso de que la razón la tengan los segundos poco se puede hacer, el estado ha decidido invertir sus recursos en las teorías de los primeros. Un decreto definió el fin del mundo como un conjunto de indicadores: variables con sus valores que todos los días son analizados en una oficina sin cartel en la puerta.
+El fin del mundo tiene dividida a la comunidad científica desde hace décadas.
+Están los que dicen que el fin del mundo no será un hecho puntual, sino un
+proceso largo y complejo y los que dicen que todo desaparecerá de un instante a
+otro. Los primeros aseguran que todos los escenarios que implican
+instantaneidad deben descartarse por improbables. Los segundos aseveran que el
+fin del mundo se producirá por el choque de un meteorito, un ataque
+extraterrestre o una explosión nuclear. Ya que en el caso de que la razón la
+tengan los segundos poco se puede hacer, el estado ha decidido invertir sus
+recursos en las teorías de los primeros. Un decreto definió el fin del mundo
+como un conjunto de indicadores: variables con sus valores que todos los días
+son analizados en una oficina sin cartel en la puerta.
 
-Los dos encargados del trabajo recopilan datos por la mañana y realizan sus cálculos por la tarde. Al mediodía, cortan para comer.
+Los dos encargados del trabajo recopilan datos por la mañana y realizan sus
+cálculos por la tarde. Al mediodía, cortan para comer.
 
-Cuando un número significativo de variables traspasan ciertos umbrales tabulados, su responsabilidad es pasar la alerta a sus superiores, sus supervisores de la Subsecretaría de Catástrofes. El Subsecretario de Catástrofes participa mensualmente de una reunión con el resto de los subsecretarios de la Secretaría de Acciones Inmediatas, en la que cotejan las alertas levantadas por las distintas oficinas y elaboran planes conjuntos que vuelvan a poner a los indicadores dentro de rangos aceptables.
+Cuando un número significativo de variables traspasan ciertos umbrales
+tabulados, su responsabilidad es pasar la alerta a sus superiores, sus
+supervisores de la Subsecretaría de Catástrofes. El Subsecretario de
+Catástrofes participa mensualmente de una reunión con el resto de los
+subsecretarios de la Secretaría de Acciones Inmediatas, en la que cotejan las
+alertas levantadas por las distintas oficinas y elaboran planes conjuntos que
+vuelvan a poner a los indicadores dentro de rangos aceptables.
 
-Hace  dos semanas, un alerta de fin de mundo fue levantada desde la oficina: un grupo de indicadores, del cual el índice de afición laboral es el más representativo, pronosticó que la tasa de natalidad mundial tendría una derivada negativa sostenida en el tiempo que causaría, eventualmente, el fin del mundo por desaparición de humanos.
+Hace  dos semanas, un alerta de fin de mundo fue levantada desde la oficina: un
+grupo de indicadores, del cual el índice de afición laboral es el más
+representativo, pronosticó que la tasa de natalidad mundial tendría una
+derivada negativa sostenida en el tiempo que causaría, eventualmente, el fin
+del mundo por desaparición de humanos.
 
-Hoy, en la reunión de la Secretaría de Acciones Inmediatas, se resolvió un curso de operación que, junto con otros efectos también buscados, logrará corregir los indicadores en cuestión. Se sembrarán tormentas en un tramado de puntos estratégicos con el fin de aumentar el mal tiempo: esto producirá lluvias; las lluvias harán que un porcentaje de la población no concurra a trabajar; un porcentaje de este porcentaje coincidirá con su pareja en quedarse en el hogar; las tormentas, el sonido de los truenos y un eventual corte de luz que impedirá ver televisión proporcionarán el ambiente para que se lleven a cabo relaciones íntimas; el número de embarazos que surgirán de esta acción serán suficientes para generar un pico en la curva de natalidad y contrarrestar los efectos de la derivada negativa durante por lo menos un año.
+Hoy, en la reunión de la Secretaría de Acciones Inmediatas, se resolvió un
+curso de operación que, junto con otros efectos también buscados, logrará
+corregir los indicadores en cuestión. Se sembrarán tormentas en un tramado de
+puntos estratégicos con el fin de aumentar el mal tiempo: esto producirá
+lluvias; las lluvias harán que un porcentaje de la población no concurra a
+trabajar; un porcentaje de este porcentaje coincidirá con su pareja en quedarse
+en el hogar; las tormentas, el sonido de los truenos y un eventual corte de luz
+que impedirá ver televisión proporcionarán el ambiente para que se lleven a
+cabo relaciones íntimas; el número de embarazos que surgirán de esta acción
+serán suficientes para generar un pico en la curva de natalidad y contrarrestar
+los efectos de la derivada negativa durante por lo menos un año.
 
