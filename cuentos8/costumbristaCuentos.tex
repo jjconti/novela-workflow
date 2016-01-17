@@ -1,0 +1,127 @@
+\documentclass[12pt,twoside,openright,a5paper]{book}
+
+\usepackage[a5paper, hmarginratio={3:2}]{geometry}
+
+\usepackage{times}
+\usepackage[Lenny]{fncychap}
+%\usepackage[Conny]{fncychap}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\newcommand{\personaje}{Nombre del personaje}
+
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+\usepackage[titles]{tocloft}
+
+\usepackage{pdfpages}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% change the space before the titles
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{\vspace*{0pt}}{}{}
+\makeatother
+
+% change the space after the titles
+\renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+\renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 10pt}% original: 40pt
+
+
+\title{Remembranzas de una familia peculiar}
+\author{Juanjo Conti}
+\date{}
+
+
+% Evitar viudas y huérfanas
+\widowpenalty=10000
+\clubpenalty=10000
+
+\begin{document}
+
+\pagestyle{plain}
+
+\maketitle
+
+%\cleardoublepage
+
+\thispagestyle{empty}
+\noindent
+Edición automágica, 2016.\\
+
+\vspace{0.5cm}
+
+\noindent
+\emph{Remembranzas de una familia peculiar} lleva la licencia
+\emph{Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International}.
+Esto significa que podés compartir esta obra y crear obras derivadas
+mencionando al autor, pero no ha\-cer un uso comercial de ella.
+
+\vfill
+
+\noindent
+%Más información sobre este libro:\\
+http://www.juanjoconti.com.ar/pico\\
+
+\noindent
+%Más libros del autor:\\
+http://www.juanjoconti.com.ar/libros
+
+\cleardoublepage
+
+\noindent
+\begin{flushright}
+\emph{
+\emph{Remembranzas de una familia peculiar}\\
+está dedicado a Adrián, Flavio, Joel y Tristan,\\
+que no solo leyeron estos cuentos segundos después\\
+de que terminé su primer borrador, sino que\\
+proporcionarion datos para varios de ellos.
+}
+\end{flushright}
+
+\cleardoublepage
+
+\renewcommand*\contentsname{Índice}
+
+\tableofcontents
+
+\chapter*{Prólogo}
+
+\input{pico0.txt}
+
+\input{bromista.txt}
+
+\input{lavalle.txt}
+
+\input{pico1.txt}
+
+\input{peluqueria.txt}
+
+\input{explicacion.txt}
+
+\input{pico2.txt}
+
+\input{matecocido.txt}
+
+\input{dieta.txt}
+
+\input{camionero.txt}
+
+\input{pico3.txt}
+
+\input{reyes.txt}
+
+\includepdf{empty.pdf}
+
+\end{document}
