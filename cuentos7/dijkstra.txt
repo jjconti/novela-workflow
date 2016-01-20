@@ -35,9 +35,9 @@ ocupo el último lugar. Veo que a mi costado hay una señora sentada en una sill
 a la que alguien, presumiblemente su marido, le hace viento con una revista.
 Estoy contemplando la escena cuando siento que alguien deposita una mano en mi
 hombro. Mi sucesor en el lugar es un hombre alto, de más de sesenta y cinco
-años, bien vestido, pero con ropa que no es de la época, y con la espalda
+años, bien vestido, pero con ropa que no es de esta época, y con la espalda
 derecha como una vela. Debajo del brazo lleva un libro y una agenda. Se acerca
-para hablarme casi al oído y yo sorprendido por la confianza, lo escucho.
+para hablarme casi al oído y yo, sorprendido por la confianza, lo escucho.
 
 ---Tienen que ponerle las piernas para arriba ---habla sobre la señora y mira
 para todos lados, como buscando a alguien---. ¿No habrá algún médico acá,
@@ -137,7 +137,7 @@ ven reintentar más de dos veces en la misma pantalla, uno le grita: “¡Volvé
 poner la clave! Leé lo que te dice la pantalla”. Dijkstra se da vuelta  y
 sonríe como pidiendo disculpas.
 
-Finalmente termina y desaparece a toda velocidad. Yo tomo el lugar que dejó y,
+Finalmente, termina y desaparece a toda velocidad. Yo tomo el lugar que dejó y,
 luego de ingresar mi tarjeta y mi clave, me doy cuenta de que olvidó el libro
 sobre el cajero. Amago a correrlo, pero ya no está a la vista. Podría salir del
 banco, pero perdería mi lugar y tendría que volver a hacer la fila, por lo que
@@ -255,7 +255,7 @@ que está diciendo.
 ---Tengo un médico amigo, el Dr. Watson, vivimos en un departamento arriba de
 una panadería...
 
-Me sonrió. No necesito seguir escuchando. Es una sonrisa triste. No puedo dejar
+Me sonrío. No necesito seguir escuchando. Es una sonrisa triste. No puedo dejar
 de notar, bajo el brazo de Funes, junto a su agenda, un pequeño volumen en
 rústica. No alcanzo a leer el título completo, pero lo adivino: \emph{Estudio
 en escarlata}.
