@@ -1,7 +1,7 @@
 \chapter*{¿Por qué no cojió esa noche Guido Pividoni?}
 \addcontentsline{toc}{chapter}{¿Por qué no cojió esa noche Guido Pividoni?}
 
-\emph{Conozco a Guid de la primaria, pero hasta esa noche no lo había
+\emph{Conozco a Guido de la primaria, pero hasta esa noche no lo había
 vuelto a ver.}
 
 \vspace{1cm}
@@ -24,16 +24,16 @@ golpeo con la cabeza un canasto de basura que el Demonio colgó de uno de los
 
 Siento el golpe, el repentino ardor. Al no saber qué me golpeó, instintivamente
 llevo mi cuerpo hacia abajo y termino apoyando las palmas de las manos en el
-suelo. Me levanto y me toco la cabeza. Con la yema de dos dedos siento como una
+suelo. Me levanto y me toco la cabeza. Con la yema de dos dedos siento cómo una
 parte de cuero cabelludo se me levantó. Me miro la mano y está llena de sangre.
 Alcanzo a tocar el timbre y el que me abre es uno de los primos pequeños, uno
 de doce años. Me mira y después se da vuelta: “¡¡¡El tío Juanjo tiene sangre en
 la cara!!!” Siento que me pongo pálido. Me acompañan hasta el baño y cuando me
 veo al espejo tengo media barba de pintura roja. Un par de manos acompaña la
-herida hasta abajo del chorro de la canilla y desde mi perspectiva, veo como un
+herida hasta abajo del chorro de la canilla y desde mi perspectiva, veo cómo un
 litro de agua colorada se va al desagüe. “Tenemos que ir a una guardia”, dice
 alguien y cuando me doy cuenta, estoy sentado en un auto camino al hospital más
-cercano. Presiono una toalla oscura contra la herida y siento como la patilla
+cercano. Presiono una toalla oscura contra la herida y siento cómo la patilla
 se me pone dura de sangre seca.
 
 En la guardia me preguntan mi obra social. Me siento a esperar. Cuando ambos
@@ -43,7 +43,7 @@ un gestito de dolor. “Te hiciste un siete; vamos a tener que ponerte unos
 puntos”. Me acuesto y me ponen anestesia local: “Esto puede arder”, me
 advierte. Luego, solo siento las sombras de los movimientos de la doctora.
 Siento la fuerza que hace para que la aguja atraviese mi cuero cabelludo, pero
-no el dolor del pinchazo.  Siento como tira del hilo para ajustarlo, pero es
+no el dolor del pinchazo.  Siento cómo tira del hilo para ajustarlo, pero es
 tan vaga la sensación que ni siquiera llego a contar cuántos son los puntos.
 “Acá podría hacerle un punto más”, dice la doctora. Y le pide un bisturí a la
 enfermera. Con ayuda del filo, me corta un poco de pelo y completa el que dice
@@ -58,7 +58,7 @@ peludo?”.
 
 Salgo rengueando y vuelvo al auto. Ahora vamos a la farmacia a comprar los
 antibióticos, el material para higienizar la herida y la antitetánica para
-reponer la que usaron conmigo. Vamos a una de esas abiertas veinticuatro horas. Hay dos
+reponer la que usaron conmigo. Vamos a una de esas abiertas las veinticuatro horas. Hay dos
 personas haciendo cola, un viejo y una chica joven. Veo que alguien más quiere
 sumarse, así que acelero el paso y ocupo el tercer lugar. El que queda cuarto
 parece tener mi edad.
@@ -67,8 +67,8 @@ Llega mi turno y entrego la orden. El farmacéutico la mira: “Mmm, no che, una
 letra del nombre de la obra social está tachada, fijate, era una F y arriba le
 hicieron una D. Vas a tener que volver a que te corrijan la orden”. “¿De
 verdad?”, le digo con la mejor cara de poco amigo que puedo lograr e inclinando
-levemente la cabeza hacia delante para que me vea los vendajes. “Dale loco...
-¡es un centímetro de tinta!, ¿no podés darmelos igual?”. Que sí, que no,
+levemente la cabeza hacia delante para que me vea los vendajes. “Dale, loco...
+¡es un centímetro de tinta!, ¿no podés darmelos igual?” Que sí, que no,
 retórica va, retórica viene. Le digo que los dos somos piezas muy chiquitas en
 un sistema que solo busca exprimirnos el jugo, que si no nos ayudamos entre
 tuerquitas, no nos ayuda nadie. Lo convenzo. O al menos yo creo haberlo
@@ -84,7 +84,7 @@ termina de hablar. Sabe que después de lo de la obra social mal escrita, esto
 es un detalle. Se acerca con la orden y un teléfono: “Acá está el número, llamá
 y preguntá”. Yo me atrinchero cerca del cuadradito del blindex para evitar que
 alguien ocupe mi lugar y llamo rápido, pido con la doctora y obtengo la
-confirmación. “Si, dice que 500”. Podría haber llamado al 110 y habría sido lo
+confirmación. “Sí, dice que 500”. Podría haber llamado al 110 y habría sido lo
 mismo.
 
 El farmacéutico me entrega una bolsita con todo y le pago, pero antes de dejar
@@ -95,7 +95,7 @@ vendió, sobre todo los antibióticos. “Hay una diferencia de cuatro pesos”,
 grita. “Bueno, dame unos caramelos de miel”, le contesto. Se queda mirándome.
 “No, vos me tenés que pagar cuatro pesos más”. “Ah... bueno, dale, sí, sí, no
 hay problema”. A esa altura ya somos casi compinches con el farmacéutico. Miro
-el reloj; ya pasó una hora desde que le entregue la orden. Me da el frasquito:
+el reloj; ya pasó una hora desde que le entregué la orden. Me da el frasquito:
 iodopovidona. Povidona, povidona...
 
 ¡Ahhh!, ya se de dónde me sonaba esa cara. Me doy vuelta. El que sigue en la
