@@ -5,7 +5,7 @@ En el fondo del bar, el patrón se distraía repasando un vaso. Desde allí mira
 a la calle y a los dos clientes que bebían cerveza con los ojos fijos en el
 campo. De pronto, una camioneta frenó bruscamente. Un hombre se bajó con apuro.
 Dejó la camioneta en marcha y con la puerta abierta. Se asomó al bar y, desde la
-entrada, dijo: “¡Necesito un baño urgente!”
+entrada, dijo: “¡Necesito un baño urgente!”.
 
 Sin esperar a que le respondan, encaró para el lado de las mesitas del fondo
 como toro que confundieron con vaca el día que tocaba inseminación artificial
@@ -32,7 +32,7 @@ combustión interna. No meamos; evacuamos efluentes”. Esas máximas patriarcal
 que se transmitían de generación en generación, estaban grabadas a fuego en el
 carácter de Julio Lavalle Menéndez y nunca, ni siquiera en los años de su débil
 infancia, se permitía faltas de decoro. Cuando los demás compañeros estaban
-jugando a la pelota y hacían un impasse para mear en un árbol, Julito corría
+jugando a la pelota y hacían un \emph{impasse} para mear en un árbol, Julito corría
 hasta su casa a evacuar sus efluentes en lo que, a sus ojos de infante, era una
 vasija de porcelana. Siempre volvía cuando el segundo tiempo ya había empezado.
 
