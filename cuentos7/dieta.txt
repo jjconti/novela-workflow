@@ -1,5 +1,7 @@
 \chapter*{La dieta} \addcontentsline{toc}{chapter}{La dieta}
 
+\begin{flushright} {\small \emph{Para M.C.}} \end{flushright}
+
 ---Ayer fui a lo de la nutricionista ---dice Remigio, medio cabizbajo y con
 semblante triste---. Me recagó a pedo. Me dijo que no podía ser que haya subido
 siete kilos en el último mes.
